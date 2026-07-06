@@ -1,0 +1,1968 @@
+# Naming Standardization Report
+
+Total items: 2235
+Changed: 1956
+Unchanged: 279
+
+## Before -> After (all changed entries)
+
+- `Aceclofenac 100mg Tab 100s (ACF) Ambica` -> `Aceclofenac 100mg Tablet 100s ((ACF) AMBICA)`
+- `Acetylcysteine 200 mg Powder for Oral Solution 30's FLUCYSTEINE` -> `Acetylcysteine 200 mg Powder for Oral Solution 30s (FLUCYSTEINE)`
+- `Acetylcysteine 200Mg Granules 10S (Ambica)` -> `Acetylcysteine 200mg Granules 10s (AMBICA)`
+- `Acetylcysteine 600 mg Powder for Oral Solution 10's DIACYSTEINE 600` -> `Acetylcysteine 600 mg Powder for Oral Solution 10s (DIACYSTEINE 600)`
+- `Acetylcysteine 600Mg Powder 10S (Acetylstat)` -> `Acetylcysteine 600mg Powder 10s (ACETYLSTAT)`
+- `Acetylcysteine 600Mg Powder 10S (Flucysteine)` -> `Acetylcysteine 600mg Powder 10s (FLUCYSTEINE)`
+- `Acetylcysteine 600mg Pwdr for Oral Sol'n 10s (Cysaphteine-600)` -> `Acetylcysteine 600mg Pwdr for Oral Sol'n 10s (CYSAPHTEINE-600)`
+- `Acetylcysteine 600mg Tab 20s (Acteinsaph)` -> `Acetylcysteine 600mg Tablet 20s (ACTEINSAPH)`
+- `Acetylcysteine 600mg Tab 20s (Fluzetrin)` -> `Acetylcysteine 600mg Tablet 20s (FLUZETRIN)`
+- `Acetylcysteine 600mg Tab 20s (MUCORIGHT-600)` -> `Acetylcysteine 600mg Tablet 20s (MUCORIGHT-600)`
+- `Acetylcysteine200MgPwdrOral Sol 10S (Flucysteine)` -> `Acetylcysteine200MgPwdrOral Sol 10s (FLUCYSTEINE)`
+- `Acetylcysteine200MgPwdrOral Sol 10S (Gocetyl-200)` -> `Acetylcysteine200MgPwdrOral Sol 10s (GOCETYL-200)`
+- `ACICLOVIR 200 mg CAPSULE 100's (APL/Generics)` -> `ACICLOVIR 200 mg Capsule 100s (APL/GENERICS)`
+- `Aciclovir 200 mg Tablet 100's  XYCLOVIRAX` -> `Aciclovir 200 mg Tablet 100s (XYCLOVIRAX)`
+- `ACICLOVIR 400 mg CAPSULE 100's (ZYCLOVIR)` -> `ACICLOVIR 400 mg Capsule 100s (ZYCLOVIR)`
+- `Aciclovir 400 mg Tablet 30's XYCLOVIRAX` -> `Aciclovir 400 mg Tablet 30s (XYCLOVIRAX)`
+- `Aciclovir 50Mg 5G Cream Aciherpin(Ambica)` -> `Aciclovir 50mg 5G Cream Aciherpin (AMBICA)`
+- `Aciclovir 800 mg Tablet 20's (XYCLOVIRAX FORTE)` -> `Aciclovir 800 mg Tablet 20s (XYCLOVIRAX FORTE)`
+- `Allopurinol 100 mg Tablet 100's ALLUPREX` -> `Allopurinol 100 mg Tablet 100s (ALLUPREX)`
+- `Allopurinol 100 mg Tablet 100's URISOL` -> `Allopurinol 100 mg Tablet 100s (URISOL)`
+- `Allopurinol 300 mg Tablet 100's ALLUPREX` -> `Allopurinol 300 mg Tablet 100s (ALLUPREX)`
+- `Allopurinol 300Mg Tab 100S (Elavil)` -> `Allopurinol 300mg Tablet 100s (ELAVIL)`
+- `Allopurinol 300mg tab 100s (Generic-Drugmakers)` -> `Allopurinol 300mg Tablet 100s (GENERIC-DRUGMAKERS)`
+- `Allopurinol 300mg Tab 100s (Goutrol)` -> `Allopurinol 300mg Tablet 100s (GOUTROL)`
+- `Alum Mag 225/200mg/5ml Susp 60ml (Gastrocin)` -> `Alum Mag 225/200mg/5ml Suspension 60ml (GASTROCIN)`
+- `Alum Mag Hydro 200Mg-100Mg Susp 120mL (Medalem)` -> `Alum Mag Hydro 200mg-100mg Suspension 120ml (MEDALEM)`
+- `Alum Mag Hydro 200Mg-100Mg Susp 60Ml (Medalem)` -> `Alum Mag Hydro 200mg-100mg Suspension 60ml (MEDALEM)`
+- `Alum. Mag. 200/100mg Hydroxide Tablet 100's (GEL-MALICID)` -> `Alum. Mag. 200/100mg Hydroxide Tablet 100s (GEL-MALICID)`
+- `Alum. Mag. 200/100mg Hydroxide Tablet 100's CALMSAPH` -> `Alum. Mag. 200/100mg Hydroxide Tablet 100s (CALMSAPH)`
+- `Alum. Mag. 200/100mg Hydroxide Tablet 100's MYRECID` -> `Alum. Mag. 200/100mg Hydroxide Tablet 100s (MYRECID)`
+- `Alum. Mag.200/100 mg Hydroxide Susp. 120 mL MELMAG` -> `Alum. Mag.200/100 mg Hydroxide Suspension. 120 ml (MELMAG)`
+- `Alum. Mag.200/100 mg Hydroxide Susp. 60 mL MELMAG` -> `Alum. Mag.200/100 mg Hydroxide Suspension. 60 ml (MELMAG)`
+- `Aluminum Magnesium 200Mg-100 Tab* Medalem` -> `Aluminum Magnesium 200mg-100mg Tablet (MEDALEM)`
+- `Amboxol 30mg/5mL Syr 60mL (Mucolax)` -> `Amboxol 30mg/5ml Syrup 60ml (MUCOLAX)`
+- `Ambroxol 15 mg Syrup 60 mL COUXIN` -> `Ambroxol 15 mg Syrup 60 ml (COUXIN)`
+- `Ambroxol 15Mg Syr 60Ml (Broxolvan)` -> `Ambroxol 15mg Syrup 60ml (BROXOLVAN)`
+- `Ambroxol 15Mg Syr 60Ml (Mucosaph)` -> `Ambroxol 15mg Syrup 60ml (MUCOSAPH)`
+- `Ambroxol 30 mg Syrup 60 mL COUXIN` -> `Ambroxol 30 mg Syrup 60 ml (COUXIN)`
+- `Ambroxol 30Mg Tab 100S (Ambroflam)` -> `Ambroxol 30mg Tablet 100s (AMBROFLAM)`
+- `Ambroxol 30Mg Tab 100S (BRONCHO-S)` -> `Ambroxol 30mg Tablet 100s (BRONCHO-S)`
+- `Ambroxol 30Mg Tab 100S (Couxin)` -> `Ambroxol 30mg Tablet 100s (COUXIN)`
+- `Ambroxol 30mg Tab 100s (MUCOLAX)` -> `Ambroxol 30mg Tablet 100s (MUCOLAX)`
+- `Ambroxol 30Mg Tab 100S (Saphroxol)` -> `Ambroxol 30mg Tablet 100s (SAPHROXOL)`
+- `Ambroxol 30mg/5ml 60ml (Mucosaph-30)` -> `Ambroxol 30mg/5ml 60ml (MUCOSAPH-30)`
+- `Ambroxol 75 mg Capsule 100's SAPHROXOL C75` -> `Ambroxol 75 mg Capsule 100s (SAPHROXOL C75)`
+- `Ambroxol 75Mg Cap 100S (Nelpa)` -> `Ambroxol 75mg Capsule 100s (NELPA)`
+- `Ambroxol Drops 15Ml (Lycobrox)` -> `Ambroxol Drops 15ml (LYCOBROX)`
+- `Ambroxol HCI 15mg/5mL Syr 60mL (Bromux)` -> `Ambroxol HCI 15mg/5ml Syrup 60ml (BROMUX)`
+- `Ambroxol Hci 30Mg Syr 60Ml (Bromux)` -> `Ambroxol Hci 30mg Syrup 60ml (BROMUX)`
+- `Ambroxol HCI 30mg Tab 100s (BROCHO-S)` -> `Ambroxol HCI 30mg Tablet 100s (BROCHO-S)`
+- `Ambroxol Hci 6Mg Drops 15Ml (Couxin)` -> `Ambroxol Hci 6mg Drops 15ml (COUXIN)`
+- `Ambroxol Hci 6Mg Drops 15Ml (Mucosaph-OD)` -> `Ambroxol Hci 6mg Drops 15ml (MUCOSAPH-OD)`
+- `Ambroxol Hci 6Mg Syr 15Ml Drops (Ambrolem)` -> `Ambroxol Hci 6mg Syrup 15ml Drops (AMBROLEM)`
+- `Ambroxol HCl 6mg/ml Drops 15mL (Bromux)` -> `Ambroxol HCl 6mg/ml Drops 15ml (BROMUX)`
+- `AMBROXOL HYDROCHLORIDE 15 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `AMBROXOL HYDROCHLORIDE 15 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `AMBROXOL HYDROCHLORIDE 30 mg Tablet 100's (ZOVIXOL)` -> `AMBROXOL HYDROCHLORIDE 30 mg Tablet 100s (ZOVIXOL)`
+- `AMBROXOL HYDROCHLORIDE 30 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `AMBROXOL HYDROCHLORIDE 30 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `AMBROXOL HYDROCHLORIDE 6 mg/ mL (ORAL DROPS) SYRUP 15mL (APL/Generics)` -> `AMBROXOL HYDROCHLORIDE 6 mg/ mL (ORAL DROPS) Syrup 15ml (APL/GENERICS)`
+- `Amikacin  125 mg/mL (250 mg/2ml) Vial 1's AMKALON` -> `Amikacin 125 mg/mL (250 mg/2ml) Vial 1s (AMKALON)`
+- `Amikacin 250 mg/mL (500 mg/2ml)  Vial 1's CINMIK` -> `Amikacin 250 mg/mL (500 mg/2ml) Vial 1s (CINMIK)`
+- `Amiodarone 200mg Tab 90S (Triodone)` -> `Amiodarone 200mg Tablet 90s (TRIODONE)`
+- `Amlodipine  5 mg + Losartan  50 mg Tablet 100's DIASARPINE` -> `Amlodipine 5 mg + Losartan 50 mg Tablet 100s (DIASARPINE)`
+- `Amlodipine  5 mg + Losartan  50 mg Tablet 30's INOZAR` -> `Amlodipine 5 mg + Losartan 50 mg Tablet 30s (INOZAR)`
+- `Amlodipine  5 mg + Losartan  50 mg Tablet 30's VASOTWIN` -> `Amlodipine 5 mg + Losartan 50 mg Tablet 30s (VASOTWIN)`
+- `Amlodipine 10Mg Tab 100S (AMLOTHIX)` -> `Amlodipine 10mg Tablet 100s (AMLOTHIX)`
+- `Amlodipine 10mg Tab 100s (GENVASC-10)` -> `Amlodipine 10mg Tablet 100s (GENVASC-10)`
+- `Amlodipine 10Mg Tab 100S (Norvatrol)` -> `Amlodipine 10mg Tablet 100s (NORVATROL)`
+- `Amlodipine 10mg Tab 100s (PHILVASC)` -> `Amlodipine 10mg Tablet 100s (PHILVASC)`
+- `Amlodipine 10mg Tab 98s (SWAMLO-10)` -> `Amlodipine 10mg Tablet 98s (SWAMLO-10)`
+- `AMLODIPINE 10MG TABLET 100's (Lodipex)` -> `AMLODIPINE 10mg Tablet 100s (LODIPEX)`
+- `Amlodipine 5 mg + Losartan 50 mg Tablet 100's SAPHLODINE` -> `Amlodipine 5 mg + Losartan 50 mg Tablet 100s (SAPHLODINE)`
+- `Amlodipine 5Mg Tab 100S (AMLOTHIX)` -> `Amlodipine 5mg Tablet 100s (AMLOTHIX)`
+- `Amlodipine 5Mg Tab 100S (Norvatrol)` -> `Amlodipine 5mg Tablet 100s (NORVATROL)`
+- `Amlodipine 5mg Tab 100s (PHILVASC)` -> `Amlodipine 5mg Tablet 100s (PHILVASC)`
+- `Amlodipine 5mg Tab 98s (SWAMLO 5)` -> `Amlodipine 5mg Tablet 98s (SWAMLO 5)`
+- `AMLODIPINE 5MG TABLET 100's (Lodipex)` -> `AMLODIPINE 5mg Tablet 100s (LODIPEX)`
+- `Amlodipine Besilate 10mg Tab 100s (AMLOSAPH-10)` -> `Amlodipine Besilate 10mg Tablet 100s (AMLOSAPH-10)`
+- `Amlodipine besilate 10mg Tab 100s (Regivasc)` -> `Amlodipine besilate 10mg Tablet 100s (REGIVASC)`
+- `Amlodipine Besilate 5 mg Tablet 100's  JOHNVASC` -> `Amlodipine Besilate 5 mg Tablet 100s (JOHNVASC)`
+- `Amlodipine Besilate 5mg Tab 100S (Regivasc)` -> `Amlodipine Besilate 5mg Tablet 100s (REGIVASC)`
+- `Amoxicillin 100 mg Drops 10 mL AXMEL` -> `Amoxicillin 100 mg Drops 10 ml (AXMEL)`
+- `Amoxicillin 100 mg Drops 10 mL MOXYLOR` -> `Amoxicillin 100 mg Drops 10 ml (MOXYLOR)`
+- `Amoxicillin 100mg/ml Drops 10mL (EPPITREXIL)` -> `Amoxicillin 100mg/ml Drops 10ml (EPPITREXIL)`
+- `Amoxicillin 125 mg Suspension 60 mL AXMEL` -> `Amoxicillin 125 mg Suspension 60 ml (AXMEL)`
+- `Amoxicillin 125Mg Susp (Tolmann)` -> `Amoxicillin 125mg Suspension (TOLMANN)`
+- `Amoxicillin 125Mg Susp (Varolox)` -> `Amoxicillin 125mg Suspension (VAROLOX)`
+- `Amoxicillin 125Mg Susp 60Ml (Moxylor)` -> `Amoxicillin 125mg Suspension 60ml (MOXYLOR)`
+- `Amoxicillin 250 mg Capsule 100's AXIOMACE` -> `Amoxicillin 250 mg Capsule 100s (AXIOMACE)`
+- `Amoxicillin 250 mg Capsule 100's AXMEL` -> `Amoxicillin 250 mg Capsule 100s (AXMEL)`
+- `Amoxicillin 250 mg Capsule 100's MOXYLOR` -> `Amoxicillin 250 mg Capsule 100s (MOXYLOR)`
+- `Amoxicillin 250 mg Suspension 60 mL (EPPITREXIL)` -> `Amoxicillin 250 mg Suspension 60 ml (EPPITREXIL)`
+- `Amoxicillin 250 mg Suspension 60 mL AXMEL` -> `Amoxicillin 250 mg Suspension 60 ml (AXMEL)`
+- `Amoxicillin 250 mg Suspension 60 mL MOXYLOR` -> `Amoxicillin 250 mg Suspension 60 ml (MOXYLOR)`
+- `Amoxicillin 250Mg Susp (Varolox)` -> `Amoxicillin 250mg Suspension (VAROLOX)`
+- `Amoxicillin 500 mg Capsule 100's (EPPITREXIL)` -> `Amoxicillin 500 mg Capsule 100s (EPPITREXIL)`
+- `Amoxicillin 500 mg Capsule 100's AXMEL` -> `Amoxicillin 500 mg Capsule 100s (AXMEL)`
+- `Amoxicillin 500 mg Capsule 100's BETAMOX` -> `Amoxicillin 500 mg Capsule 100s (BETAMOX)`
+- `Amoxicillin 500Mg Cap 100S (Ambimox)` -> `Amoxicillin 500mg Capsule 100s (AMBIMOX)`
+- `Amoxicillin 500Mg Cap 100S (Droxyl)` -> `Amoxicillin 500mg Capsule 100s (DROXYL)`
+- `Ampalaya 500 mg Capsule 100's (BETTER AMPALAYA)` -> `Ampalaya 500 mg Capsule 100s (BETTER AMPALAYA)`
+- `Ampalaya 500mg Cap 30s (AMPLAS)` -> `Ampalaya 500mg Capsule 30s (AMPLAS)`
+- `AMPICILLIN + SULBACTAM 500MG/250MG PWDR FOR INJ. (DUOBACLIN) 1's` -> `AMPICILLIN + SULBACTAM 500mg/250mg PWDR FOR INJ. 1s (DUOBACLIN)`
+- `Ampicillin 500 mg Vial 1's AMBILIN` -> `Ampicillin 500 mg Vial 1s (AMBILIN)`
+- `Ampicillin Sodium 1 g Vial 1's AMPI 1` -> `Ampicillin Sodium 1 g Vial 1s (AMPI 1)`
+- `Ampicillin Sodium 250 mg Vial 1's LIFERZIN` -> `Ampicillin Sodium 250 mg Vial 1s (LIFERZIN)`
+- `Ampicillin Sodium 500 mg + Sulbactam  250 mg  Vial 1's  AMSUMED` -> `Ampicillin Sodium 500 mg + Sulbactam 250 mg Vial 1s (AMSUMED)`
+- `Antacid 200Mg Tab 100S (Shelogel)` -> `Antacid 200mg Tablet 100s (SHELOGEL)`
+- `Antacid 200Mg Tab 100S (Zilgam)` -> `Antacid 200mg Tablet 100s (ZILGAM)`
+- `Ascorbic + Zinc 120Ml (Vitcee Plus)` -> `Ascorbic + Zinc 120ml (VITCEE PLUS)`
+- `Ascorbic + Zinc 60Ml (Vitcee Plus)` -> `Ascorbic + Zinc 60ml (VITCEE PLUS)`
+- `ASCORBIC 100 MG TABLET CHEWABLE KIDS 100's (BETTER-C FOR KIDS)` -> `ASCORBIC 100 mg Tablet CHEWABLE KIDS 100s (BETTER-C FOR KIDS)`
+- `Ascorbic 100Mg Chewable Tab 100S (Xasorvic)` -> `Ascorbic 100mg Chewable Tablet 100s (XASORVIC)`
+- `Ascorbic 100Mg Syr 60Ml (MYREVIT C)` -> `Ascorbic 100mg Syrup 60ml (MYREVIT C)`
+- `Ascorbic 100Mg Syr 60Ml (Novacee)` -> `Ascorbic 100mg Syrup 60ml (NOVACEE)`
+- `ASCORBIC 250 MG TABLET CHEWABLE  FOR TEENS 100's (APL/Generics)` -> `ASCORBIC 250 mg Tablet CHEWABLE FOR TEENS 100s (APL/GENERICS)`
+- `Ascorbic 500Mg Tab 100S (Ascophil)` -> `Ascorbic 500mg Tablet 100s (ASCOPHIL)`
+- `Ascorbic Acid  100 mg Syrup 120 mL (SAPHCORBIC-100)` -> `Ascorbic Acid 100 mg Syrup 120 ml (SAPHCORBIC-100)`
+- `Ascorbic Acid  100 mg Syrup 120 mL RAPH C` -> `Ascorbic Acid 100 mg Syrup 120 ml (RAPH C)`
+- `Ascorbic Acid  100 mg Syrup 250 mL HARCEE` -> `Ascorbic Acid 100 mg Syrup 250 ml (HARCEE)`
+- `ASCORBIC ACID + ZINC 100mg/10mg per 5mL SYRUP 120mL (BETTER-C)` -> `ASCORBIC ACID + ZINC 100mg/10mg per 5ml Syrup 120ml (BETTER-C)`
+- `ASCORBIC ACID + ZINC 100mg/10mg per 5mL SYRUP 250mL (APCEE PLUS)` -> `ASCORBIC ACID + ZINC 100mg/10mg per 5ml Syrup 250ml (APCEE PLUS)`
+- `ASCORBIC ACID + ZINC 100mg/10mg per 5mL SYRUP 60ML (APL/Generics)` -> `ASCORBIC ACID + ZINC 100mg/10mg per 5ml Syrup 60ml (APL/GENERICS)`
+- `ASCORBIC ACID + ZINC 100mg/10mg per mL SYRUP (Oral Drops) 15mL (APL/Generics)` -> `ASCORBIC ACID + ZINC 100mg/10mg per mL Syrup (Oral Drops) 15ml (APL/GENERICS)`
+- `Ascorbic Acid + Zinc 500mg/40mg Cap 100s (ENOZNC)` -> `Ascorbic Acid + Zinc 500mg/40mg Capsule 100s (ENOZNC)`
+- `Ascorbic Acid + Zinc Drops 30mL (KIDIMEED C PLUS)` -> `Ascorbic Acid + Zinc Drops 30ml (KIDIMEED C PLUS)`
+- `Ascorbic Acid + Zinc Syr 120mL (KIDIMEED C PLUS)` -> `Ascorbic Acid + Zinc Syrup 120ml (KIDIMEED C PLUS)`
+- `Ascorbic Acid + Zinc Syr 60mL (KIDIMEED C PLUS)` -> `Ascorbic Acid + Zinc Syrup 60ml (KIDIMEED C PLUS)`
+- `Ascorbic Acid 100 mg  Syrup 60 mL RAPH C` -> `Ascorbic Acid 100 mg Syrup 60 ml (RAPH C)`
+- `Ascorbic Acid 100 mg Drops 15 mL MYREVIT C` -> `Ascorbic Acid 100 mg Drops 15 ml (MYREVIT C)`
+- `Ascorbic Acid 100 mg+ Zinc 10 mg Syr 120 Ml SAPHCEEVIT-100` -> `Ascorbic Acid 100 mg+ Zinc 10 mg Syrup 120 ml (SAPHCEEVIT-100)`
+- `Ascorbic Acid + Zinc 120mL (MARLUM-C PLUS)` -> `Ascorbic Acid + Zinc 120ml (MARLUM-C PLUS)`
+- `Ascorbic Acid + Zinc 250mL (MARLUM-C PLUS)` -> `Ascorbic Acid + Zinc 250ml (MARLUM-C PLUS)`
+- `Ascorbic Acid + Zinc 60mL (MARLUM-C PLUS)` -> `Ascorbic Acid + Zinc 60ml (MARLUM-C PLUS)`
+- `Ascorbic Acid 100mg + Zinc 10mg Syr 60mL (Saphceevit-100)` -> `Ascorbic Acid 100mg + Zinc 10mg Syrup 60ml (SAPHCEEVIT-100)`
+- `Ascorbic Acid 100Mg- 120Ml Syr (Myrevit C)` -> `Ascorbic Acid 100mg- 120ml Syrup (MYREVIT C)`
+- `Ascorbic Acid 100Mg Drops 15Ml (Novacee)` -> `Ascorbic Acid 100mg Drops 15ml (NOVACEE)`
+- `Ascorbic Acid 100mg Tab 100s (Enocee for Kids)` -> `Ascorbic Acid 100mg Tablet 100s (ENOCEE FOR KIDS)`
+- `Ascorbic Acid 100mg/5mL 60mL (Saphcorbic-100)` -> `Ascorbic Acid 100mg/5ml 60ml (SAPHCORBIC-100)`
+- `Ascorbic Acid 100mg/5mL Syr 60mL (REGICEE)` -> `Ascorbic Acid 100mg/5ml Syrup 60ml (REGICEE)`
+- `Ascorbic Acid 100mg/mL Drops 15mL (Saphcorbic-OD)` -> `Ascorbic Acid 100mg/mL Drops 15ml (SAPHCORBIC-OD)`
+- `Ascorbic Acid 100mg/mL Oral Drops 15mL (Apcee)` -> `Ascorbic Acid 100mg/mL Oral Drops 15ml (APCEE)`
+- `Ascorbic Acid 100Mg-5Ml Syr 60Ml (Apcee)` -> `Ascorbic Acid 100mg-5ml Syrup 60ml (APCEE)`
+- `Sodium Ascorbate + Zinc Syrup 120 mL KIDDYPLUZ-C` -> `Sodium Ascorbate + Zinc Syrup 120 ml (KIDDYPLUZ-C)`
+- `Ascorbic Acid 250 mg/mL (500 mg/2 mL)  Ampule 1's TATIO-CEE` -> `Ascorbic Acid 250 mg/mL (500 mg/2 ml) Ampule 1s (TATIO-CEE)`
+- `Ascorbic Acid 45mg+Zinc 4.5mg Drops 15mL (Saphceevit-45)` -> `Ascorbic Acid 45mg+Zinc 4.5mg Drops 15ml (SAPHCEEVIT-45)`
+- `Ascorbic Acid 500 Mg Tab 100S (Cevit)` -> `Ascorbic Acid 500 mg Tablet 100s (CEVIT)`
+- `Ascorbic Acid 500 mg Tablet 100's MYREVIT C` -> `Ascorbic Acid 500 mg Tablet 100s (MYREVIT C)`
+- `Ascorbic Acid 500Mg Tab 100S (Enocee)` -> `Ascorbic Acid 500mg Tablet 100s (ENOCEE)`
+- `Ascorbic Acid Syr 100mg/5ml Syr 250mL (RAPID C)` -> `Ascorbic Acid Syrup 100mg/5ml Syrup 250ml (RAPID C)`
+- `Ascorbic Acid Syrup 250 mL RAPH C` -> `Ascorbic Acid Syrup 250 ml (RAPH C)`
+- `Ascorbic Acid+Vit D3+Zinc 500mg Tab 100S (Ascorsaph-Plus)` -> `Ascorbic Acid+Vit D3+Zinc 500mg Tablet 100s (ASCORSAPH-PLUS)`
+- `Ascorbic Syr 120Ml (Novacee)` -> `Ascorbic Syrup 120ml (NOVACEE)`
+- `Ascorbic+Zinc 120Ml (Imucor Z)` -> `Ascorbic+Zinc 120ml (IMUCOR Z)`
+- `Ascorbic+Zinc 15Ml Drops (Vitcee Plus)` -> `Ascorbic+Zinc 15ml Drops (VITCEE PLUS)`
+- `Ascorbic+Zinc 250Ml (Imucor Z)` -> `Ascorbic+Zinc 250ml (IMUCOR Z)`
+- `Ascorbic+Zinc 60Ml (Imucor Z)` -> `Ascorbic+Zinc 60ml (IMUCOR Z)`
+- `Aspirin 80 mg Tablet 100's  SAPHRIN` -> `Aspirin 80 mg Tablet 100s (SAPHRIN)`
+- `Aspirin 80 mg Tablet 100's  SCHEEPRIN` -> `Aspirin 80 mg Tablet 100s (SCHEEPRIN)`
+- `Aspirin 80Mg Tab 100S (Philprin)` -> `Aspirin 80mg Tablet 100s (PHILPRIN)`
+- `Atenolol 100 mg Tablet 100's ZENOBLOC-100` -> `Atenolol 100 mg Tablet 100s (ZENOBLOC-100)`
+- `Atenolol 50 mg Tablet 100's ZENOBLOC-50` -> `Atenolol 50 mg Tablet 100s (ZENOBLOC-50)`
+- `Atenolol 50mg Tab 100s (ATENOVA-50)` -> `Atenolol 50mg Tablet 100s (ATENOVA-50)`
+- `Atorvastatin 20mg Tab 100s (Fredtor)` -> `Atorvastatin 20mg Tablet 100s (FREDTOR)`
+- `Atorvastatin 10 mg Tablet 100's  ATORSAPH-10` -> `Atorvastatin 10 mg Tablet 100s (ATORSAPH-10)`
+- `Atorvastatin 10mg Tab 100s (ATORBET)` -> `Atorvastatin 10mg Tablet 100s (ATORBET)`
+- `Atorvastatin 10mg Tab 100s (Fredtor)` -> `Atorvastatin 10mg Tablet 100s (FREDTOR)`
+- `Atorvastatin 10Mg Tab 100S (LESTOR)` -> `Atorvastatin 10mg Tablet 100s (LESTOR)`
+- `Atorvastatin 20 Mg Tab 100S Atorsaph-20` -> `Atorvastatin 20 mg Tablet 100s (ATORSAPH-20)`
+- `Atorvastatin 20mg Tab 100s (ATORBET-20)` -> `Atorvastatin 20mg Tablet 100s (ATORBET-20)`
+- `Atorvastatin 20mg Tab 100s (ATORMED)` -> `Atorvastatin 20mg Tablet 100s (ATORMED)`
+- `Atorvastatin 20Mg Tab 100S (Brelvastin)` -> `Atorvastatin 20mg Tablet 100s (BRELVASTIN)`
+- `Atorvastatin 20mg Tab 100s (GENVAZT-20)` -> `Atorvastatin 20mg Tablet 100s (GENVAZT-20)`
+- `Atorvastatin 20Mg Tab 100S (H-ATOR)` -> `Atorvastatin 20mg Tablet 100s (H-ATOR)`
+- `Atorvastatin 20mg Tab 100s (LESTOR)` -> `Atorvastatin 20mg Tablet 100s (LESTOR)`
+- `Atorvastatin 20mg Tab 100s (Ranvast)` -> `Atorvastatin 20mg Tablet 100s (RANVAST)`
+- `Atorvastatin 20mg Tab 100s (Trovipri) Ambica` -> `Atorvastatin 20mg Tablet 100s ((TROVIPRI) AMBICA)`
+- `Atorvastatin 40mg Tab 100s (ATORSAPH-40)` -> `Atorvastatin 40mg Tablet 100s (ATORSAPH-40)`
+- `Atorvastatin 40Mg Tab 100S (Brelvastin)` -> `Atorvastatin 40mg Tablet 100s (BRELVASTIN)`
+- `Atorvastatin 40Mg Tab 100S (Caliptrol)` -> `Atorvastatin 40mg Tablet 100s (CALIPTROL)`
+- `Atorvastatin 40mg Tab 100s (Fredtor)` -> `Atorvastatin 40mg Tablet 100s (FREDTOR)`
+- `Atorvastatin 40mg Tab 100S (Fulvast)` -> `Atorvastatin 40mg Tablet 100s (FULVAST)`
+- `Atorvastatin 40mg Tab 100s (KHRIZSTATIN 40)` -> `Atorvastatin 40mg Tablet 100s (KHRIZSTATIN 40)`
+- `Atorvastatin 40mg Tab 100s (LESTOR)` -> `Atorvastatin 40mg Tablet 100s (LESTOR)`
+- `Atorvastatin 40mg Tab 100s (SITIVAST)` -> `Atorvastatin 40mg Tablet 100s (SITIVAST)`
+- `Atorvastatin 40mg Tab 100s (Trovipri)` -> `Atorvastatin 40mg Tablet 100s (TROVIPRI)`
+- `Atorvastatin 40Mg Tab Choltrol 100S` -> `Atorvastatin 40mg Tablet 100s (CHOLTROL)`
+- `Atorvastatin 80mg Tab 100s (ATORSAPH-80)` -> `Atorvastatin 80mg Tablet 100s (ATORSAPH-80)`
+- `Atorvastatin 80mg Tab 100s (FREDTOR)` -> `Atorvastatin 80mg Tablet 100s (FREDTOR)`
+- `Atorvastatin 80Mg Tab 100S (Fulvast)` -> `Atorvastatin 80mg Tablet 100s (FULVAST)`
+- `Atorvastatin 80Mg Tab 100S (Trovipri)` -> `Atorvastatin 80mg Tablet 100s (TROVIPRI)`
+- `ATORVASTATIN CALCIUM 10 mg FILM-COATED TABLET 100's (APL/Generics)` -> `ATORVASTATIN CALCIUM 10 mg FILM-COATED Tablet 100s (APL/GENERICS)`
+- `Atorvastatin Calcium 10mg Tab 100s (VAZI2R-10)` -> `Atorvastatin Calcium 10mg Tablet 100s (VAZI2R-10)`
+- `ATORVASTATIN 20mg Tab 100s (TORVASTATIN-20)` -> `ATORVASTATIN 20mg Tablet 100s (TORVASTATIN-20)`
+- `ATORVASTATIN CALCIUM 20 mg FILM-COATED TABLET 100'S (VAZI2R)` -> `ATORVASTATIN CALCIUM 20 mg FILM-COATED Tablet 100s (VAZI2R)`
+- `ATORVASTATIN 40 mg Tab 100s (TORVASTATIN)` -> `ATORVASTATIN 40 mg Tablet 100s (TORVASTATIN)`
+- `ATORVASTATIN CALCIUM 40 mg FILM-COATED TABLET 100'S (VAZI2R-40)` -> `ATORVASTATIN CALCIUM 40 mg FILM-COATED Tablet 100s (VAZI2R-40)`
+- `ATORVASTATIN CALCIUM 80 mg FILM-COATED TABLET 100'S (APL/Generics)` -> `ATORVASTATIN CALCIUM 80 mg FILM-COATED Tablet 100s (APL/GENERICS)`
+- `Atorvastatin Calcium 80mg Tab 100s (VAZI2R-80)` -> `Atorvastatin Calcium 80mg Tablet 100s (VAZI2R-80)`
+- `Azithromycin 200 Mg Susp 15 Ml (Rozitan)` -> `Azithromycin 200 mg Suspension 15 ml (ROZITAN)`
+- `Azithromycin 200 Mg Susp 15 Ml (ZIKANT)` -> `Azithromycin 200 mg Suspension 15 ml (ZIKANT)`
+- `Azithromycin 200 mg Suspension 15 mL AZITAS` -> `Azithromycin 200 mg Suspension 15 ml (AZITAS)`
+- `Azithromycin 200mg/5mL Susp 15mL (ATHRODIM)` -> `Azithromycin 200mg/5ml Suspension 15ml (ATHRODIM)`
+- `Azithromycin 500 mg Tablet 3's (AZITHROM)` -> `Azithromycin 500 mg Tablet 3s (AZITHROM)`
+- `Azithromycin 500 mg Tablet 9's (3 Bxs x 3's Tablet) AZISAPH` -> `Azithromycin 500 mg Tablet 9s (3 Bxs x 3s (TABLET) AZISAPH)`
+- `Azithromycin 500 mg Tablet 9's (3 Bxs x 3's Tablet) AZITHROM` -> `Azithromycin 500 mg Tablet 9s (3 Bxs x 3s (TABLET) AZITHROM)`
+- `Azithromycin 500Mg Cap 3S (Ambimax)` -> `Azithromycin 500mg Capsule 3s (AMBIMAX)`
+- `Azithromycin 500mg Cap 3s (AMZIPRO)` -> `Azithromycin 500mg Capsule 3s (AMZIPRO)`
+- `Azithromycin 500mg Tab 30s (AZCORE)` -> `Azithromycin 500mg Tablet 30s (AZCORE)`
+- `Azithromycin 500mg Tab 3s (AZIBIAL-500)` -> `Azithromycin 500mg Tablet 3s (AZIBIAL-500)`
+- `Azithromycin 500mg Tab 3s (AZISAPH-D)` -> `Azithromycin 500mg Tablet 3s (AZISAPH-D)`
+- `Azithromycin 500mg Tab 3s (Azitobact)` -> `Azithromycin 500mg Tablet 3s (AZITOBACT)`
+- `Azithromycin 500mg Tab 3s (COZITH-S)` -> `Azithromycin 500mg Tablet 3s (COZITH-S)`
+- `Azithromycin 500mg Tab 3s (NOVAZITH)` -> `Azithromycin 500mg Tablet 3s (NOVAZITH)`
+- `Azithromycin 500mg Tab 3s (STROZIN)` -> `Azithromycin 500mg Tablet 3s (STROZIN)`
+- `Azithromycin 500mg Tab 3s (Thromaxin)` -> `Azithromycin 500mg Tablet 3s (THROMAXIN)`
+- `Azithromycin 500mg Tab 3s (ZITHMAC)` -> `Azithromycin 500mg Tablet 3s (ZITHMAC)`
+- `Azithromycin 500Mg Tab 3S (Zit-Od)` -> `Azithromycin 500mg Tablet 3s (ZIT-OD)`
+- `Azithromycin 500mg Tab 4s (Zithrobbas)` -> `Azithromycin 500mg Tablet 4s (ZITHROBBAS)`
+- `Azithromycin 500mg Tab 6s (AZO 500)` -> `Azithromycin 500mg Tablet 6s (AZO 500)`
+- `Bacillus Clausii 2 billion/5mL Oral Susp 10s (FLORACI-2)` -> `Bacillus Clausii 2 billion/5ml Oral Suspension 10s (FLORACI-2)`
+- `Bacillius Clausii 10s 5mL (LILIBACIL-2B)` -> `Bacillius Clausii 10s 5ml (LILIBACIL-2B)`
+- `Bacillius Clausii 10s 5mL (TUMMY PRO)` -> `Bacillius Clausii 10s 5ml (TUMMY PRO)`
+- `Bacillius Clausii 5mL 10s (BC-FLORA)` -> `Bacillius Clausii 5ml 10s (BC-FLORA)`
+- `Bacillus Clausii 5ml x 6s (Novaflora)` -> `Bacillus Clausii 5ml x 6s (NOVAFLORA)`
+- `Betahistine 16 Mg Tab 100S (Vertikind)` -> `Betahistine 16 mg Tablet 100s (VERTIKIND)`
+- `Betahistine 16 mg Tablet 100's BETZINE` -> `Betahistine 16 mg Tablet 100s (BETZINE)`
+- `Betahistine 16Mg Tab 100S (Allerway)` -> `Betahistine 16mg Tablet 100s (ALLERWAY)`
+- `Betahistine 16mg Tab 100s (CENVERT-16)` -> `Betahistine 16mg Tablet 100s (CENVERT-16)`
+- `Betahistine 16mg Tab 100s (Dizimarc)` -> `Betahistine 16mg Tablet 100s (DIZIMARC)`
+- `Betahistine 16mg Tab 100s (HISTAKON)` -> `Betahistine 16mg Tablet 100s (HISTAKON)`
+- `Betahistine 16Mg Tab 100S (Vertigine)` -> `Betahistine 16mg Tablet 100s (VERTIGINE)`
+- `Betahistine 16mg Tab 100s (Vertisaph-16)` -> `Betahistine 16mg Tablet 100s (VERTISAPH-16)`
+- `Betahistine 16mg Tab 30s (VERTSET)` -> `Betahistine 16mg Tablet 30s (VERTSET)`
+- `Betahistine 24 mg Tablet 100's BETZINE` -> `Betahistine 24 mg Tablet 100s (BETZINE)`
+- `Betahistine 24 mg Tablet 100's VERTISAPH` -> `Betahistine 24 mg Tablet 100s (VERTISAPH)`
+- `Betahistine 24mg Tab 100s (HISTAKON)` -> `Betahistine 24mg Tablet 100s (HISTAKON)`
+- `Betahistine 24mg Tab 100S (Vertikind)` -> `Betahistine 24mg Tablet 100s (VERTIKIND)`
+- `Betahistine 24mg Tab 30s (Vertset)` -> `Betahistine 24mg Tablet 30s (VERTSET)`
+- `Betahistine 8 Mg Tab 100S (Vertikind)` -> `Betahistine 8 mg Tablet 100s (VERTIKIND)`
+- `Betahistine 8 mg Tablet 100's BETZINE` -> `Betahistine 8 mg Tablet 100s (BETZINE)`
+- `Betahistine 8 mg Tablet 100's VERTISAPH-8` -> `Betahistine 8 mg Tablet 100s (VERTISAPH-8)`
+- `Betahistine 8mg Tab 100s (Dizimarc)` -> `Betahistine 8mg Tablet 100s (DIZIMARC)`
+- `Betahistine 8mg Tab 100s (HISTAKON)` -> `Betahistine 8mg Tablet 100s (HISTAKON)`
+- `BETAHISTINE DIHYDROCHLORIDE 24MG TABLET (VERIST) 100's` -> `BETAHISTINE DIHYDROCHLORIDE 24mg Tablet 100s (VERIST)`
+- `Betamethasone + Neomycin Sulfate Cream 15 g BETACIN-N` -> `Betamethasone + Neomycin Sulfate Cream 15 g (BETACIN-N)`
+- `Betamethasone 1Mg Cream 5G (Betnoderm)` -> `Betamethasone 1mg Cream 5G (BETNODERM)`
+- `Betamethasone Cream 10mg (Valeri)` -> `Betamethasone Cream 10mg (VALERI)`
+- `Betamethasone Valerate 1 mg/g (0.1% w/w) Cream 15 g BETACIN` -> `Betamethasone Valerate 1 mg/g (0.1% w/w) Cream 15 g (BETACIN)`
+- `Betamethasone Valerate 1 mg/g (0.1% w/w) Cream 5 g METSOBET` -> `Betamethasone Valerate 1 mg/g (0.1% w/w) Cream 5 g (METSOBET)`
+- `Bisacodyl 5 mg Tablet 100's DYLAX` -> `Bisacodyl 5 mg Tablet 100s (DYLAX)`
+- `Bisacodyl 5 mg Tablet 100's PRELAX` -> `Bisacodyl 5 mg Tablet 100s (PRELAX)`
+- `Boric + Borax 10mg/2.5mL Opthal Drops 10mL EQUISINE Regular` -> `Boric + Borax 10mg/2.5ml Opthal Drops 10ml (EQUISINE REGULAR)`
+- `Bromhexine 4 mg Syrup 60 mL BISOLEM` -> `Bromhexine 4 mg Syrup 60 ml (BISOLEM)`
+- `Bromhexine 4 mg Syrup 60 mL HEXIN` -> `Bromhexine 4 mg Syrup 60 ml (HEXIN)`
+- `Bromhexine 8 mg Tablet 100's PULMOHEX` -> `Bromhexine 8 mg Tablet 100s (PULMOHEX)`
+- `Budesonide 250 mcg/mL (500 mcg/2 mL) Nebule 30's (RESPI-SAPH)` -> `Budesonide 250 mcg/mL (500 mcg/2 ml) Nebule 30s (RESPI-SAPH)`
+- `Butamirate 50Mg Tab 100S (Mefecod)` -> `Butamirate 50mg Tablet 100s (MEFECOD)`
+- `Butamirate 50Mg Tab 100S (Saphmirate)` -> `Butamirate 50mg Tablet 100s (SAPHMIRATE)`
+- `Butamirate 50mg Tab 30s (Welltrate)` -> `Butamirate 50mg Tablet 30s (WELLTRATE)`
+- `Butamirate 50Mg Tab Anticof Sr 100S` -> `Butamirate 50mg Tablet Anticof 100s (SR)`
+- `Butamirate 7*5Mg Syr 120Ml (Zincap)` -> `Butamirate 7*5mg Syrup 120ml (ZINCAP)`
+- `Butamirate Citrate 50Mg Tab 100S (Nysecod)` -> `Butamirate Citrate 50mg Tablet 100s (NYSECOD)`
+- `Butamirate Citrate 7.5mg/5mL Syr 100mL (MEERA)` -> `Butamirate Citrate 7.5mg/5ml Syrup 100ml (MEERA)`
+- `BUTAMIRATE CITRATE 7.5MG/5ML SYRUP 120ML (APL/Generics)` -> `BUTAMIRATE CITRATE 7.5mg/5ml Syrup 120ml (APL/GENERICS)`
+- `Butamirate Citrate 7.5mg/mL Syr 120mL (NYSECOD)` -> `Butamirate Citrate 7.5mg/mL Syrup 120ml (NYSECOD)`
+- `Butamirate Citrate 7.5mg/mL Syr 60mL (BUTACOD FORTE)` -> `Butamirate Citrate 7.5mg/mL Syrup 60ml (BUTACOD FORTE)`
+- `Butamirate Citrate 7.5mg/mL Syr 60mL (Cofmed)` -> `Butamirate Citrate 7.5mg/mL Syrup 60ml (COFMED)`
+- `BUTAMIRATE CITRATE TAB 50mg 20's (BUTAMIR)` -> `BUTAMIRATE CITRATE Tablet 50mg 20s (BUTAMIR)`
+- `Calcium Carbonate 1,250mg + Vit D3 250IU Tab 100s OSCIVIT` -> `Calcium Carbonate 1,250mg + Vit D3 250IU Tablet 100s (OSCIVIT)`
+- `Calcium Carbonate 500mg + Vit D3 200 IU Tab 100s AMBICAL PLUS` -> `Calcium Carbonate 500mg + Vit D3 200 IU Tablet 100s (AMBICAL PLUS)`
+- `Calcium Carbonate 500 mg Tablet 100's AMBICAL` -> `Calcium Carbonate 500 mg Tablet 100s (AMBICAL)`
+- `Calcium Carbonate 500mg Tab 100s (CALCIE)` -> `Calcium Carbonate 500mg Tablet 100s (CALCIE)`
+- `Calcium Carbonate 500Mg Tab 100S (Calcisaph)` -> `Calcium Carbonate 500mg Tablet 100s (CALCISAPH)`
+- `Calcium Carbonate 500mg Tab 100s (Generic)` -> `Calcium Carbonate 500mg Tablet 100s (GENERIC)`
+- `Calcium Carbonate 500mg Tab 100s (OSTEOFREE)` -> `Calcium Carbonate 500mg Tablet 100s (OSTEOFREE)`
+- `Calcium Carbonate 500mg Tab 100s (Vonwelt)` -> `Calcium Carbonate 500mg Tablet 100s (VONWELT)`
+- `Calcium Lactate 325 mg Tablet 100's  CALCIP` -> `Calcium Lactate 325 mg Tablet 100s (CALCIP)`
+- `Calcium Lactate 325 mg Tablet 100's  CALXATE` -> `Calcium Lactate 325 mg Tablet 100s (CALXATE)`
+- `CALCIUM LACTATE 325MG 100's (APL/Generics)` -> `CALCIUM LACTATE 325mg 100s (APL/GENERICS)`
+- `CALCIUM LACTATE 325MG 30'S (APL/Generics)` -> `CALCIUM LACTATE 325mg 30s (APL/GENERICS)`
+- `Calcium Lactate 325mg Tab 100s (Calcisaph-L325)` -> `Calcium Lactate 325mg Tablet 100s (CALCISAPH-L325)`
+- `Candesartan 16mg Tab 30s (CANDEGO)` -> `Candesartan 16mg Tablet 30s (CANDEGO)`
+- `Candesartan 16Mg Tab 30S (CANDESAPH-16)` -> `Candesartan 16mg Tablet 30s (CANDESAPH-16)`
+- `Candesartan 8Mg Tab 30S (Babapress-8)` -> `Candesartan 8mg Tablet 30s (BABAPRESS-8)`
+- `Candesartan 8Mg Tab 30S (CANDESAPH-8)` -> `Candesartan 8mg Tablet 30s (CANDESAPH-8)`
+- `Candesartan Cilexetil 16 mg Tablet 30's BABAPRESS-16` -> `Candesartan Cilexetil 16 mg Tablet 30s (BABAPRESS-16)`
+- `Candesartan Cilexetil 16Mg Tab 30S (Giran-16)` -> `Candesartan Cilexetil 16mg Tablet 30s (GIRAN-16)`
+- `Candesartan Cilexetil 8Mg Tab 30S (Giran-8)` -> `Candesartan Cilexetil 8mg Tablet 30s (GIRAN-8)`
+- `Candesartan Cilexetil 8mg Tab 30s (TORCAND-8)` -> `Candesartan Cilexetil 8mg Tablet 30s (TORCAND-8)`
+- `Captopril 25 mg Tablet 100's CAPTOBES` -> `Captopril 25 mg Tablet 100s (CAPTOBES)`
+- `Captopril 25Mg Tab 100S (Biopril)` -> `Captopril 25mg Tablet 100s (BIOPRIL)`
+- `Captopril 25Mg Tab 100S (Hyperstop)` -> `Captopril 25mg Tablet 100s (HYPERSTOP)`
+- `Carbamazepine 200 mg Tablet 100's  LESTREMOR` -> `Carbamazepine 200 mg Tablet 100s (LESTREMOR)`
+- `Carbamazepine 200Mg Tab 100S (Diamazepine)` -> `Carbamazepine 200mg Tablet 100s (DIAMAZEPINE)`
+- `Carbamazepine 200Mg Tab 100s (2x50S) (Mezacar)` -> `Carbamazepine 200mg Tablet 100s (2x50s) (MEZACAR)`
+- `CARBOCISTEINE 100 mg/ 5 mL SYRUP 60mL (MUCUZID)` -> `CARBOCISTEINE 100 mg/ 5 ml Syrup 60ml (MUCUZID)`
+- `CARBOCISTEINE 100 mg/ 5 mL SYRUP 60mL (Saphcisin-100)` -> `CARBOCISTEINE 100 mg/ 5 ml Syrup 60ml (SAPHCISIN-100)`
+- `Carbocisteine 100Mg Syr 60Ml (Marluxyn)` -> `Carbocisteine 100mg Syrup 60ml (MARLUXYN)`
+- `Carbocisteine 100mg Syr 60ml (Nomocof)` -> `Carbocisteine 100mg Syrup 60ml (NOMOCOF)`
+- `Carbocisteine 100Mg-5Ml Syr 60Ml (Mucuxpel)` -> `Carbocisteine 100mg-5ml Syrup 60ml (MUCUXPEL)`
+- `Carbocisteine 125 mg Syrup 60 mL CEASCOL` -> `Carbocisteine 125 mg Syrup 60 ml (CEASCOL)`
+- `Carbocisteine 125mg Syr 60ml (CARBOSAPH-125)` -> `Carbocisteine 125mg Syrup 60ml (CARBOSAPH-125)`
+- `Carbocisteine 125mg Syr 60ml (Saphcisin-125)` -> `Carbocisteine 125mg Syrup 60ml (SAPHCISIN-125)`
+- `Carbocisteine 125mg/5mL Syr 60mL (4 Cough)` -> `Carbocisteine 125mg/5ml Syrup 60ml (4 COUGH)`
+- `Carbocisteine 250 mg Syrup 60mL CEASCOL` -> `Carbocisteine 250 mg Syrup 60ml (CEASCOL)`
+- `Carbocisteine 250mg Syr 60mL (CARBOSAPH-250)` -> `Carbocisteine 250mg Syrup 60ml (CARBOSAPH-250)`
+- `Carbocisteine 250mg Syr 60mL (DIACOF)` -> `Carbocisteine 250mg Syrup 60ml (DIACOF)`
+- `Carbocisteine 250mg Syr 60mL (PARACOUGH)` -> `Carbocisteine 250mg Syrup 60ml (PARACOUGH)`
+- `Carbocisteine 250mg Syr 60ml (Saphcisin-250)` -> `Carbocisteine 250mg Syrup 60ml (SAPHCISIN-250)`
+- `Carbocisteine 250mg/5mL Syr 60mL (4 Cough)` -> `Carbocisteine 250mg/5ml Syrup 60ml (4 COUGH)`
+- `Carbocisteine 50 mg Drops 15 mL CEASCOL` -> `Carbocisteine 50 mg Drops 15 ml (CEASCOL)`
+- `Carbocisteine 500 Mg Cap 100S Carbosaph-C500` -> `Carbocisteine 500 mg Capsule 100s (CARBOSAPH-C500)`
+- `CARBOCISTEINE 500 mg CAPSULE 100's (MUCUZID)` -> `CARBOCISTEINE 500 mg Capsule 100s (MUCUZID)`
+- `Carbocisteine 500Mg Cap 100S (BRONCOCIL)` -> `Carbocisteine 500mg Capsule 100s (BRONCOCIL)`
+- `Carbocisteine 500Mg Cap 100S (Ceascol)` -> `Carbocisteine 500mg Capsule 100s (CEASCOL)`
+- `Carbocisteine 500mg Cap 100s (Flemaliz)` -> `Carbocisteine 500mg Capsule 100s (FLEMALIZ)`
+- `Carbocisteine 500mg Cap 100s (MARLUXYN)` -> `Carbocisteine 500mg Capsule 100s (MARLUXYN)`
+- `Carbocisteine 500mg Cap 100s (Mucoflem)` -> `Carbocisteine 500mg Capsule 100s (MUCOFLEM)`
+- `Carbocisteine 500Mg Cap 100S (Mucosul)` -> `Carbocisteine 500mg Capsule 100s (MUCOSUL)`
+- `Carbocisteine 500mg Cap 100s (VONCARTIN)` -> `Carbocisteine 500mg Capsule 100s (VONCARTIN)`
+- `Carbocisteine 500Mg Cap 100S (MUCOLIEF)` -> `Carbocisteine 500mg Capsule 100s (MUCOLIEF)`
+- `Carbocisteine 50Mg Drops (Nomocof)` -> `Carbocisteine 50mg Drops (NOMOCOF)`
+- `Carvedilol 12.5mg Tab 15s (Karvil 12.5)` -> `Carvedilol 12.5mg Tablet 15s (KARVIL 12.5)`
+- `Carvedilol 12.5mg Tab 30s (CARVESAPH)` -> `Carvedilol 12.5mg Tablet 30s (CARVESAPH)`
+- `Carvedilol 25 mg Tablet 100's EODILOL` -> `Carvedilol 25 mg Tablet 100s (EODILOL)`
+- `Carvedilol 25Mg Tab 100S (Karvidol)` -> `Carvedilol 25mg Tablet 100s (KARVIDOL)`
+- `Carvedilol 25mg Tab 30s (CARVESAPH)` -> `Carvedilol 25mg Tablet 30s (CARVESAPH)`
+- `Carvedilol 6*25Mg Tab 100S (Karvidol)` -> `Carvedilol 6*25mg Tablet 100s (KARVIDOL)`
+- `Carvedilol 6*25Mg Tab 30S (Carvida)` -> `Carvedilol 6*25mg Tablet 30s (CARVIDA)`
+- `Carvedilol 6*25mg Tab 30s (Velon)` -> `Carvedilol 6*25mg Tablet 30s (VELON)`
+- `Carvedilol 6.25 mg Tablet 30's GLOVEDOL` -> `Carvedilol 6.25 mg Tablet 30s (GLOVEDOL)`
+- `Cefaclor 125 mg Suspension 60 mL CEFLOR` -> `Cefaclor 125 mg Suspension 60 ml (CEFLOR)`
+- `Cefaclor 125 mg Suspension 60 mL Generic` -> `Cefaclor 125 mg Suspension 60 ml (GENERIC)`
+- `Cefaclor 125Mg Susp 60Ml (Clormed)` -> `Cefaclor 125mg Suspension 60ml (CLORMED)`
+- `Cefaclor 125mg/60ml Susp (Cloran)` -> `Cefaclor 125mg/60ml Suspension (CLORAN)`
+- `Cefaclor 250 mg Suspension 60 mL ELICLOR` -> `Cefaclor 250 mg Suspension 60 ml (ELICLOR)`
+- `Cefaclor 250Mg Susp 60Ml (Ceflor)` -> `Cefaclor 250mg Suspension 60ml (CEFLOR)`
+- `Cefaclor 250Mg Susp 60mL (Clormed)` -> `Cefaclor 250mg Suspension 60ml (CLORMED)`
+- `Cefaclor 250mg Susp 60mL (VINSEF)` -> `Cefaclor 250mg Suspension 60ml (VINSEF)`
+- `Cefaclor 50 mg Drops 10 mL CLORAN` -> `Cefaclor 50 mg Drops 10 ml (CLORAN)`
+- `Cefaclor 500 mg Capsule 50's CEFLOR` -> `Cefaclor 500 mg Capsule 50s (CEFLOR)`
+- `Cefaclor 50Mg-Ml Drops 10Ml (Clormed)` -> `Cefaclor 50mg-Ml Drops 10ml (CLORMED)`
+- `Cefaclor 50mg-ml Drops 20Ml (Ceflor)` -> `Cefaclor 50mg-ml Drops 20ml (CEFLOR)`
+- `Cefalexin 100 mg Drops 10 mL EXEL` -> `Cefalexin 100 mg Drops 10 ml (EXEL)`
+- `Cefalexin 100mg/mL Drops 15mL (Ceplenext)` -> `Cefalexin 100mg/mL Drops 15ml (CEPLENEXT)`
+- `Cefalexin 100mg/mL Drops 10mL (EDIXIN)` -> `Cefalexin 100mg/mL Drops 10ml (EDIXIN)`
+- `Cefalexin 100Mg-Ml Drops 10Ml (Diacef)` -> `Cefalexin 100mg-Ml Drops 10ml (DIACEF)`
+- `Cefalexin 125 mg Suspension 60 mL EXEL` -> `Cefalexin 125 mg Suspension 60 ml (EXEL)`
+- `Cefalexin 125Mg Susp 60Ml (Diacef)` -> `Cefalexin 125mg Suspension 60ml (DIACEF)`
+- `CEFALEXIN 125mg/5ml POWDER FOR SUSPENSION 60mL (APL/Generics)` -> `CEFALEXIN 125mg/5ml POWDER FOR Suspension 60ml (APL/GENERICS)`
+- `Cefalexin 125mg/mL Susp. 60mL (EDIXIN)` -> `Cefalexin 125mg/mL Suspension. 60ml (EDIXIN)`
+- `Cefalexin 250 mg Capsule 100's DIACEF` -> `Cefalexin 250 mg Capsule 100s (DIACEF)`
+- `Cefalexin 250 mg Capsule 100's EXEL` -> `Cefalexin 250 mg Capsule 100s (EXEL)`
+- `Cefalexin 250 mg Suspension 60 mL EXEL` -> `Cefalexin 250 mg Suspension 60 ml (EXEL)`
+- `Cefalexin 250Mg Susp 60ml (Diacef)` -> `Cefalexin 250mg Suspension 60ml (DIACEF)`
+- `CEFALEXIN 250mg/5ml POWDER FOR SUSPENSION 60mL (APL/Generics)` -> `CEFALEXIN 250mg/5ml POWDER FOR Suspension 60ml (APL/GENERICS)`
+- `Cefalexin 250mg/mL Susp. 60mL (EDIXIN)` -> `Cefalexin 250mg/mL Suspension. 60ml (EDIXIN)`
+- `Cefalexin 500 mg Capsule 100's EXEL` -> `Cefalexin 500 mg Capsule 100s (EXEL)`
+- `Cefalexin 500mg Cap 100s (Diacef)` -> `Cefalexin 500mg Capsule 100s (DIACEF)`
+- `Cefalexin 500mg Cap 100s (EDIXIN-500)` -> `Cefalexin 500mg Capsule 100s (EDIXIN-500)`
+- `Cefalexin 500mg Cap 100s (SANCEPH)` -> `Cefalexin 500mg Capsule 100s (SANCEPH)`
+- `Cefalexin 500Mg Cap 100S (Saphlexin)` -> `Cefalexin 500mg Capsule 100s (SAPHLEXIN)`
+- `Cefalexin 500Mg Cap 100S (Zefalex)` -> `Cefalexin 500mg Capsule 100s (ZEFALEX)`
+- `Cefazolin Sodium 1 g Vial 10's PHIZOLIN` -> `Cefazolin Sodium 1 g Vial 10s (PHIZOLIN)`
+- `CEFIXIME  200mg CAPSULE 10's (APL/Generics)` -> `CEFIXIME 200mg Capsule 10s (APL/GENERICS)`
+- `CEFIXIME  400mg CAPSULE 10's (APL/Generics)` -> `CEFIXIME 400mg Capsule 10s (APL/GENERICS)`
+- `Cefixime 100 mg Suspension 60 Ml (Generic/Tolmann)` -> `Cefixime 100 mg Suspension 60 ml (GENERIC/TOLMANN)`
+- `Cefixime 100 mg Suspension 60 mL MYRECEF` -> `Cefixime 100 mg Suspension 60 ml (MYRECEF)`
+- `Cefixime 100mg Susp 60ml (SUPRAFIX)` -> `Cefixime 100mg Suspension 60ml (SUPRAFIX)`
+- `Cefixime 100mg Susp 60mL (SUSFIXEF)` -> `Cefixime 100mg Suspension 60ml (SUSFIXEF)`
+- `Cefixime 100Mg Susp 60Ml (Zefifarm)` -> `Cefixime 100mg Suspension 60ml (ZEFIFARM)`
+- `Cefixime 100mg/5ml Powder for Susp 60mL (EMACIF)` -> `Cefixime 100mg/5ml Powder for Suspension 60ml (EMACIF)`
+- `Cefixime 100Mg-5Ml Susp 60Ml (Cefixsaph)` -> `Cefixime 100mg-5ml Suspension 60ml (CEFIXSAPH)`
+- `Cefixime 200 mg Capsule 100's UMEXIM-200` -> `Cefixime 200 mg Capsule 100s (UMEXIM-200)`
+- `Cefixime 200 Mg Tab 30S (Sanix)` -> `Cefixime 200 mg Tablet 30s (SANIX)`
+- `Cefixime 200Mg Cap 30s (SAPHIXIME-200)` -> `Cefixime 200mg Capsule 30s (SAPHIXIME-200)`
+- `Cefixime 200mg Tab 30s (SUPRAPHIL)` -> `Cefixime 200mg Tablet 30s (SUPRAPHIL)`
+- `Cefixime 20mg/ml DROPS 10mL (SUPRAFIX-DS)` -> `Cefixime 20mg/ml DROPS 10ml (SUPRAFIX-DS)`
+- `Cefixime 20mg/mL Oral Drops 10mL (Generic/Tolmann)` -> `Cefixime 20mg/mL Oral Drops 10ml (GENERIC/TOLMANN)`
+- `Cefixime 20Mg-Ml Drops Cefim (Lloyd)` -> `Cefixime 20mg-Ml Drops Cefim (LLOYD)`
+- `Cefixime 400Mg Cap 10S (Saphixime-400)` -> `Cefixime 400mg Capsule 10s (SAPHIXIME-400)`
+- `Cefixime 400Mg Tab 100S (Saphixime-400)` -> `Cefixime 400mg Tablet 100s (SAPHIXIME-400)`
+- `Ceftriaxone 1g Vial (w/ diluent) (I.M. / I.V.) Sitixon 1 vial` -> `Ceftriaxone 1g (VIAL (W/ DILUENT) (I.M. / I.V.) SITIXON 1 VIAL)`
+- `Ceftriaxone Sodium 1 g Vial (w/o Diluent) 1's PEFTRIN` -> `Ceftriaxone Sodium 1 g Vial (w/o Diluent) 1s (PEFTRIN)`
+- `Ceftriaxone Sodium 1 g Vial (WITH DILUENT) 1's AMTRIX` -> `Ceftriaxone Sodium 1 g Vial (WITH DILUENT) 1s (AMTRIX)`
+- `Ceftriaxone Sodium 1 g Vial (WITH DILUENT) 1's CEFZOX` -> `Ceftriaxone Sodium 1 g Vial (WITH DILUENT) 1s (CEFZOX)`
+- `Cefuroxime 125Mg Susp 50ml (Cefurox)` -> `Cefuroxime 125mg Suspension 50ml (CEFUROX)`
+- `Cefuroxime 125mg Susp 60ml (CEFUSAPH-125)` -> `Cefuroxime 125mg Suspension 60ml (CEFUSAPH-125)`
+- `Cefuroxime 125mg/5ml Susp (PHILCEF-DS)` -> `Cefuroxime 125mg/5ml Suspension (PHILCEF-DS)`
+- `Cefuroxime 250mg/5mL Susp (FURO)` -> `Cefuroxime 250mg/5ml Suspension (FURO)`
+- `Cefuroxime 250mg/5ml Susp 60mL (Cefusaph-250)` -> `Cefuroxime 250mg/5ml Suspension 60ml (CEFUSAPH-250)`
+- `Cefuroxime 250mg/5mL Susp 60mL (IE medica)` -> `Cefuroxime 250mg/5ml Suspension 60ml (IE MEDICA)`
+- `Cefuroxime 250mg/5ml Syr 60mL (PHILCEF-DS 250)` -> `Cefuroxime 250mg/5ml Syrup 60ml (PHILCEF-DS 250)`
+- `CEFUROXIME 500mg FILM COATED TABLET 24's (APL/Generics)` -> `CEFUROXIME 500mg FILM COATED Tablet 24s (APL/GENERICS)`
+- `CEFUROXIME 500MG FILM-COATED TABLET (SECUNDA) 10's` -> `CEFUROXIME 500mg FILM-COATED Tablet 10s (SECUNDA)`
+- `Cefuroxime 500Mg Tab 10S (Aerox)` -> `Cefuroxime 500mg Tablet 10s (AEROX)`
+- `Cefuroxime 500mg Tab 10s (FUROXBET)` -> `Cefuroxime 500mg Tablet 10s (FUROXBET)`
+- `Cefuroxime 500Mg Tab 10S (Roxime)` -> `Cefuroxime 500mg Tablet 10s (ROXIME)`
+- `Cefuroxime 500Mg Tab 10S (Zinaf)` -> `Cefuroxime 500mg Tablet 10s (ZINAF)`
+- `Cefuroxime Axetil 125 mg Susp 50 mL SQCEF` -> `Cefuroxime Axetil 125 mg Suspension 50 ml (SQCEF)`
+- `Cefuroxime Axetil 125Mg-5Ml Susp (Accexime)` -> `Cefuroxime Axetil 125mg-5ml Suspension (ACCEXIME)`
+- `Cefuroxime Axetil 250 mg Susp 50 mL CEFUROX` -> `Cefuroxime Axetil 250 mg Suspension 50 ml (CEFUROX)`
+- `Cefuroxime Axetil 250 mg Susp 50 mL SQCEF` -> `Cefuroxime Axetil 250 mg Suspension 50 ml (SQCEF)`
+- `Cefuroxime Axetil 500 mg Tablet 10's CEFUSAPH` -> `Cefuroxime Axetil 500 mg Tablet 10s (CEFUSAPH)`
+- `Cefuroxime Axetil 500mg  Tab 10s (EROXIME-500)` -> `Cefuroxime Axetil 500mg Tablet 10s (EROXIME-500)`
+- `Cefuroxime Sodium 750 mg Vial 10s EROXIME` -> `Cefuroxime Sodium 750 mg Vial 10s (EROXIME)`
+- `Cefuroxime Sodium 750 mg Vial 1's (WITH DILUENT) 1's CUROXIM` -> `Cefuroxime Sodium 750 mg Vial 1s (WITH DILUENT) 1s (CUROXIM)`
+- `Celecoxib 200 mg Capsule 100's ICOX` -> `Celecoxib 200 mg Capsule 100s (ICOX)`
+- `Celecoxib 200 mg Capsule 100's SAPHLECOX-200` -> `Celecoxib 200 mg Capsule 100s (SAPHLECOX-200)`
+- `Celecoxib 200mg Cap 100s (CELECOX)` -> `Celecoxib 200mg Capsule 100s (CELECOX)`
+- `Celecoxib 200Mg Cap 100S (Flacoxto)` -> `Celecoxib 200mg Capsule 100s (FLACOXTO)`
+- `Celecoxib 200Mg Cap 100S (XELIC)` -> `Celecoxib 200mg Capsule 100s (XELIC)`
+- `Celecoxib 200mg Cap 30s (COXTO)` -> `Celecoxib 200mg Capsule 30s (COXTO)`
+- `Celecoxib 200Mg Cap Emicox (Amb) 100S` -> `Celecoxib 200mg Capsule Emicox 100s (AMB)`
+- `Celecoxib 400 Mg Cap 100S (Xelic)` -> `Celecoxib 400 mg Capsule 100s (XELIC)`
+- `Celecoxib 400 mg Capsule 100's SAPHLECOX-400` -> `Celecoxib 400 mg Capsule 100s (SAPHLECOX-400)`
+- `Celecoxib 400mg Cap 100s (EMICOX-400)` -> `Celecoxib 400mg Capsule 100s (EMICOX-400)`
+- `Celecoxib 400Mg Cap 100S (Geocoxib)` -> `Celecoxib 400mg Capsule 100s (GEOCOXIB)`
+- `Celecoxib 400Mg Cap 20S (Capxibb)` -> `Celecoxib 400mg Capsule 20s (CAPXIBB)`
+- `Cetirizine 10 Mg Tab 100S (Allecur)` -> `Cetirizine 10 mg Tablet 100s (ALLECUR)`
+- `Cetirizine 10 Mg Tab 100S (Cetrigna)` -> `Cetirizine 10 mg Tablet 100s (CETRIGNA)`
+- `Cetirizine 10 mg Tablet 100's CETICIT` -> `Cetirizine 10 mg Tablet 100s (CETICIT)`
+- `Cetirizine 10 mg Tablet 100's EZALLER` -> `Cetirizine 10 mg Tablet 100s (EZALLER)`
+- `Cetirizine 10mg Tab 100s (CETRINOVA)` -> `Cetirizine 10mg Tablet 100s (CETRINOVA)`
+- `Cetirizine 10Mg Tab 100S (Cetzy)` -> `Cetirizine 10mg Tablet 100s (CETZY)`
+- `Cetirizine 10Mg Tab 100S (Eozet)` -> `Cetirizine 10mg Tablet 100s (EOZET)`
+- `Cetirizine 10mg Tab 100s (IRIZINE)` -> `Cetirizine 10mg Tablet 100s (IRIZINE)`
+- `Cetirizine 10Mg Tab 100S (Saphzine)` -> `Cetirizine 10mg Tablet 100s (SAPHZINE)`
+- `Cetirizine 10Mg Tab 100S (Tracen)` -> `Cetirizine 10mg Tablet 100s (TRACEN)`
+- `Cetirizine 10Mg Tab 100S (Zyrine)` -> `Cetirizine 10mg Tablet 100s (ZYRINE)`
+- `CETIRIZINE 10MG TABLET 100'S (MEDRIZINE)` -> `CETIRIZINE 10mg Tablet 100s (MEDRIZINE)`
+- `Cetirizine 2*5Mg-Ml Drops (Reax)` -> `Cetirizine 2*5mg-Ml Drops (REAX)`
+- `Cetirizine 2*5Mg-Ml Drops 10Ml (Cetalert)` -> `Cetirizine 2*5mg-Ml Drops 10ml (CETALERT)`
+- `Cetirizine 2*5Mg-Ml Drops 15Ml (Cetrisaph-Od)` -> `Cetirizine 2*5mg-Ml Drops 15ml (CETRISAPH-OD)`
+- `Cetirizine 2.5mg Drops 15mL (CETIREX-LD)` -> `Cetirizine 2.5mg Drops 15ml (CETIREX-LD)`
+- `Cetirizine 2.5mg/mL Drops 10Ml (Allecur P)` -> `Cetirizine 2.5mg/mL Drops 10ml (ALLECUR P)`
+- `Cetirizine 2.5mg/mL Drops 10Ml (ALLERJEC)` -> `Cetirizine 2.5mg/mL Drops 10ml (ALLERJEC)`
+- `Cetirizine 5mg + Phenyl 5mg/5mL 60mL (ALLECUR PLUS)` -> `Cetirizine 5mg + Phenyl 5mg/5ml 60ml (ALLECUR PLUS)`
+- `Cetirizine 5mg Syr (CETRIKID)` -> `Cetirizine 5mg Syrup (CETRIKID)`
+- `Cetirizine 5Mg Syr (Dialix)` -> `Cetirizine 5mg Syrup (DIALIX)`
+- `Cetirizine 5Mg Syr (Reax)` -> `Cetirizine 5mg Syrup (REAX)`
+- `Cetirizine 5mg Syr (Zyrine)` -> `Cetirizine 5mg Syrup (ZYRINE)`
+- `Cetirizine 5Mg Syr 60Ml (Allecur)` -> `Cetirizine 5mg Syrup 60ml (ALLECUR)`
+- `Cetirizine 5mg Syr 60ml (Allerchem)` -> `Cetirizine 5mg Syrup 60ml (ALLERCHEM)`
+- `Cetirizine 5Mg Syr 60Ml (Cetrisaph-5)` -> `Cetirizine 5mg Syrup 60ml (CETRISAPH-5)`
+- `Cetirizine 5mg Syr 60mL KHRIZCET(KhrizMED/Generic)` -> `Cetirizine 5mg Syrup 60ml KHRIZCET (KHRIZMED/GENERIC)`
+- `Cetirizine 5Mg Syr Myrex (Cetirex)` -> `Cetirizine 5mg Syrup Myrex (CETIREX)`
+- `Cetirizine 5mg/5mL Syr 60mL (REGICET)` -> `Cetirizine 5mg/5ml Syrup 60ml (REGICET)`
+- `CETIRIZINE HYDROCHLORIDE 2.5 mg/mL (ORAL DROPS) SYRUP 10mL (MEDRIZINE)` -> `CETIRIZINE HYDROCHLORIDE 2.5 mg/mL (ORAL DROPS) Syrup 10ml (MEDRIZINE)`
+- `CETIRIZINE HYDROCHLORIDE 5 mg/5mL SYRUP 60mL (MEDRIZINE)` -> `CETIRIZINE HYDROCHLORIDE 5 mg/5ml Syrup 60ml (MEDRIZINE)`
+- `CETIRIZINE+PHENYLEPHRINE HCL 5MG/10MG TABLET 100'S (APL/Generics)` -> `CETIRIZINE+PHENYLEPHRINE HCL 5mg/10mg Tablet 100s (APL/GENERICS)`
+- `CETIRIZINE+PHENYLEPHRINE HCL 5mg/5mg/5mL 60ML (APL/Generics)` -> `CETIRIZINE+PHENYLEPHRINE HCL 5mg/5mg/5ml 60ml (APL/GENERICS)`
+- `Chloramphenicol 0.5% Ophthalmic Drops 5 mL VISTACHLOR` -> `Chloramphenicol 0.5% Ophthalmic Drops 5 ml (VISTACHLOR)`
+- `Chloramphenicol 125 mg Suspension 60 mL TYPHECLOR` -> `Chloramphenicol 125 mg Suspension 60 ml (TYPHECLOR)`
+- `Chloramphenicol 125Mg Susp (Chlorolem)` -> `Chloramphenicol 125mg Suspension (CHLOROLEM)`
+- `Chloramphenicol 500 mg Capsule 100's CHLOROLEM` -> `Chloramphenicol 500 mg Capsule 100s (CHLOROLEM)`
+- `CHLORPHEN + PHENYL + PARA 2mg/ 10 mg/ 500 mg TABLET 100's (APL/Generics)` -> `CHLORPHEN + PHENYL + PARA 2mg/ 10 mg/ 500 mg Tablet 100s (APL/GENERICS)`
+- `CHLORPHEN + PHENYPROP + PARACETAMOL 2mg/20mg/500mg CAPSULE 100's (APL/Generics)` -> `CHLORPHEN + PHENYPROP + PARACETAMOL 2mg/20mg/500mg Capsule 100s (APL/GENERICS)`
+- `CHLORPHEN+PHENYL+PARACETAMOL 2mg/25mg/325mg 100's (APL/Generics)` -> `CHLORPHEN+PHENYL+PARACETAMOL 2mg/25mg/325mg 100s (APL/GENERICS)`
+- `CHLORPHEN+PHENYL+PARACETAMOL 2mg/25mg/325mg 100's (SYMDENX)` -> `CHLORPHEN+PHENYL+PARACETAMOL 2mg/25mg/325mg 100s (SYMDENX)`
+- `CHLORPHEN+PHENYL+PARACETAMOL 2mg/25mg/500mg 100's (Symdenx Forte)` -> `CHLORPHEN+PHENYL+PARACETAMOL 2mg/25mg/500mg 100s (SYMDENX FORTE)`
+- `Chlorphenamine 10 mg/mL Ampule 10's LORECARE` -> `Chlorphenamine 10 mg/mL Ampule 10s (LORECARE)`
+- `Chlorphenamine 4mg Tab 100S (ALLERMAX)` -> `Chlorphenamine 4mg Tablet 100s (ALLERMAX)`
+- `Chlorphenamine Maleate 2 mg Syrup 60 mL RIPHEN` -> `Chlorphenamine Maleate 2 mg Syrup 60 ml (RIPHEN)`
+- `Chlorphenamine Maleate 4 Mg Tab 100S Mervilar` -> `Chlorphenamine Maleate 4 mg Tablet 100s (MERVILAR)`
+- `Chlorphenamine Maleate 4 mg Tablet 100's RIPHEN` -> `Chlorphenamine Maleate 4 mg Tablet 100s (RIPHEN)`
+- `Chlorpheneramin Maleate Syr 60ml (Mervilar)` -> `Chlorpheneramin Maleate Syrup 60ml (MERVILAR)`
+- `CHLORPHENIRAMINE MALEATE 2.5 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `CHLORPHENIRAMINE MALEATE 2.5 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `CHLORPHENIRAMINE+PHENYL+GUAIFENESIN 2MG/5MG/100MG/5ML 60mL (APL/Generics)` -> `CHLORPHENIRAMINE+PHENYL+GUAIFENESIN 2mg/5mg/100mg/5ml 60ml (APL/GENERICS)`
+- `Cilostazol 100 mg Tablet 30's PLETAXOL` -> `Cilostazol 100 mg Tablet 30s (PLETAXOL)`
+- `Cilostazol 100Mg Tab Zatsol (Ambica) 100S` -> `Cilostazol 100mg Tablet Zatsol 100s (AMBICA)`
+- `Cilostazol 50 mg Tablet 30's PLETAXOL` -> `Cilostazol 50 mg Tablet 30s (PLETAXOL)`
+- `Cilostazol 50Mg Tab 100S (Closcizol)` -> `Cilostazol 50mg Tablet 100s (CLOSCIZOL)`
+- `Cilostazol 50Mg Tab Zatsol (Ambica) 100S` -> `Cilostazol 50mg Tablet Zatsol 100s (AMBICA)`
+- `Cimetidine 400 mg Tablet 100's ULCEP` -> `Cimetidine 400 mg Tablet 100s (ULCEP)`
+- `Cinnarizine 25 mg Tablet 100's MOTICON` -> `Cinnarizine 25 mg Tablet 100s (MOTICON)`
+- `Cinnarizine 25 mg Tablet 100's VERTEX` -> `Cinnarizine 25 mg Tablet 100s (VERTEX)`
+- `Cinnarizine 25Mg Tab 100S (Cinnarigo)` -> `Cinnarizine 25mg Tablet 100s (CINNARIGO)`
+- `Cinnarizine 25Mg Tab 100S (Cinzitab)` -> `Cinnarizine 25mg Tablet 100s (CINZITAB)`
+- `Cinnarizine 25Mg Tab 100S (Rizine)` -> `Cinnarizine 25mg Tablet 100s (RIZINE)`
+- `Ciprofloxacin 2 mg/mL (200 mg/100 mL) Sol'n for IV Infusion 100 mL (QUINOCIP)` -> `Ciprofloxacin 2 mg/mL (200 mg/100 ml) Sol'n for IV Infusion 100 ml (QUINOCIP)`
+- `Ciprofloxacin 2 mg/mL (200 mg/100 mL) Sol'n for IV Infusion 100 mL CIPULOX` -> `Ciprofloxacin 2 mg/mL (200 mg/100 ml) Sol'n for IV Infusion 100 ml (CIPULOX)`
+- `Ciprofloxacin 500 mg Tablet 100's CIPRODIN` -> `Ciprofloxacin 500 mg Tablet 100s (CIPRODIN)`
+- `Ciprofloxacin 500 mg Tablet 100's CYFROX` -> `Ciprofloxacin 500 mg Tablet 100s (CYFROX)`
+- `Ciprofloxacin 500mg Tab 100s (CIPROSAN)` -> `Ciprofloxacin 500mg Tablet 100s (CIPROSAN)`
+- `Citicoline 1g  Tab 30s (CITISAPH-1000)` -> `Citicoline 1g Tablet 30s (CITISAPH-1000)`
+- `Citicoline 1g Tab 30s (Zynerva)` -> `Citicoline 1g Tablet 30s (ZYNERVA)`
+- `Citicoline 1g Tab 50s (CT-COMEED)` -> `Citicoline 1g Tablet 50s (CT-COMEED)`
+- `Citicoline 250 mg/mL (1000 mg/4 mL)  Ampule 10's CITISAPH` -> `Citicoline 250 mg/mL (1000 mg/4 ml) Ampule 10s (CITISAPH)`
+- `Citicoline 500 mg Tablet 30's  CITCOLE` -> `Citicoline 500 mg Tablet 30s (CITCOLE)`
+- `Citicoline 500mg Tab 30s (Cognex)` -> `Citicoline 500mg Tablet 30s (COGNEX)`
+- `Citicoline 500Mg Tab 30S (Strocit)` -> `Citicoline 500mg Tablet 30s (STROCIT)`
+- `Citicoline 500Mg Tab Citxl(Ambica)24S` -> `Citicoline 500mg Tablet Citxl 24s (AMBICA)`
+- `Citicoline 500Mg Tab 30s MEDICOLINE` -> `Citicoline 500mg Tablet 30s (MEDICOLINE)`
+- `Clarithromycin 125 mg Suspension 50 mL CLARITHROMED` -> `Clarithromycin 125 mg Suspension 50 ml (CLARITHROMED)`
+- `Clarithromycin 125 mg Suspension 60 mL ACCETHROM` -> `Clarithromycin 125 mg Suspension 60 ml (ACCETHROM)`
+- `Clarithromycin 125Mg Susp (Clariwell)` -> `Clarithromycin 125mg Suspension (CLARIWELL)`
+- `Clarithromycin 125mg Susp 60ml (Claripak)` -> `Clarithromycin 125mg Suspension 60ml (CLARIPAK)`
+- `Clarithromycin 125mg/5ml Susp 60ml (CLARIMAC)` -> `Clarithromycin 125mg/5ml Suspension 60ml (CLARIMAC)`
+- `Clarithromycin 250 Mg Susp 70Ml Rahmacin` -> `Clarithromycin 250 mg Suspension 70ml (RAHMACIN)`
+- `Clarithromycin 250 mg Suspension 70 mL ACCETHROM` -> `Clarithromycin 250 mg Suspension 70 ml (ACCETHROM)`
+- `Clarithromycin 250Mg Susp 70Ml (Clariwell)` -> `Clarithromycin 250mg Suspension 70ml (CLARIWELL)`
+- `Clarithromycin 500 mg Tablet 30's KLARITHIX` -> `Clarithromycin 500 mg Tablet 30s (KLARITHIX)`
+- `Clarithromycin 500mg Tab 30s (CLARITROL)` -> `Clarithromycin 500mg Tablet 30s (CLARITROL)`
+- `Clarithromycin 500Mg Tab 30S (Clistanex Forte)` -> `Clarithromycin 500mg Tablet 30s (CLISTANEX FORTE)`
+- `Clarithromycin 500mg Tab 30s (KRACID)` -> `Clarithromycin 500mg Tablet 30s (KRACID)`
+- `Clindamycin 150 mg/mL ( 600 mg/4 mL)  Vial 1's EUROMYCIN 600` -> `Clindamycin 150 mg/mL ( 600 mg/4 ml) Vial 1s (EUROMYCIN 600)`
+- `Clindamycin 150 mg/mL (300 mg/2 mL) Ampule 1's QUADCYN` -> `Clindamycin 150 mg/mL (300 mg/2 ml) Ampule 1s (QUADCYN)`
+- `Clindamycin 300 mg Capsule 100's ACRESIL` -> `Clindamycin 300 mg Capsule 100s (ACRESIL)`
+- `Clindamycin 300 mg Capsule 100's CLINDAGOLD` -> `Clindamycin 300 mg Capsule 100s (CLINDAGOLD)`
+- `Clindamycin 300 mg Capsule 100's CLIN-GEN` -> `Clindamycin 300 mg Capsule 100s (CLIN-GEN)`
+- `Clindamycin 300mg Cap 100s (CLINDASAPH)` -> `Clindamycin 300mg Capsule 100s (CLINDASAPH)`
+- `Clindamycin 300mg Cap 100s (CLINTOP)` -> `Clindamycin 300mg Capsule 100s (CLINTOP)`
+- `Clobetasol  500 mcg/g (0.05% w/w) Cream 10 g  PROBELIN` -> `Clobetasol 500 mcg/g (0.05% w/w) Cream 10 g (PROBELIN)`
+- `Clobetasol  500 mcg/g (0.05% w/w) Cream 10 g  TIMOVATE` -> `Clobetasol 500 mcg/g (0.05% w/w) Cream 10 g (TIMOVATE)`
+- `Clobetasol  500 mcg/g (0.05% w/w) Cream 15 g  CLOBIMED` -> `Clobetasol 500 mcg/g (0.05% w/w) Cream 15 g (CLOBIMED)`
+- `Clobetasol 0*05% Ointment 15G (Clovate)` -> `Clobetasol 0*05% Ointment 15G (CLOVATE)`
+- `Clobetasol Cream 10g (Clobila)` -> `Clobetasol Cream 10g (CLOBILA)`
+- `Clobetasol Cream 10g (Eurobel)` -> `Clobetasol Cream 10g (EUROBEL)`
+- `Clobetasol Ointment 15g (Clobfred)` -> `Clobetasol Ointment 15g (CLOBFRED)`
+- `Clonidine 150 mcg Tablet 100's  CLODIN-150` -> `Clonidine 150 mcg Tablet 100s (CLODIN-150)`
+- `Clonidine 150mg Tab 100s (CLONISAPH-150)` -> `Clonidine 150mg Tablet 100s (CLONISAPH-150)`
+- `Clonidine 75 mcg Tablet 100's  CATAMED` -> `Clonidine 75 mcg Tablet 100s (CATAMED)`
+- `Clonidine 75 mcg Tablet 100's CLODIN-75` -> `Clonidine 75 mcg Tablet 100s (CLODIN-75)`
+- `Clonidine 75mcg Tab 100s (CLONISAPH-75)` -> `Clonidine 75mcg Tablet 100s (CLONISAPH-75)`
+- `Clopidogrel 75 mg Tablet 100's COPIDE` -> `Clopidogrel 75 mg Tablet 100s (COPIDE)`
+- `Clopidogrel 75 mg Tablet 100's SAPHLOPID` -> `Clopidogrel 75 mg Tablet 100s (SAPHLOPID)`
+- `CLOPIDOGREL 75MG FILM COATED TABLET (CLOPIWIN-75) 100's` -> `CLOPIDOGREL 75mg FILM COATED Tablet 100s (CLOPIWIN-75)`
+- `Clopidogrel 75mg Tab 100s (CARDIPLAT)` -> `Clopidogrel 75mg Tablet 100s (CARDIPLAT)`
+- `Clopidogrel 75Mg Tab 100S (Centurion)` -> `Clopidogrel 75mg Tablet 100s (CENTURION)`
+- `Clopidogrel 75Mg Tab 100S (Class)` -> `Clopidogrel 75mg Tablet 100s (CLASS)`
+- `Clopidogrel 75mg Tab 100s (CLOGEOVIX)` -> `Clopidogrel 75mg Tablet 100s (CLOGEOVIX)`
+- `Clopidogrel 75mg Tab 100s (Clogrel)` -> `Clopidogrel 75mg Tablet 100s (CLOGREL)`
+- `Clopidogrel 75Mg Tab 100S (Clopend)` -> `Clopidogrel 75mg Tablet 100s (CLOPEND)`
+- `Clopidogrel 75Mg Tab 100S (Clopido-M)` -> `Clopidogrel 75mg Tablet 100s (CLOPIDO-M)`
+- `Clopidogrel 75Mg Tab 100S (Clopinova)` -> `Clopidogrel 75mg Tablet 100s (CLOPINOVA)`
+- `Clopidogrel 75mg Tab 100s (KHRIZVIX)` -> `Clopidogrel 75mg Tablet 100s (KHRIZVIX)`
+- `Clopidogrel 75mg Tab 100s (PIDOGREL)` -> `Clopidogrel 75mg Tablet 100s (PIDOGREL)`
+- `Clopidogrel 75Mg Tab 100S (Zandropil)` -> `Clopidogrel 75mg Tablet 100s (ZANDROPIL)`
+- `Clotrimazole 10 mg/g  (1% w/w) Cream 15g NOVAMET` -> `Clotrimazole 10 mg/g (1% w/w) Cream 15g (NOVAMET)`
+- `Clotrimazole 10 mg/g  (1% w/w) Cream 20 g CLOZOL` -> `Clotrimazole 10 mg/g (1% w/w) Cream 20 g (CLOZOL)`
+- `Clotrimazole Cream 10G (Clotizole)` -> `Clotrimazole Cream 10G (CLOTIZOLE)`
+- `Clotrimazole Cream 10g CLOTRISAPH` -> `Clotrimazole Cream 10g (CLOTRISAPH)`
+- `Clotrimazole Cream 20g (Topiclo)` -> `Clotrimazole Cream 20g (TOPICLO)`
+- `Cloxacillin 125 mg Suspension 60 mL DIALOX` -> `Cloxacillin 125 mg Suspension 60 ml (DIALOX)`
+- `Cloxacillin 125Mg Susp (Myreclox)` -> `Cloxacillin 125mg Suspension (MYRECLOX)`
+- `Cloxacillin 125Mg Susp (Nocloxol)` -> `Cloxacillin 125mg Suspension (NOCLOXOL)`
+- `Cloxacillin 125mg Susp 60mL (CLOXASAPH-125)` -> `Cloxacillin 125mg Suspension 60ml (CLOXASAPH-125)`
+- `Cloxacillin 250 mg Capsule 100's CLOXID-250` -> `Cloxacillin 250 mg Capsule 100s (CLOXID-250)`
+- `Cloxacillin 250 mg Suspension 60 mL DIALOX` -> `Cloxacillin 250 mg Suspension 60 ml (DIALOX)`
+- `Cloxacillin 250Mg Susp (Oxeed)` -> `Cloxacillin 250mg Suspension (OXEED)`
+- `Cloxacillin 250Mg Susp 60Ml (Myreclox)` -> `Cloxacillin 250mg Suspension 60ml (MYRECLOX)`
+- `Cloxacillin 500 Mg Cap 100S Philclox` -> `Cloxacillin 500 mg Capsule 100s (PHILCLOX)`
+- `Cloxacillin 500 mg Capsule 100's (CLOXANE)` -> `Cloxacillin 500 mg Capsule 100s (CLOXANE)`
+- `Cloxacillin 500 mg Capsule 100's CLOXID-500` -> `Cloxacillin 500 mg Capsule 100s (CLOXID-500)`
+- `Cloxacillin 500 mg Capsule 100's UNICLOX` -> `Cloxacillin 500 mg Capsule 100s (UNICLOX)`
+- `Cloxacillin 500Mg Cap 100S (Nocloxol)` -> `Cloxacillin 500mg Capsule 100s (NOCLOXOL)`
+- `Co-Amoxiclav 125mg/31.25mg Susp 60mL (Clovimed)` -> `Co-Amoxiclav 125mg/31.25mg Suspension 60ml (CLOVIMED)`
+- `Co-Amoxiclav 125mg/31.25 mg Susp 60 mL CO-AMOXISAPH-125` -> `Co-Amoxiclav 125mg/31.25 mg Suspension 60 ml (CO-AMOXISAPH-125)`
+- `Co-Amoxiclav 156.25 mg Suspension 60 mL COMXICLA-125` -> `Co-Amoxiclav 156.25 mg Suspension 60 ml (COMXICLA-125)`
+- `CO-AMOXICLAV 1G FILM-COATED TABLET (GENERIC) 8's` -> `CO-AMOXICLAV 1G FILM-COATED Tablet 8s (GENERIC)`
+- `Co-Amoxiclav 1g Tab 14s (Rapiclav)` -> `Co-Amoxiclav 1g Tablet 14s (RAPICLAV)`
+- `Co-Amoxiclav 250mg/62.5mg Susp 60 mL CO-AMOXISAPH-250` -> `Co-Amoxiclav 250mg/62.5mg Suspension 60 ml (CO-AMOXISAPH-250)`
+- `Co-amoxiclav 250mg/62.5mg Susp 60mL (COMOXI DS)` -> `Co-amoxiclav 250mg/62.5mg Suspension 60ml (COMOXI DS)`
+- `Co-Amoxiclav 250mg/62.5mg Susp 60mL (Mixclav)` -> `Co-Amoxiclav 250mg/62.5mg Suspension 60ml (MIXCLAV)`
+- `Co-Amoxiclav 250Mg-62*5Mg Susp 60Ml (Clovimed)` -> `Co-Amoxiclav 250mg-62*5mg Suspension 60ml (CLOVIMED)`
+- `Co-Amoxiclav 312.5 mg Suspension 60 mL COMXICLA-250` -> `Co-Amoxiclav 312.5 mg Suspension 60 ml (COMXICLA-250)`
+- `Co-Amoxiclav 312.5 mg Suspension 60 mL MEOXICLAV-DS` -> `Co-Amoxiclav 312.5 mg Suspension 60 ml (MEOXICLAV-DS)`
+- `Co-Amoxiclav 312.5 Susp 60ml (AUGMEED)` -> `Co-Amoxiclav 312.5 Suspension 60ml (AUGMEED)`
+- `Co-Amoxiclav 400Mg-57Mg Susp 70 Ml (Clovimed)` -> `Co-Amoxiclav 400mg-57mg Suspension 70 ml (CLOVIMED)`
+- `Co-Amoxiclav 457 mg Suspension 70 mL MEOXICLAV-DS` -> `Co-Amoxiclav 457 mg Suspension 70 ml (MEOXICLAV-DS)`
+- `Co-Amoxiclav 457mg Susp 70mL (CLAVMED)` -> `Co-Amoxiclav 457mg Suspension 70ml (CLAVMED)`
+- `Co-amoxiclav 457mg/5ml Susp 70ml (AUGMEED 457)` -> `Co-amoxiclav 457mg/5ml Suspension 70ml (AUGMEED 457)`
+- `Co-Amoxiclav 457mg/5mL Susp 70mL (CLAVXICURE)` -> `Co-Amoxiclav 457mg/5ml Suspension 70ml (CLAVXICURE)`
+- `Co-Amoxiclav 625 mg Tablet 21's RAPICLAV` -> `Co-Amoxiclav 625 mg Tablet 21s (RAPICLAV)`
+- `Co-Amoxiclav 625Mg Tab 12S (Axiclav)` -> `Co-Amoxiclav 625mg Tablet 12s (AXICLAV)`
+- `Co-amoxiclav 625mg Tab 14s (ASICLAV)` -> `Co-amoxiclav 625mg Tablet 14s (ASICLAV)`
+- `Co-amoxiclav 625mg Tab 14s (Endclav)` -> `Co-amoxiclav 625mg Tablet 14s (ENDCLAV)`
+- `Co-Amoxiclav 625Mg Tab 14S (Raniclav)` -> `Co-Amoxiclav 625mg Tablet 14s (RANICLAV)`
+- `Co-Amoxiclav 625mg Tab 20s (COMOXBET)` -> `Co-Amoxiclav 625mg Tablet 20s (COMOXBET)`
+- `Co-Amoxiclav 625Mg Tab 20S (Comxicla)` -> `Co-Amoxiclav 625mg Tablet 20s (COMXICLA)`
+- `Co-Amoxiclav 625mg Tab 20s (Moxtar CV625)` -> `Co-Amoxiclav 625mg Tablet 20s (MOXTAR CV625)`
+- `Co-Amoxixclav 156.25mg/5mL Susp 60mL (Comoxi)` -> `Co-Amoxixclav 156.25mg/5ml Suspension 60ml (COMOXI)`
+- `Colchicine 500 mcg Tablet 100's (Vonwelt)` -> `Colchicine 500 mcg Tablet 100s (VONWELT)`
+- `Colchicine 500 mcg Tablet 100's GOUTSAPH` -> `Colchicine 500 mcg Tablet 100s (GOUTSAPH)`
+- `Colchicine 500Mcg Tab 100S (Goutrelief)` -> `Colchicine 500mcg Tablet 100s (GOUTRELIEF)`
+- `Cotrimoxazole 200/40 mg Suspension 60 mL KATHREX` -> `Cotrimoxazole 200/40 mg Suspension 60 ml (KATHREX)`
+- `Cotrimoxazole 200/40mg Susp 60mL (Bactrex)` -> `Cotrimoxazole 200/40mg Suspension 60ml (BACTREX)`
+- `Cotrimoxazole 200-40 Mg Susp 60 Ml Cotrimaxol` -> `Cotrimoxazole 200-40 mg Suspension 60 ml (COTRIMAXOL)`
+- `Cotrimoxazole 240Mg Susp (Trymerin)` -> `Cotrimoxazole 240mg Suspension (TRYMERIN)`
+- `Cotrimoxazole 400 /80 mg Suspension 60 mL DIAZOLE` -> `Cotrimoxazole 400 /80 mg Suspension 60 ml (DIAZOLE)`
+- `Cotrimoxazole 400-80 Mg Tab 100S Kathrex` -> `Cotrimoxazole 400-80 mg Tablet 100s (KATHREX)`
+- `Cotrimoxazole 400-80Mg Tab 100S (Cotrimaxol)` -> `Cotrimoxazole 400-80mg Tablet 100s (COTRIMAXOL)`
+- `Cotrimoxazole 400Mg-80mg Susp (Kathrex)` -> `Cotrimoxazole 400mg-80mg Suspension (KATHREX)`
+- `Cotrimoxazole 800 mg/160 mg Tablet 100's KATHREX` -> `Cotrimoxazole 800 mg/160 mg Tablet 100s (KATHREX)`
+- `Cotrimoxazole 800Mg Tab 100S (Zolbach)` -> `Cotrimoxazole 800mg Tablet 100s (ZOLBACH)`
+- `CPM + Phenyl +Guai Syr 60mL (MUCULER)` -> `CPM + Phenyl +Guai Syrup 60ml (MUCULER)`
+- `Dexa+Neo+Poly Opthalmic Drops 5mL (SYNTEMAX)` -> `Dexa+Neo+Poly Opthalmic Drops 5ml (SYNTEMAX)`
+- `Dexa+Neo+Poly Otic Drops 5mL (SYNTEMAX)` -> `Dexa+Neo+Poly Otic Drops 5ml (SYNTEMAX)`
+- `Dexamethasone 4 mg/mL (8 mg/2 mL) Ampule 10's MOHSIDEX` -> `Dexamethasone 4 mg/mL (8 mg/2 ml) Ampule 10s (MOHSIDEX)`
+- `Dexamethasone 500 mcg Tablet 100's IMPODEX` -> `Dexamethasone 500 mcg Tablet 100s (IMPODEX)`
+- `Dexamethasone 500mcg Tab 100s (Dexat)` -> `Dexamethasone 500mcg Tablet 100s (DEXAT)`
+- `DEXTRO HDr + GUAIFENESIN 15 mg /100mg per 5 mL SYRUP 60mL (APL/Generics)` -> `DEXTRO HDr + GUAIFENESIN 15 mg /100mg per 5 ml Syrup 60ml (APL/GENERICS)`
+- `Dextrometorphan 10mg Syr 60Ml (DEXTROSAPH-10)` -> `Dextrometorphan 10mg Syrup 60ml (DEXTROSAPH-10)`
+- `Dextrometorphan 10Mg Syr 60Ml (Mucolem)` -> `Dextrometorphan 10mg Syrup 60ml (MUCOLEM)`
+- `Dextrometorphan 10mg Tab 100s (RESPIMAX)` -> `Dextrometorphan 10mg Tablet 100s (RESPIMAX)`
+- `Diclofenac 100 mg Tablet (Film coated) 100's CURAFEN` -> `Diclofenac 100 mg Tablet (Film coated) 100s (CURAFEN)`
+- `Diclofenac 50 mg Tablet 100's DICTAS` -> `Diclofenac 50 mg Tablet 100s (DICTAS)`
+- `Diclofenac 50 mg Tablet 100's FENCID` -> `Diclofenac 50 mg Tablet 100s (FENCID)`
+- `Diclofenac 50 mg Tablet 100's PHILFLAM DR` -> `Diclofenac 50 mg Tablet 100s (PHILFLAM DR)`
+- `Diclofenac 50 mg Tablet 100's VOREN` -> `Diclofenac 50 mg Tablet 100s (VOREN)`
+- `Diclofenac 50Mg Tab 100S (Boren)` -> `Diclofenac 50mg Tablet 100s (BOREN)`
+- `Diclofenac 50Mg Tab 100S (Mesofid)` -> `Diclofenac 50mg Tablet 100s (MESOFID)`
+- `Diclofenac 50mg Tab 100s (TRIFOCID)` -> `Diclofenac 50mg Tablet 100s (TRIFOCID)`
+- `Diclofenac Na 50mg E.C. Tab 100s (SITIFLAM)` -> `Diclofenac Na 50mg E.C. Tablet 100s (SITIFLAM)`
+- `Diclofenac Sodium 25 mg/mL  Ampule 10's DIFLOSID` -> `Diclofenac Sodium 25 mg/mL Ampule 10s (DIFLOSID)`
+- `Dicycloverine 10 Mg Syr 60 Ml (Lumar) Cyclium` -> `Dicycloverine 10 mg Syrup 60 ml ((LUMAR) CYCLIUM)`
+- `Dicycloverine 10 Mg Syr 60 Ml Diaciel` -> `Dicycloverine 10 mg Syrup 60 ml (DIACIEL)`
+- `Dicycloverine 10mg Syr 60ml (Myrentyl)` -> `Dicycloverine 10mg Syrup 60ml (MYRENTYL)`
+- `Dicycloverine 10Mg Tab 100S (Diaciel)` -> `Dicycloverine 10mg Tablet 100s (DIACIEL)`
+- `Dicycloverine 10Mg Tab 100S (Dicyrine)` -> `Dicycloverine 10mg Tablet 100s (DICYRINE)`
+- `DICYCLOVERINE 10MG TABLET 100'S (GASAIDE)` -> `DICYCLOVERINE 10mg Tablet 100s (GASAIDE)`
+- `DICYCLOVERINE HYDROCHLORIDE 10 mg/ 5 mL SYRUP 60mL (GASAIDE)` -> `DICYCLOVERINE HYDROCHLORIDE 10 mg/ 5 ml Syrup 60ml (GASAIDE)`
+- `Digoxin 250 mcg Tablet 100's DIGOSAPH` -> `Digoxin 250 mcg Tablet 100s (DIGOSAPH)`
+- `Digoxin 250 mcg Tablet 100's DIXIN` -> `Digoxin 250 mcg Tablet 100s (DIXIN)`
+- `Digoxin 250Mcg Tab 100S (Inoxin)` -> `Digoxin 250mcg Tablet 100s (INOXIN)`
+- `Digoxin 250Mcg Tab 100S CARDOXIN` -> `Digoxin 250mcg Tablet 100s (CARDOXIN)`
+- `Diltiazem 30 mg Tablet 100's NOVOPTIN` -> `Diltiazem 30 mg Tablet 100s (NOVOPTIN)`
+- `Diltiazem 30 mg Tablet 100's ZEMDIL` -> `Diltiazem 30 mg Tablet 100s (ZEMDIL)`
+- `Diltiazem 60 mg Tablet 100's NOVOPTIN` -> `Diltiazem 60 mg Tablet 100s (NOVOPTIN)`
+- `Diosmin 450 mg  + Hesperidin 50 mg Tablet 30's DIOSMED` -> `Diosmin 450 mg + Hesperidin 50 mg Tablet 30s (DIOSMED)`
+- `Diosmin 450Mg + Hesper 50Mg Tab 30S (Hemobles)` -> `Diosmin 450mg + Hesper 50mg Tablet 30s (HEMOBLES)`
+- `Diosmin 450Mg + Hesper 50Mg Tab 30S (Veinxell)` -> `Diosmin 450mg + Hesper 50mg Tablet 30s (VEINXELL)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (DIOSGEN)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (DIOSGEN)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (Diosid)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (DIOSID)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (HESMINSAPH-500)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (HESMINSAPH-500)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (NORMANAL)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (NORMANAL)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (RHOIDS)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (RHOIDS)`
+- `Diphenhydramine 12*5 Mg Syr 60Ml (Histazyn)` -> `Diphenhydramine 12*5 mg Syrup 60ml (HISTAZYN)`
+- `Diphenhydramine 12.5 mg Syrup 60 mL DIAHIST` -> `Diphenhydramine 12.5 mg Syrup 60 ml (DIAHIST)`
+- `Diphenhydramine 12.5mg Syr 60mL (HISTAMOX)` -> `Diphenhydramine 12.5mg Syrup 60ml (HISTAMOX)`
+- `Diphenhydramine 25 mg Capsule 100's MUCOMED` -> `Diphenhydramine 25 mg Capsule 100s (MUCOMED)`
+- `Diphenhydramine 50 mg Capsule 100's HISTAZYN` -> `Diphenhydramine 50 mg Capsule 100s (HISTAZYN)`
+- `Diphenhydramine 50Mg Amp 10S (Alleright)` -> `Diphenhydramine 50mg Amp 10s (ALLERIGHT)`
+- `Diphenhydramine 50Mg Cap 100S (Histamox)` -> `Diphenhydramine 50mg Capsule 100s (HISTAMOX)`
+- `Diphenhydramine HCl 50 mg/mL Ampule 10s RABAPHEN` -> `Diphenhydramine HCl 50 mg/mL Ampule 10s (RABAPHEN)`
+- `DIPHENHYDRAMINE SYRUP 60ml (APL/Generics)` -> `DIPHENHYDRAMINE Syrup 60ml (APL/GENERICS)`
+- `Domperidone 1 mg Suspension 60 mL ACCEDOME` -> `Domperidone 1 mg Suspension 60 ml (ACCEDOME)`
+- `Domperidone 1 mg Suspension 60 mL DOMPEWELL` -> `Domperidone 1 mg Suspension 60 ml (DOMPEWELL)`
+- `Domperidone 1 mg Suspension 60 mL DOMPY` -> `Domperidone 1 mg Suspension 60 ml (DOMPY)`
+- `Domperidone 10Mg Film Coated Tab 100S (Apuldon)` -> `Domperidone 10mg Film Coated Tablet 100s (APULDON)`
+- `Domperidone 10mg tab 100s (Dubamol)` -> `Domperidone 10mg Tablet 100s (DUBAMOL)`
+- `Domperidone 10mg Tab 100s (Emestal)` -> `Domperidone 10mg Tablet 100s (EMESTAL)`
+- `Domperidone 10mg Tab 100s (GASTRIFAR)` -> `Domperidone 10mg Tablet 100s (GASTRIFAR)`
+- `Domperidone 10Mg Tab 100S (Saphridone)` -> `Domperidone 10mg Tablet 100s (SAPHRIDONE)`
+- `DOMPERIDONE 10mg TABLET 100's (APL/Generics)` -> `DOMPERIDONE 10mg Tablet 100s (APL/GENERICS)`
+- `Domperidone Maleate 10mg Tab 100s (Dompedone)` -> `Domperidone Maleate 10mg Tablet 100s (DOMPEDONE)`
+- `Doxofylline 400 mg Tablet 30's DIXYLLINE` -> `Doxofylline 400 mg Tablet 30s (DIXYLLINE)`
+- `Doxofylline 400 mg Tablet 30's SAPHFYLLINE` -> `Doxofylline 400 mg Tablet 30s (SAPHFYLLINE)`
+- `Doxofylline 400Mg Tab 100S (Doxollin)` -> `Doxofylline 400mg Tablet 100s (DOXOLLIN)`
+- `Doxofylline 400Mg Tab Doxair(Lloyd)100S` -> `Doxofylline 400mg Tablet Doxair 100s (LLOYD)`
+- `Doxycycline 100 mg Capsule 100's (Doxysaph)` -> `Doxycycline 100 mg Capsule 100s (DOXYSAPH)`
+- `Doxycycline 100 mg Capsule 100's MYDOXY` -> `Doxycycline 100 mg Capsule 100s (MYDOXY)`
+- `Doxycycline 100 mg Capsule 100's PIDCLIN` -> `Doxycycline 100 mg Capsule 100s (PIDCLIN)`
+- `Doxycycline 100Mg Cap 100S (Dothix)` -> `Doxycycline 100mg Capsule 100s (DOTHIX)`
+- `Doxycycline Hyclate 100mg Cap 100s (Doxyperl)` -> `Doxycycline Hyclate 100mg Capsule 100s (DOXYPERL)`
+- `Enalapril Maleate 10 mg Tablet 100's SCHEEPRIL` -> `Enalapril Maleate 10 mg Tablet 100s (SCHEEPRIL)`
+- `Enalapril Maleate 10Mg Tab 100S (Renite-Xl)` -> `Enalapril Maleate 10mg Tablet 100s (RENITE-XL)`
+- `Enalapril Maleate 20 Mg Tab 30S (Stalpril-20)` -> `Enalapril Maleate 20 mg Tablet 30s (STALPRIL-20)`
+- `Enalapril Maleate 20 mg Tablet 100's SCHEEPRIL` -> `Enalapril Maleate 20 mg Tablet 100s (SCHEEPRIL)`
+- `Enalapril Maleate 5 mg Tablet 100's SCHEEPRIL` -> `Enalapril Maleate 5 mg Tablet 100s (SCHEEPRIL)`
+- `Enalapril Maleate 5Mg Tab 100S (Renite-Xl)` -> `Enalapril Maleate 5mg Tablet 100s (RENITE-XL)`
+- `Encazym Bacillus Clausii (2 billion/10mL) 20s` -> `Encazym Bacillus Clausii 20s (2 BILLION/10ML)`
+- `Epinephrine 1 mg/mL  Ampule 10's EPICARE` -> `Epinephrine 1 mg/mL Ampule 10s (EPICARE)`
+- `Epinephrine 1 mg/mL  Ampule 1's EPIBBAS` -> `Epinephrine 1 mg/mL Ampule 1s (EPIBBAS)`
+- `Epinephrine 1 ml inj 10s (Grand Pharma)` -> `Epinephrine 1 ml inj 10s (GRAND PHARMA)`
+- `Erythromycin 200 mg Suspension 60 mL Generic-Drugmakers` -> `Erythromycin 200 mg Suspension 60 ml (GENERIC-DRUGMAKERS)`
+- `Erythromycin 200 mg Suspension 60 mL MONPHEVIN` -> `Erythromycin 200 mg Suspension 60 ml (MONPHEVIN)`
+- `Erythromycin 5 mg/g (0.5%) Eye Ointment 5 g OPTRYL` -> `Erythromycin 5 mg/g (0.5%) Eye Ointment 5 g (OPTRYL)`
+- `Erythromycin 500 mg Tablet 100's ERYSAPH-T500` -> `Erythromycin 500 mg Tablet 100s (ERYSAPH-T500)`
+- `Erythromycin 500 mg Tablet 100's ERZIN` -> `Erythromycin 500 mg Tablet 100s (ERZIN)`
+- `Erythromycin 500mg Tab 100s (MONPHEVIN)` -> `Erythromycin 500mg Tablet 100s (MONPHEVIN)`
+- `Erythromycin 500Mg Tab 100S (Tromxene)` -> `Erythromycin 500mg Tablet 100s (TROMXENE)`
+- `Erythromycin Ointment 3*5G (Eryzin)` -> `Erythromycin Ointment 3*5G (ERYZIN)`
+- `Esomeprazole 40 mg Tablet 30's ESOMEBLOC` -> `Esomeprazole 40 mg Tablet 30s (ESOMEBLOC)`
+- `Esomeprazole 40Mg Cap 28s (Esmegerd)` -> `Esomeprazole 40mg Capsule 28s (ESMEGERD)`
+- `Esomeprazole 40Mg Cap 30s (ESOTAZ-40)` -> `Esomeprazole 40mg Capsule 30s (ESOTAZ-40)`
+- `Esomeprazole 40Mg Cap Esometor(Medethix)30S` -> `Esomeprazole 40mg Capsule Esometor 30s (MEDETHIX)`
+- `ESOMEPRAZOLE 40MG DELAYED-RELEASE CAPSULE (FRAZONE 40) 30's` -> `ESOMEPRAZOLE 40mg DELAYED-RELEASE Capsule 30s (FRAZONE 40)`
+- `Esomeprazole 40mg Tab 100s (NOVAPRAZ)` -> `Esomeprazole 40mg Tablet 100s (NOVAPRAZ)`
+- `Esomeprazole 40Mg Tab 14S (Esmegerd)` -> `Esomeprazole 40mg Tablet 14s (ESMEGERD)`
+- `Esomeprazole 40mg Tab 30s (ESOMEPRASAPH-40)` -> `Esomeprazole 40mg Tablet 30s (ESOMEPRASAPH-40)`
+- `Ethambutol 400 mg Tablet 100's HAMBUTOL` -> `Ethambutol 400 mg Tablet 100s (HAMBUTOL)`
+- `Ethambutol 400Mg Tab 100S (Medbutol)` -> `Ethambutol 400mg Tablet 100s (MEDBUTOL)`
+- `Etoricoxib 120 mg Tablet 30's (XIBRA)` -> `Etoricoxib 120 mg Tablet 30s (XIBRA)`
+- `Etoricoxib 120 mg Tablet 30's SAPHETOR-120` -> `Etoricoxib 120 mg Tablet 30s (SAPHETOR-120)`
+- `Etoricoxib 120mg Tab 30s (ETIROX)` -> `Etoricoxib 120mg Tablet 30s (ETIROX)`
+- `Etoricoxib 120mg Tab 30s (ETORINOV-120)` -> `Etoricoxib 120mg Tablet 30s (ETORINOV-120)`
+- `Etoricoxib 120mg Tab 30s (ETOXIA-120)` -> `Etoricoxib 120mg Tablet 30s (ETOXIA-120)`
+- `Etoricoxib 120mg Tab 30s (KOGZIB)` -> `Etoricoxib 120mg Tablet 30s (KOGZIB)`
+- `Etoricoxib 120mg Tab 50s (Xibora-120)` -> `Etoricoxib 120mg Tablet 50s (XIBORA-120)`
+- `Etoricoxib 90 mg Tablet 30's SAPHETOR-90` -> `Etoricoxib 90 mg Tablet 30s (SAPHETOR-90)`
+- `Etoricoxib 90mg Tab 30s (ETOXIA-90)` -> `Etoricoxib 90mg Tablet 30s (ETOXIA-90)`
+- `Etoricoxib 90mg Tab 30s (KOGZIB-90)` -> `Etoricoxib 90mg Tablet 30s (KOGZIB-90)`
+- `Etoricoxib 90mg Tab 50s (XIBORA)` -> `Etoricoxib 90mg Tablet 50s (XIBORA)`
+- `Evening Primrose Oil + Omega-3 Fish Oil 1000 mg Softgel Capsule 30's NATURALLE` -> `Evening Primrose Oil + Omega-3 Fish Oil 1000 mg Softgel Capsule 30s (NATURALLE)`
+- `Evening Primrose Oil 1000 mg Capsule 30's E-ROSE` -> `Evening Primrose Oil 1000 mg Capsule 30s (E-ROSE)`
+- `EveningOil+Omega 1000Mg Cap 30S (Medirose)` -> `EveningOil+Omega 1000mg Capsule 30s (MEDIROSE)`
+- `Febuxostat 40 mg Tablet 30's  FEVORICA-40` -> `Febuxostat 40 mg Tablet 30s (FEVORICA-40)`
+- `Febuxostat 40 mg Tablet 30's  OUTFREE-40` -> `Febuxostat 40 mg Tablet 30s (OUTFREE-40)`
+- `Febuxostat 40mg Tab 30s (AFIXOSTAT)` -> `Febuxostat 40mg Tablet 30s (AFIXOSTAT)`
+- `Febuxostat 40Mg Tab 30S (Febuday)` -> `Febuxostat 40mg Tablet 30s (FEBUDAY)`
+- `Febuxostat 40mg Tab 30s (Febunol)` -> `Febuxostat 40mg Tablet 30s (FEBUNOL)`
+- `Febuxostat 40mg Tab 30s (Febuxosaph-40)` -> `Febuxostat 40mg Tablet 30s (FEBUXOSAPH-40)`
+- `Febuxostat 40mg Tab 30s (GRAXOSTAT)` -> `Febuxostat 40mg Tablet 30s (GRAXOSTAT)`
+- `Febuxostat 40mg Tab 30s (XURIC-40)` -> `Febuxostat 40mg Tablet 30s (XURIC-40)`
+- `Febuxostat 80 Mg Tab 10S (Febsan)` -> `Febuxostat 80 mg Tablet 10s (FEBSAN)`
+- `Febuxostat 80 mg Tablet 30's  FEVORICA-80` -> `Febuxostat 80 mg Tablet 30s (FEVORICA-80)`
+- `Febuxostat 80 mg Tablet 30's  OUTFREE-80` -> `Febuxostat 80 mg Tablet 30s (OUTFREE-80)`
+- `Febuxostat 80mg Tab 30s (AFIXOSTAT)` -> `Febuxostat 80mg Tablet 30s (AFIXOSTAT)`
+- `Febuxostat 80mg Tab 30s (Febunol)` -> `Febuxostat 80mg Tablet 30s (FEBUNOL)`
+- `Febuxostat 80mg Tab 30s (Saphxostat)` -> `Febuxostat 80mg Tablet 30s (SAPHXOSTAT)`
+- `Felodipine 10mg Tab 30s (FELOSTAR)` -> `Felodipine 10mg Tablet 30s (FELOSTAR)`
+- `Felodipine 5 mg Tablet 100's FELOSTAL-5 ER` -> `Felodipine 5 mg Tablet 100s (FELOSTAL-5 ER)`
+- `Fenofibrate 160 mg Tablet 30's FENO-TG` -> `Fenofibrate 160 mg Tablet 30s (FENO-TG)`
+- `Fenofibrate 160mg Tab 100s (Fenoblast)` -> `Fenofibrate 160mg Tablet 100s (FENOBLAST)`
+- `Fenofibrate 160mg Tab 100s (FENOSAPH-160)` -> `Fenofibrate 160mg Tablet 100s (FENOSAPH-160)`
+- `Fenofibrate 200mg cap 100s (AMB) FENORIX` -> `Fenofibrate 200mg Capsule 100s ((AMB) FENORIX)`
+- `Fenofibrate 200mg Cap 100s (FENOCARE)` -> `Fenofibrate 200mg Capsule 100s (FENOCARE)`
+- `Fenofibrate 200mg Cap 100s (Fenosaph)` -> `Fenofibrate 200mg Capsule 100s (FENOSAPH)`
+- `Fenofibrate 200Mg Cap 30S (Lotrilip)` -> `Fenofibrate 200mg Capsule 30s (LOTRILIP)`
+- `Fenofibrate 200Mg Cap 50S (Fenofast)` -> `Fenofibrate 200mg Capsule 50s (FENOFAST)`
+- `FENOFIBRATE 200mg CAPSULE 100's (FENOBRIT)` -> `FENOFIBRATE 200mg Capsule 100s (FENOBRIT)`
+- `Ferrous + Folic Acid 300Mg Tab 100S (Ferolitab)` -> `Ferrous + Folic Acid 300mg Tablet 100s (FEROLITAB)`
+- `Ferrous + Folic 400 mcg Tab 100's ANIFER` -> `Ferrous + Folic 400 mcg Tablet 100s (ANIFER)`
+- `Ferrous Sulfate 150Mg Syr 60Ml (Ferolem)` -> `Ferrous Sulfate 150mg Syrup 60ml (FEROLEM)`
+- `Ferrous Sulfate 220 mg Syrup 60 mL (Generic-Drugmakers)` -> `Ferrous Sulfate 220 mg Syrup 60 ml (GENERIC-DRUGMAKERS)`
+- `Ferrous Sulfate (75mg)250 mg Capsule 100's ANEMICON` -> `Ferrous Sulfate (75mg)250 mg Capsule 100s (ANEMICON)`
+- `Ferrous Sulfate 250Mg Cap 100S (Brisofer)` -> `Ferrous Sulfate 250mg Capsule 100s (BRISOFER)`
+- `Ferrous Sulfate 300 mg + Folic  250 mcg Tablet 100's AMECIRON` -> `Ferrous Sulfate 300 mg + Folic 250 mcg Tablet 100s (AMECIRON)`
+- `Ferrous Sulfate 325Mg Tab 100S (Ferricore)` -> `Ferrous Sulfate 325mg Tablet 100s (FERRICORE)`
+- `Ferrous Sulfate 325mg Tab 100s (IRONFER)` -> `Ferrous Sulfate 325mg Tablet 100s (IRONFER)`
+- `Ferrous Sulfate 325mg(104.84 Iron) Tab 100s REGIFER` -> `Ferrous Sulfate 325mg(104.84 Iron) Tablet 100s (REGIFER)`
+- `FERROUS SULFATE 325MG TABLET 100' s (FERUZ)` -> `FERROUS SULFATE 325mg Tablet 100s (FERUZ)`
+- `Ferrous Sulfate 500 mg Capsule 100's (HEMAFER)` -> `Ferrous Sulfate 500 mg Capsule 100s (HEMAFER)`
+- `Ferrous Sulfate 500 mg Capsule 100's COM-FEMIC` -> `Ferrous Sulfate 500 mg Capsule 100s (COM-FEMIC)`
+- `Ferrous Sulfate 75mg Drops 15 mL (Iron 15 mg) FERLUM` -> `Ferrous Sulfate 75mg Drops 15 ml ((IRON 15 MG) FERLUM)`
+- `FERROUS SULFATE HEPTAHYDRATE 75 mg/ 0.6 mL SYRUP 15mL (APL/Generics)` -> `FERROUS SULFATE HEPTAHYDRATE 75 mg/ 0.6 ml Syrup 15ml (APL/GENERICS)`
+- `Ferrous Sulfate Syr 60Ml Ferlum(Lumar)` -> `Ferrous Sulfate Syrup 60ml Ferlum (LUMAR)`
+- `Finasteride 5 mg Tablet 100's FINAPROS` -> `Finasteride 5 mg Tablet 100s (FINAPROS)`
+- `Finasteride 5 mg Tablet 30's EOSTERIDE` -> `Finasteride 5 mg Tablet 30s (EOSTERIDE)`
+- `Finasteride 5Mg Tab 100S (Pelosta)` -> `Finasteride 5mg Tablet 100s (PELOSTA)`
+- `Finasteride 5mg Tab 100s (Saphteride)` -> `Finasteride 5mg Tablet 100s (SAPHTERIDE)`
+- `Finasteride 5Mg Tab Finasia(Ambica)30S` -> `Finasteride 5mg Tablet Finasia 30s (AMBICA)`
+- `Fluconazole 150 mg Capsule 5's FLUCONOBAS` -> `Fluconazole 150 mg Capsule 5s (FLUCONOBAS)`
+- `Fluconazole 150mg Cap 12S (DIFLU)` -> `Fluconazole 150mg Capsule 12s (DIFLU)`
+- `Fluconazole 150mg Cap 12s (SAPHLUCAZ)` -> `Fluconazole 150mg Capsule 12s (SAPHLUCAZ)`
+- `Fluconazole 150mg Cap 1s (FLUX)` -> `Fluconazole 150mg Capsule 1s (FLUX)`
+- `Fluconazole 150mg Cap 20s (FLUX)` -> `Fluconazole 150mg Capsule 20s (FLUX)`
+- `FLUCONAZOLE 150MG CAPSULE (FUNGBY) 1's` -> `FLUCONAZOLE 150mg Capsule 1s (FUNGBY)`
+- `Folic Acid 5 mg Capsule 100's FOLISAPH` -> `Folic Acid 5 mg Capsule 100s (FOLISAPH)`
+- `Folic Acid 5 mg Capsule 100's PREVENA` -> `Folic Acid 5 mg Capsule 100s (PREVENA)`
+- `Folic Acid 5mg Cap 100s (FOLIDAZE)` -> `Folic Acid 5mg Capsule 100s (FOLIDAZE)`
+- `Folic Acid 5Mg Cap 100S (Foliz)` -> `Folic Acid 5mg Capsule 100s (FOLIZ)`
+- `Folic Acid 5Mg Cap 100S (Infacare)` -> `Folic Acid 5mg Capsule 100s (INFACARE)`
+- `Furazolidone 50 mg Suspension 60 mL URAZOLE` -> `Furazolidone 50 mg Suspension 60 ml (URAZOLE)`
+- `Furosemide 10 mg/mL (20 mg/2 mL)  Ampule 1's LAZICARE` -> `Furosemide 10 mg/mL (20 mg/2 ml) Ampule 1s (LAZICARE)`
+- `Furosemide 20 mg Tablet 100's (FUSEDEX) Generic` -> `Furosemide 20 mg Tablet 100s ((FUSEDEX) GENERIC)`
+- `Furosemide 40 mg Tablet 100's FUSEDEX` -> `Furosemide 40 mg Tablet 100s (FUSEDEX)`
+- `Furosemide 40Mg Tab 100S (PISAMOR)` -> `Furosemide 40mg Tablet 100s (PISAMOR)`
+- `Furosemide 40Mg Tab 100S (Uromid)` -> `Furosemide 40mg Tablet 100s (UROMID)`
+- `Fusidic Acid 20 mg/g (2% w/w) Cream 15g SIDIK` -> `Fusidic Acid 20 mg/g (2% w/w) Cream 15g (SIDIK)`
+- `Gabapentin 100Mg Cap GABAVEX` -> `Gabapentin 100mg Capsule (GABAVEX)`
+- `Gabapentin 100mg CAPSULE 100S (Gabalion-100)` -> `Gabapentin 100mg Capsule 100s (GABALION-100)`
+- `Gabapentin 300mg Cap 30s (Gabasaph-300)` -> `Gabapentin 300mg Capsule 30s (GABASAPH-300)`
+- `Gabapentin 300mg CAPSULE 100S (Gabalion-300)` -> `Gabapentin 300mg Capsule 100s (GABALION-300)`
+- `Gabapentin 300mg Tab 30s (GABAREX)` -> `Gabapentin 300mg Tablet 30s (GABAREX)`
+- `Gentamicin 0*3%-5Ml Eye-Ear (Klontar)` -> `Gentamicin 0*3%-5ml Eye-Ear (KLONTAR)`
+- `Gentamicin 3 mg/mL Ophthalmic / Otic Solution 8 mL GENTACARE` -> `Gentamicin 3 mg/mL Ophthalmic / Otic Solution 8 ml (GENTACARE)`
+- `Gentamicin Sulfate 40 mg/mL (80 mg/2 mL) Ampule 10's GENTAM` -> `Gentamicin Sulfate 40 mg/mL (80 mg/2 ml) Ampule 10s (GENTAM)`
+- `Gentamicin Sulfate 80 mg/2 mL (40 mg/mL) Ampule 10's GENTACARE` -> `Gentamicin Sulfate 80 mg/2 ml (40 mg/mL) Ampule 10s (GENTACARE)`
+- `Glimepiride 3mg TABLET 100's GLYPRIDE` -> `Glimepiride 3mg Tablet 100s (GLYPRIDE)`
+- `Glibenclamide 5 mg Tablet 100's GLIMIDE` -> `Glibenclamide 5 mg Tablet 100s (GLIMIDE)`
+- `Glibenclamide 5Mg Tab 100S (Debtan)` -> `Glibenclamide 5mg Tablet 100s (DEBTAN)`
+- `Gliclazide 30 Mg Tab 30S Aglic Mr` -> `Gliclazide 30 mg Tablet 30s (AGLIC MR)`
+- `Gliclazide 30 mg Tablet 100's SAPHCLAZIDE-30` -> `Gliclazide 30 mg Tablet 100s (SAPHCLAZIDE-30)`
+- `Gliclazide 30mg Tab 100s (GLIMCOSE)` -> `Gliclazide 30mg Tablet 100s (GLIMCOSE)`
+- `Gliclazide 30Mg Tab 30S (GLIFRED MR)` -> `Gliclazide 30mg Tablet 30s (GLIFRED MR)`
+- `Gliclazide 30Mg Tab 30S (Klazide)` -> `Gliclazide 30mg Tablet 30s (KLAZIDE)`
+- `Gliclazide 30Mg Tab 60S (2Bxs X 30S) (Diamir)` -> `Gliclazide 30mg Tablet 60s (2Bxs X 30s) (DIAMIR)`
+- `Gliclazide 30Mg Tab 60S (Glycinorm-Mr)` -> `Gliclazide 30mg Tablet 60s (GLYCINORM-MR)`
+- `Gliclazide 60 mg Tablet 100's (GLIFRED MR)` -> `Gliclazide 60 mg Tablet 100s (GLIFRED MR)`
+- `Gliclazide 60 mg Tablet 100's NEOCLAZZ MR` -> `Gliclazide 60 mg Tablet 100s (NEOCLAZZ MR)`
+- `Gliclazide 60 mg Tablet 100's SAPHCLAZIDE-60` -> `Gliclazide 60 mg Tablet 100s (SAPHCLAZIDE-60)`
+- `Gliclazide 60 mg Tablet 30's GLIFRED MR` -> `Gliclazide 60 mg Tablet 30s (GLIFRED MR)`
+- `Gliclazide 60Mg Tab 100S (Melanov Mr)` -> `Gliclazide 60mg Tablet 100s (MELANOV MR)`
+- `Gliclazide 60Mg Tab 30S (GLYTHIX)` -> `Gliclazide 60mg Tablet 30s (GLYTHIX)`
+- `Gliclazide 60Mg Tab 60S (Gluclazide Sr)` -> `Gliclazide 60mg Tablet 60s (GLUCLAZIDE SR)`
+- `Gliclazide 80 mg Tablet 100's (GLICAMED)` -> `Gliclazide 80 mg Tablet 100s (GLICAMED)`
+- `Gliclazide 80 mg Tablet 100's (GLYCINORM-80)` -> `Gliclazide 80 mg Tablet 100s (GLYCINORM-80)`
+- `Gliclazide 80 mg Tablet 100's SAPHCLAZIDE-80` -> `Gliclazide 80 mg Tablet 100s (SAPHCLAZIDE-80)`
+- `Gliclazide 80mg Tab 100s (ZEBET)` -> `Gliclazide 80mg Tablet 100s (ZEBET)`
+- `Glimepiride 2 mg Tablet 100's  DIABEATS` -> `Glimepiride 2 mg Tablet 100s (DIABEATS)`
+- `Glimepiride 2mg Tab 100s (DIANOV)` -> `Glimepiride 2mg Tablet 100s (DIANOV)`
+- `Glimepiride 2Mg Tab 100S (Glimesaph T2)` -> `Glimepiride 2mg Tablet 100s (GLIMESAPH T2)`
+- `Glimepiride 2Mg Tab 100S (Trimep)` -> `Glimepiride 2mg Tablet 100s (TRIMEP)`
+- `Glimepiride 2Mg Tab Gliped (Square)100S` -> `Glimepiride 2mg Tablet Gliped 100s (SQUARE)`
+- `Glimepiride 3 mg Tablet 100's  GLIMESAPH T3` -> `Glimepiride 3 mg Tablet 100s (GLIMESAPH T3)`
+- `Glimepiride 3Mg Tab 100S DIABEATS` -> `Glimepiride 3mg Tablet 100s (DIABEATS)`
+- `Glimepiride 4 mg Tablet 100's GLIMESAPH T4` -> `Glimepiride 4 mg Tablet 100s (GLIMESAPH T4)`
+- `Glimepiride 4mg Tablet 100's  DIABEATS` -> `Glimepiride 4mg Tablet 100s (DIABEATS)`
+- `Glipizide 5 mg Tablet 100's GLUCOZIDE` -> `Glipizide 5 mg Tablet 100s (GLUCOZIDE)`
+- `Guai + Phenyl + CPM Syr 120mL (PULMOX)` -> `Guai + Phenyl + CPM Syrup 120ml (PULMOX)`
+- `Guai + Phenyl + CPM Syr 60mL (PULMOX)` -> `Guai + Phenyl + CPM Syrup 60ml (PULMOX)`
+- `Guai 100mg + CPM 2mg + Phenyl 6.5mg Syr 120mL PLURADEC` -> `Guai 100mg + CPM 2mg + Phenyl 6.5mg Syrup 120ml (PLURADEC)`
+- `Guai 100mg + CPM 2mg + Phenyl 6.5 mg Syr 60mL PLURADEC` -> `Guai 100mg + CPM 2mg + Phenyl 6.5 mg Syrup 60ml (PLURADEC)`
+- `Guai+Phenyl+Chlorphen Syr 120Ml (Medbron)` -> `Guai+Phenyl+Chlorphen Syrup 120ml (MEDBRON)`
+- `Guai+Phenyl+Chlorphen Syr 60Ml (Medbron)` -> `Guai+Phenyl+Chlorphen Syrup 60ml (MEDBRON)`
+- `Guaifenesin + Salbutamol 2mg/100mg Cap 100s (GUIACOF PLUS)` -> `Guaifenesin + Salbutamol 2mg/100mg Capsule 100s (GUIACOF PLUS)`
+- `Guaifenesin + Salbutamol 50Mg 60Ml (Guiacof Plus)` -> `Guaifenesin + Salbutamol 50mg 60ml (GUIACOF PLUS)`
+- `Guaifenesin 100 mg Capsule 100's Generic` -> `Guaifenesin 100 mg Capsule 100s (GENERIC)`
+- `Guaifenesin 100Mg Syr 60Ml (Lumartuss)` -> `Guaifenesin 100mg Syrup 60ml (LUMARTUSS)`
+- `Guaifenesin 100Mg-60Ml Syr (Ritusin)` -> `Guaifenesin 100mg-60ml Syrup (RITUSIN)`
+- `HYDROCHLOROTHIAZIDE 50mg TABLET 100's (APL/Generics)` -> `HYDROCHLOROTHIAZIDE 50mg Tablet 100s (APL/GENERICS)`
+- `Hydrocortisone 10 mg/g (1% w/w) Cream 10 g SAPHCORTISONE` -> `Hydrocortisone 10 mg/g (1% w/w) Cream 10 g (SAPHCORTISONE)`
+- `Hydrocortisone 100 mg Vial 1's (w/o diluent) CINTADOR` -> `Hydrocortisone 100 mg Vial 1s ((W/O DILUENT) CINTADOR)`
+- `Hydrocortisone 10Mg Oint 15G (Kortisan)` -> `Hydrocortisone 10mg Oint 15G (KORTISAN)`
+- `Hydrocortisone 10Mg Oint 15G (Kurt)` -> `Hydrocortisone 10mg Oint 15G (KURT)`
+- `Hydrocortisone 10mg/g 10g (Hydrosone)` -> `Hydrocortisone 10mg/g 10g (HYDROSONE)`
+- `Hydrocortisone 250 mg Vial 1's (w/o diluent) DOCOR 250` -> `Hydrocortisone 250 mg Vial 1s ((W/O DILUENT) DOCOR 250)`
+- `Hydrocortisone Cream 10G(Interphil-CENTRAMED)` -> `Hydrocortisone Cream 10G (INTERPHIL-CENTRAMED)`
+- `Hydrocortisone Cream 15G Hovicor(Hovid)` -> `Hydrocortisone Cream 15G Hovicor (HOVID)`
+- `Hyoscine 10 mg Tablet 100's  HYOSWELL` -> `Hyoscine 10 mg Tablet 100s (HYOSWELL)`
+- `Hyoscine 10mg Tab 100S (GASTRODOL-H)` -> `Hyoscine 10mg Tablet 100s (GASTRODOL-H)`
+- `Hyoscine 10mg Tab 100S (Hyopan)` -> `Hyoscine 10mg Tablet 100s (HYOPAN)`
+- `Hyoscine 10mg Tab 100s (Vonwelt)` -> `Hyoscine 10mg Tablet 100s (VONWELT)`
+- `Hyoscine 10Mg Tab 100s HCINE` -> `Hyoscine 10mg Tablet 100s (HCINE)`
+- `Hyoscine 10Mg Tab Belloid(Ambica)100S` -> `Hyoscine 10mg Tablet Belloid 100s (AMBICA)`
+- `Hyoscine N-butyl 10 mg Syrup 60 mL HYOSPAN` -> `Hyoscine N-butyl 10 mg Syrup 60 ml (HYOSPAN)`
+- `Hyoscine -N-Butylbromide 10mg Tab 100s (ZOLNEX)` -> `Hyoscine -N-Butylbromide 10mg Tablet 100s (ZOLNEX)`
+- `HYOSCINE N-BUTYLBROMIDE 10mg TABLET 100's (APL/Generics)` -> `HYOSCINE N-BUTYLBROMIDE 10mg Tablet 100s (APL/GENERICS)`
+- `Hyoscine-N-butylbromide 10 mg Tablet 100's  HYOSAPH` -> `Hyoscine-N-butylbromide 10 mg Tablet 100s (HYOSAPH)`
+- `Hyoscine-N-Butylbromide 20 mg/mL Ampoules 10s (Hyosaph)` -> `Hyoscine-N-Butylbromide 20 mg/mL Ampoules 10s (HYOSAPH)`
+- `Hyoscine-N-Butylbromide 20 mg/mL Ampule 1's SPASMOCIN` -> `Hyoscine-N-Butylbromide 20 mg/mL Ampule 1s (SPASMOCIN)`
+- `Hypromel 30 mg/10 mL Opthal Drops Solution 10 mL EQUISINE Moist` -> `Hypromel 30 mg/10 ml Opthal Drops Solution 10 ml (EQUISINE MOIST)`
+- `Hypromellose Ophthalmic Drops 10Ml (HYPROMAX)` -> `Hypromellose Ophthalmic Drops 10ml (HYPROMAX)`
+- `Hypromellose Ophthalmic Drops 10Ml(Vista)` -> `Hypromellose Ophthalmic Drops 10ml (VISTA)`
+- `Ibesartan 150mg Tab 98s (IRBEDENZ)` -> `Ibesartan 150mg Tablet 98s (IRBEDENZ)`
+- `IBUPROFEN 100 mg/ 5 mL SUSPENSION 60mL (APL/Generics)` -> `IBUPROFEN 100 mg/ 5 ml Suspension 60ml (APL/GENERICS)`
+- `Ibuprofen 100mg/5ml Susp 60ml (Ibusaph-100)` -> `Ibuprofen 100mg/5ml Suspension 60ml (IBUSAPH-100)`
+- `Ibuprofen 200 mg Suspension 60 mL SQFEN` -> `Ibuprofen 200 mg Suspension 60 ml (SQFEN)`
+- `Ibuprofen 200 mg Tablet 100's FEVRAL` -> `Ibuprofen 200 mg Tablet 100s (FEVRAL)`
+- `Ibuprofen 200Mg Softgel Cap 100S (Ibusoft)` -> `Ibuprofen 200mg Softgel Capsule 100s (IBUSOFT)`
+- `Ibuprofen 200mg/5mL Susp. 60mL (PENFRO)` -> `Ibuprofen 200mg/5ml Suspension. 60ml (PENFRO)`
+- `Ibuprofen 400 Mg Tab 100S Ibufen` -> `Ibuprofen 400 mg Tablet 100s (IBUFEN)`
+- `Ibuprofen 400 mg Tablet 100's SAPHFEN-400` -> `Ibuprofen 400 mg Tablet 100s (SAPHFEN-400)`
+- `Ibuprofen 400mg Tab 100s (FEVRAL)` -> `Ibuprofen 400mg Tablet 100s (FEVRAL)`
+- `Irbesartan 150 mg Tablet 100's Generic` -> `Irbesartan 150 mg Tablet 100s (GENERIC)`
+- `Irbesartan 150mg Tab 100s (IRTAZEP)` -> `Irbesartan 150mg Tablet 100s (IRTAZEP)`
+- `Irbesartan 150Mg Tab 98S (IE Medica)` -> `Irbesartan 150mg Tablet 98s (IE MEDICA)`
+- `Irbesartan 300 mg Tablet 100's Generic` -> `Irbesartan 300 mg Tablet 100s (GENERIC)`
+- `Irbesartan 300mg Tab 100s (IRBEQ 300)` -> `Irbesartan 300mg Tablet 100s (IRBEQ 300)`
+- `Isoniazid 100Mg 120Ml Syr Koppel(Diamond)` -> `Isoniazid 100mg 120ml Syrup Koppel (DIAMOND)`
+- `Isoniazid 100Mg 60Ml Syr Koppel (Diamond)` -> `Isoniazid 100mg 60ml Syrup Koppel (DIAMOND)`
+- `ISONIAZID 100MG/5ML SYRUP 120ML (APL/Generics)` -> `ISONIAZID 100mg/5ml Syrup 120ml (APL/GENERICS)`
+- `ISONIAZID 100MG/5ML SYRUP 60ML (APL/Generics)` -> `ISONIAZID 100mg/5ml Syrup 60ml (APL/GENERICS)`
+- `Isoniazid 200 mg + B6 20 mg Syrup 120 mL Generic` -> `Isoniazid 200 mg + B6 20 mg Syrup 120 ml (GENERIC)`
+- `Isoniazid 200 mg + B6 20 mg Syrup 60 mL Generic` -> `Isoniazid 200 mg + B6 20 mg Syrup 60 ml (GENERIC)`
+- `ISONIAZID 200MG/5ML SYRUP 120ml (APL/Generics)` -> `ISONIAZID 200mg/5ml Syrup 120ml (APL/GENERICS)`
+- `ISONIAZID 200MG/5ML SYRUP 60ML (APL/Generics)` -> `ISONIAZID 200mg/5ml Syrup 60ml (APL/GENERICS)`
+- `Isoniazid 300 mg Tablet 100's Generic` -> `Isoniazid 300 mg Tablet 100s (GENERIC)`
+- `Isoniazid 400 mg Tablet 100's ISONIX` -> `Isoniazid 400 mg Tablet 100s (ISONIX)`
+- `ISONIAZID+PYRIDOXINE HCL 200MG/20MG/5ML SYRUP 120ML (APL/Generics)` -> `ISONIAZID+PYRIDOXINE HCL 200mg/20mg/5ml Syrup 120ml (APL/GENERICS)`
+- `ISONIAZID+PYRIDOXINE HCL 200MG/20MG/5ML SYRUP 60ML (APL/Generics)` -> `ISONIAZID+PYRIDOXINE HCL 200mg/20mg/5ml Syrup 60ml (APL/GENERICS)`
+- `Isosorbide 60 mg Tablet 100's (ISOLYTE)` -> `Isosorbide 60 mg Tablet 100s (ISOLYTE)`
+- `Isosorbide Dinitrate 10 mg Tablet  100's ANDIOSPEC` -> `Isosorbide Dinitrate 10 mg Tablet 100s (ANDIOSPEC)`
+- `Isosorbide Dinitrate 10Mg Tab 100S (Sorbance-10)` -> `Isosorbide Dinitrate 10mg Tablet 100s (SORBANCE-10)`
+- `Isosorbide Dinitrate 5 mg Tablet 60's (2 Bxs x 30's Tablet) SORBANCE-5` -> `Isosorbide Dinitrate 5 mg Tablet 60s (2 Bxs x 30s (TABLET) SORBANCE-5)`
+- `Isosorbide Mononitrate 30 Mg Tab 100S Nitrofix Sr` -> `Isosorbide Mononitrate 30 mg Tablet 100s (NITROFIX SR)`
+- `Isosorbide Mononitrate 30 mg Tablet 100's  SAPHORBIDE-30` -> `Isosorbide Mononitrate 30 mg Tablet 100s (SAPHORBIDE-30)`
+- `Isosorbide Mononitrate 30mg Tab 100s (SKYDUR-30)` -> `Isosorbide Mononitrate 30mg Tablet 100s (SKYDUR-30)`
+- `Isosorbide Mononitrate 60 mg Tablet 100's SAPHORBIDE-60` -> `Isosorbide Mononitrate 60 mg Tablet 100s (SAPHORBIDE-60)`
+- `Isosorbide Mononitrate 60 mg Tablet 70's VASOTRATE-60 OD` -> `Isosorbide Mononitrate 60 mg Tablet 70s (VASOTRATE-60 OD)`
+- `Isoxsuprine 10Mg Tab (Tolmann)20S` -> `Isoxsuprine 10mg Tablet 20s (TOLMANN)`
+- `Isoxsuprine 10mg Tab 100s (TRISOXS)` -> `Isoxsuprine 10mg Tablet 100s (TRISOXS)`
+- `Isoxsuprine 10mg Tab 50s (EVAPRINE)` -> `Isoxsuprine 10mg Tablet 50s (EVAPRINE)`
+- `Isoxsuprine 5Mg-Ml Solution 5S Isoxulide (Srs)` -> `Isoxsuprine 5mg-Ml Solution 5s Isoxulide (SRS)`
+- `Isoxsuprine Hcl 10 Mg Tab 40S (ISOPRINE)` -> `Isoxsuprine Hcl 10 mg Tablet 40s (ISOPRINE)`
+- `ISOXSUPRINE HCL 10mg 100's (DYLAN)` -> `ISOXSUPRINE HCL 10mg 100s (DYLAN)`
+- `Ketoconazole 2% w/v Topical Cream 15g (Kezo)` -> `Ketoconazole 2% w/v Topical Cream 15g (KEZO)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream  15g   FUNGINIL-K` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (FUNGINIL-K)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream  15g (KETSOKANT)` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (KETSOKANT)`
+- `Ketoconazole Cream 15g (S Kant) Nizochem` -> `Ketoconazole Cream 15g ((S KANT) NIZOCHEM)`
+- `Ketoprofen 50 mg Capsule 100's KETOMAX` -> `Ketoprofen 50 mg Capsule 100s (KETOMAX)`
+- `Ketorolac Trometamol 10mg Tab 20S (EUROLAC)` -> `Ketorolac Trometamol 10mg Tablet 20s (EUROLAC)`
+- `Ketorolac Trometamol 30 mg/mL Ampule 1's KETOPANE` -> `Ketorolac Trometamol 30 mg/mL Ampule 1s (KETOPANE)`
+- `KETOTIFEN 1mg TABLET 100's (APL/Generics)` -> `KETOTIFEN 1mg Tablet 100s (APL/GENERICS)`
+- `KETOTIFEN 1mg/5mL syrup 60mL (APL/Generics)` -> `KETOTIFEN 1mg/5ml Syrup 60ml (APL/GENERICS)`
+- `KETOTIFEN 1mg/mL(oral drops) 15mL (APL/Generics)` -> `KETOTIFEN 1mg/mL(oral drops) 15ml (APL/GENERICS)`
+- `KETOTIFEN 2mg TABLET 100's (APL/Generics)` -> `KETOTIFEN 2mg Tablet 100s (APL/GENERICS)`
+- `Ketotifen Fumarate 1 mg Syrup 60 mL  TOTIFEN` -> `Ketotifen Fumarate 1 mg Syrup 60 ml (TOTIFEN)`
+- `Lactulose 3.33 g Syrup 120 mL EASELAC` -> `Lactulose 3.33 g Syrup 120 ml (EASELAC)`
+- `Lactulose 3.35 g Syrup 120mL (KHRIZMED)` -> `Lactulose 3.35 g Syrup 120ml (KHRIZMED)`
+- `Lactulose 3.35 g Syrup 120 mL ACCELLAC` -> `Lactulose 3.35 g Syrup 120 ml (ACCELLAC)`
+- `Lactulose 3.35 g Syrup 60 mL ACCELLAC` -> `Lactulose 3.35 g Syrup 60 ml (ACCELLAC)`
+- `Lagundi + Zinc 500Mg Cap 100S (LagunZinc)` -> `Lagundi + Zinc 500mg Capsule 100s (LAGUNZINC)`
+- `Lagundi 300Mg 120Ml (Cafgard)` -> `Lagundi 300mg 120ml (CAFGARD)`
+- `Lagundi 300Mg 120Ml Negacof(La Croesus)` -> `Lagundi 300mg 120ml Negacof (LA CROESUS)`
+- `Lagundi 300Mg 60Ml (Cafgard)` -> `Lagundi 300mg 60ml (CAFGARD)`
+- `Lagundi 300Mg 60Ml Negacof(La Croesus)` -> `Lagundi 300mg 60ml Negacof (LA CROESUS)`
+- `Lagundi 300mg Syr 120mL (CLIRCAF)` -> `Lagundi 300mg Syrup 120ml (CLIRCAF)`
+- `Lagundi 300mg Syr 60ml (Clircaf)` -> `Lagundi 300mg Syrup 60ml (CLIRCAF)`
+- `Lagundi 300Mg Tab 100S (Asflem)` -> `Lagundi 300mg Tablet 100s (ASFLEM)`
+- `Lagundi 300Mg Tab 100S (Cafgard)` -> `Lagundi 300mg Tablet 100s (CAFGARD)`
+- `Lagundi 300mg TABLET 100's (OFPLEMED)` -> `Lagundi 300mg Tablet 100s (OFPLEMED)`
+- `Lagundi 300mg/5mL Syrup 120mL (OFPLEMED)` -> `Lagundi 300mg/5ml Syrup 120ml (OFPLEMED)`
+- `Lagundi 300mg/5mL Syrup 60mL (OFPLEMED)` -> `Lagundi 300mg/5ml Syrup 60ml (OFPLEMED)`
+- `Lagundi 600Mg Tab 100S (Asflem)` -> `Lagundi 600mg Tablet 100s (ASFLEM)`
+- `Lagundi 600Mg Tab 100S (Clircaf Forte)` -> `Lagundi 600mg Tablet 100s (CLIRCAF FORTE)`
+- `Lagundi 600Mg Tab 60S (Lagundex)` -> `Lagundi 600mg Tablet 60s (LAGUNDEX)`
+- `Lagundi 600mg TABLET 100's (OFPLEMED FORTE)` -> `Lagundi 600mg Tablet 100s (OFPLEMED FORTE)`
+- `Lagundi Leaf 600Mg Tab 100S (Cafgard Forte)` -> `Lagundi Leaf 600mg Tablet 100s (CAFGARD FORTE)`
+- `Lansoprazole 30 Mg Cap 14S Aprevaz` -> `Lansoprazole 30 mg Capsule 14s (APREVAZ)`
+- `Lansoprazole 30 mg Capsule 30's LANSOMEDIX` -> `Lansoprazole 30 mg Capsule 30s (LANSOMEDIX)`
+- `Levocetirizine 5 Mg Tab 30S (Lecetzy)` -> `Levocetirizine 5 mg Tablet 30s (LECETZY)`
+- `Levocetirizine 5 mg Tablet 100's LEVIZINE` -> `Levocetirizine 5 mg Tablet 100s (LEVIZINE)`
+- `Levocetirizine 5Mg Tab 100S (Allecure)` -> `Levocetirizine 5mg Tablet 100s (ALLECURE)`
+- `Levocetirizine 5mg Tab 100s (ALLERGOSTOP)` -> `Levocetirizine 5mg Tablet 100s (ALLERGOSTOP)`
+- `Levocetirizine 5mg Tab 100s (CETOZ-L)` -> `Levocetirizine 5mg Tablet 100s (CETOZ-L)`
+- `Levocetirizine 5mg Tab 100s (Levocit)` -> `Levocetirizine 5mg Tablet 100s (LEVOCIT)`
+- `Levocetirizine 5Mg Tab 100S (Locetin)` -> `Levocetirizine 5mg Tablet 100s (LOCETIN)`
+- `Levocetirizine 5mg Tab 30s (LEVOCEC)` -> `Levocetirizine 5mg Tablet 30s (LEVOCEC)`
+- `Levocetirizine 5Mg Tab Lisinex(Ambica)100S` -> `Levocetirizine 5mg Tablet Lisinex 100s (AMBICA)`
+- `Levofloxacin 500 Mg Tab 100S (Leveflox-500)` -> `Levofloxacin 500 mg Tablet 100s (LEVEFLOX-500)`
+- `Levofloxacin 500 mg Tablet 100's (LEVOXUS)` -> `Levofloxacin 500 mg Tablet 100s (LEVOXUS)`
+- `Levofloxacin 500 mg Tablet 30's LEGREAT` -> `Levofloxacin 500 mg Tablet 30s (LEGREAT)`
+- `Levofloxacin 500Mg Tab 10S (Levcar)` -> `Levofloxacin 500mg Tablet 10s (LEVCAR)`
+- `Levofloxacin 500Mg Tab 30S (Flamidryl)` -> `Levofloxacin 500mg Tablet 30s (FLAMIDRYL)`
+- `Levofloxacin 500mg Tab 30s (LEVONOVA)` -> `Levofloxacin 500mg Tablet 30s (LEVONOVA)`
+- `Levofloxacin 500Mg Tab 30S (TEVOLOX)` -> `Levofloxacin 500mg Tablet 30s (TEVOLOX)`
+- `Levofloxacin 750mg tab 100s (Floxanova)` -> `Levofloxacin 750mg Tablet 100s (FLOXANOVA)`
+- `Levofloxacin 750Mg Tab 40S (Levoprime)` -> `Levofloxacin 750mg Tablet 40s (LEVOPRIME)`
+- `Levothyroxine 100mcg Tab 100s (FORHYPO)` -> `Levothyroxine 100mcg Tablet 100s (FORHYPO)`
+- `Levothyroxine 50 mcg Tablet 90's EUROLEV` -> `Levothyroxine 50 mcg Tablet 90s (EUROLEV)`
+- `Lidocaine 20 mg/mL (2%) Vial 50 mL (LIDOPHIL)` -> `Lidocaine 20 mg/mL (2%) Vial 50 ml (LIDOPHIL)`
+- `Lidocaine 20 mg/mL (2%) Vial 50 mL 1's  EUROCAINE` -> `Lidocaine 20 mg/mL (2%) Vial 50 ml 1s (EUROCAINE)`
+- `Lidocaine Hcl Epinephrine 2% 50S (Zeyco Fd)` -> `Lidocaine Hcl Epinephrine 2% 50s (ZEYCO FD)`
+- `Loperamide 2Mg Cap (Scheele)` -> `Loperamide 2mg Capsule (SCHEELE)`
+- `Loperamide 2Mg Cap Diacure 100S(Amb)` -> `Loperamide 2mg Capsule Diacure 100s (AMB)`
+- `Loperamide 2Mg Cap Harvimide(Scheele)` -> `Loperamide 2mg Capsule Harvimide (SCHEELE)`
+- `Loperamide 2Mg Cap Motirex 100S(Myrex)` -> `Loperamide 2mg Capsule Motirex 100s (MYREX)`
+- `Loperamide 2Mg Cap Vexil(Saphire)100S` -> `Loperamide 2mg Capsule Vexil 100s (SAPHIRE)`
+- `Loperamide 2mg Caps 100s (LOPEDIUM)` -> `Loperamide 2mg Capsule 100s (LOPEDIUM)`
+- `Loperamide 2mg Caps 100s (LOPERAMED)` -> `Loperamide 2mg Capsule 100s (LOPERAMED)`
+- `LOPERAMIDE 2mg CAPSULE 100's (APL/Generics)` -> `LOPERAMIDE 2mg Capsule 100s (APL/GENERICS)`
+- `Loperamide HCl 2mg Cap 100s (Datab)` -> `Loperamide HCl 2mg Capsule 100s (DATAB)`
+- `Loratadine 10 Mg Tab 100S (Histadine)` -> `Loratadine 10 mg Tablet 100s (HISTADINE)`
+- `Loratadine 10 Mg Tab 100S (LORANIX)` -> `Loratadine 10 mg Tablet 100s (LORANIX)`
+- `Loratadine 10 Mg Tab 100S (Remehist)` -> `Loratadine 10 mg Tablet 100s (REMEHIST)`
+- `Loratadine 10 Mg Tab 100S Laradin` -> `Loratadine 10 mg Tablet 100s (LARADIN)`
+- `Loratadine 10 mg Tablet 100's LORASAPH` -> `Loratadine 10 mg Tablet 100s (LORASAPH)`
+- `Loratadine 10mg Chewable Tab 100s (LORATAMED)` -> `Loratadine 10mg Chewable Tablet 100s (LORATAMED)`
+- `LORATADINE 10MG TABLET (ALLOR-10) 100's` -> `LORATADINE 10mg Tablet 100s (ALLOR-10)`
+- `LORATADINE 10MG TABLET 100'S (LORAREX)` -> `LORATADINE 10mg Tablet 100s (LORAREX)`
+- `Loratadine 5 mg Syrup 60 mL ACCE-LORA` -> `Loratadine 5 mg Syrup 60 ml (ACCE-LORA)`
+- `LORATADINE 5 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `LORATADINE 5 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `Loratadine 5Mg-5Ml Syr (Interphil) Meed Only` -> `Loratadine 5mg-5ml (SYR (INTERPHIL) MEED ONLY)`
+- `Losartan + Amlodipine 50/5mg Tab 100s (BIOZART DUO)` -> `Losartan + Amlodipine 50/5mg Tablet 100s (BIOZART DUO)`
+- `Losartan + Amlodipine 50mg/5mg Tab 100s (LOSSAR XQ)` -> `Losartan + Amlodipine 50mg/5mg Tablet 100s (LOSSAR XQ)`
+- `Losartan + Hydro 50Mg Tab 100S (Presartan H-50)` -> `Losartan + Hydro 50mg Tablet 100s (PRESARTAN H-50)`
+- `Losartan 100 mg + HCTZ 25 mg Tablet 100's THIAXTAN` -> `Losartan 100 mg + HCTZ 25 mg Tablet 100s (THIAXTAN)`
+- `Losartan 100 mg Tablet 100's LOSAWIN 100` -> `Losartan 100 mg Tablet 100s (LOSAWIN 100)`
+- `Losartan 100 mg Tablet 100's SAPHLOR-100` -> `Losartan 100 mg Tablet 100s (SAPHLOR-100)`
+- `Losartan 100Mg Tab 100S (Gowin)` -> `Losartan 100mg Tablet 100s (GOWIN)`
+- `Losartan 100Mg Tab 100S (Losaar)` -> `Losartan 100mg Tablet 100s (LOSAAR)`
+- `Losartan 100Mg Tab 100S (Losartrixx)` -> `Losartan 100mg Tablet 100s (LOSARTRIXX)`
+- `Losartan 100mg Tab 100S (Lozak)` -> `Losartan 100mg Tablet 100s (LOZAK)`
+- `Losartan 100Mg Tab 100S (Natrasol)` -> `Losartan 100mg Tablet 100s (NATRASOL)`
+- `Losartan 100mg Tab 100s (Natrazol)` -> `Losartan 100mg Tablet 100s (NATRAZOL)`
+- `Losartan 100Mg Tab 100S (Presartan-100)` -> `Losartan 100mg Tablet 100s (PRESARTAN-100)`
+- `Losartan 100mg Tablet 100's (DYLARAN)` -> `Losartan 100mg Tablet 100s (DYLARAN)`
+- `Losartan 50 mg + Hydrochlorothiazide 12.5 mg Tablet 100's ARTAZIDE` -> `Losartan 50 mg + Hydrochlorothiazide 12.5 mg Tablet 100s (ARTAZIDE)`
+- `Losartan 50 mg Tablet 100's ANGEL 50` -> `Losartan 50 mg Tablet 100s (ANGEL 50)`
+- `Losartan 50 mg Tablet 100's ANIN 50` -> `Losartan 50 mg Tablet 100s (ANIN 50)`
+- `Losartan 50 mg Tablet 100's SAPHLOR-50` -> `Losartan 50 mg Tablet 100s (SAPHLOR-50)`
+- `Losartan 50Mg + Amlodipine 5Mg Tab 100S (Ambica)` -> `Losartan 50mg + Amlodipine 5mg Tablet 100s (AMBICA)`
+- `Losartan 50Mg Tab 100S (A.R.A)` -> `Losartan 50mg Tablet 100s (A.R.A)`
+- `Losartan 50Mg Tab 100S (Angisartan)` -> `Losartan 50mg Tablet 100s (ANGISARTAN)`
+- `Losartan 50mg Tab 100s (ARTOSAR-50)` -> `Losartan 50mg Tablet 100s (ARTOSAR-50)`
+- `Losartan 50mg Tab 100s (AZARTAN)` -> `Losartan 50mg Tablet 100s (AZARTAN)`
+- `Losartan 50Mg Tab 100S (Losagan)` -> `Losartan 50mg Tablet 100s (LOSAGAN)`
+- `Losartan 50Mg Tab 100S (Losartrixx)` -> `Losartan 50mg Tablet 100s (LOSARTRIXX)`
+- `Losartan 50Mg Tab 100S (Natrasol)` -> `Losartan 50mg Tablet 100s (NATRASOL)`
+- `Losartan 50mg Tab 100S (Novasartan)` -> `Losartan 50mg Tablet 100s (NOVASARTAN)`
+- `Losartan 50mg Tab 100s (Presartan-50)` -> `Losartan 50mg Tablet 100s (PRESARTAN-50)`
+- `Losartan 50Mg Tabs 100S (Losaar)` -> `Losartan 50mg Tablet 100s (LOSAAR)`
+- `Losartan Potassium + HCTZ 50mg/12.5mg Tab 100s (Generic-Centurion)` -> `Losartan Potassium + HCTZ 50mg/12.5mg Tablet 100s (GENERIC-CENTURION)`
+- `Losartan Potassium + HCTZ 50mg/12.5mg Tab 100s (THIAXTAN)` -> `Losartan Potassium + HCTZ 50mg/12.5mg Tablet 100s (THIAXTAN)`
+- `LOSARTAN POTASSIUM 50MG FILM COATED TABLET (GENERIC) 100's` -> `LOSARTAN POTASSIUM 50mg FILM COATED Tablet 100s (GENERIC)`
+- `LOSARTAN POTASSIUM 50MG FILM COATED TABLET 100's (APL/Generics)` -> `LOSARTAN POTASSIUM 50mg FILM COATED Tablet 100s (APL/GENERICS)`
+- `LOSARTAN POTASSIUM 50MG FILM COATED TABLET 30's (APL/Generics)` -> `LOSARTAN POTASSIUM 50mg FILM COATED Tablet 30s (APL/GENERICS)`
+- `LOSARTAN POTASSIUM 50MG FILM COATED TABLET 50's (APL/Generics)` -> `LOSARTAN POTASSIUM 50mg FILM COATED Tablet 50s (APL/GENERICS)`
+- `Losartan+Amlodipine 50-5Mgtab 30S (Duoden)` -> `Losartan+Amlodipine 50-5Mgtab 30s (DUODEN)`
+- `Losartan+Hydro 100mg/25mg Tab 100s (MELOZAR 125)` -> `Losartan+Hydro 100mg/25mg Tablet 100s (MELOZAR 125)`
+- `Losartan+Hydro 100Mg-25Mg Tab 100S (A*R*A+H)` -> `Losartan+Hydro 100mg-25mg Tablet 100s (A*R*A+H)`
+- `Losartan+Hydro 50Mg 100S (Diu-Tanzase)` -> `Losartan+Hydro 50mg 100s (DIU-TANZASE)`
+- `Losartan+Hydro 50Mg 100S (Losawin-H)` -> `Losartan+Hydro 50mg 100s (LOSAWIN-H)`
+- `Losartan+Hydro 50mg/12.5mg Tab 100s (ZOSART)` -> `Losartan+Hydro 50mg/12.5mg Tablet 100s (ZOSART)`
+- `Magnesiumsulfate 250Mg-Ml 20Ml 20S (Euromed)` -> `Magnesiumsulfate 250mg-Ml 20ml 20s (EUROMED)`
+- `Malunggay 500 mg Capsule 100's MORINGA CAPS` -> `Malunggay 500 mg Capsule 100s (MORINGA CAPS)`
+- `Malunggay 500 mg Capsule 30's  FERALAC` -> `Malunggay 500 mg Capsule 30s (FERALAC)`
+- `Malunggay 500mg Cap 100s (OLIFER)` -> `Malunggay 500mg Capsule 100s (OLIFER)`
+- `Malunggay 500Mg Cap 100S Feralac(San Marino)` -> `Malunggay 500mg Capsule 100s Feralac (SAN MARINO)`
+- `Mangos+Arabinog+BVit 500Mg Cap 32S (Mang Gustin)` -> `Mangos+Arabinog+BVit 500mg Capsule 32s (MANG GUSTIN)`
+- `Mangosteen 500Mg Cap 60S (Maxteen)` -> `Mangosteen 500mg Capsule 60s (MAXTEEN)`
+- `Mangosteen Cap 500Mg Xanthone (Bionin)100S` -> `Mangosteen Capsule 500mg Xanthone 100s (BIONIN)`
+- `Mebendazole 100 mg Suspension 60 mL Generic` -> `Mebendazole 100 mg Suspension 60 ml (GENERIC)`
+- `Mebendazole 500 mg Tablet 100's Generic` -> `Mebendazole 500 mg Tablet 100s (GENERIC)`
+- `Mebendazole 500mg Tab 100s (KHRIZVER)` -> `Mebendazole 500mg Tablet 100s (KHRIZVER)`
+- `Meclizine 12.5mg Chewable Tab 100s (RAMEC)` -> `Meclizine 12.5mg Chewable Tablet 100s (RAMEC)`
+- `Meclizine 25mg Chewable Tab 100s (RAMEC FORTE)` -> `Meclizine 25mg Chewable Tablet 100s (RAMEC FORTE)`
+- `Meclizine HCL 12.5 mg Chewable Tablet 100's MECLISAPH` -> `Meclizine HCL 12.5 mg Chewable Tablet 100s (MECLISAPH)`
+- `Meclizine HCl 25 mg Chewable Tablet 100's  MECLIZSAPH` -> `Meclizine HCl 25 mg Chewable Tablet 100s (MECLIZSAPH)`
+- `Meclizine Hcl 25Mg Chew Tab 100S (Bonazil)` -> `Meclizine Hcl 25mg Chew Tablet 100s (BONAZIL)`
+- `Meclizine HCl 25mg Tablet 100s NOVOMIT` -> `Meclizine HCl 25mg Tablet 100s (NOVOMIT)`
+- `Mefenamic 250mg Cap 100s (MEFEMED)` -> `Mefenamic 250mg Capsule 100s (MEFEMED)`
+- `Mefenamic 250mg Cap 100S (Mefesaph)` -> `Mefenamic 250mg Capsule 100s (MEFESAPH)`
+- `Mefenamic 250Mg Cap Myrefen(Myrex)100S` -> `Mefenamic 250mg Capsule Myrefen 100s (MYREX)`
+- `MEFENAMIC 250MG CAPSULE 100's (APL/Generics)` -> `MEFENAMIC 250mg Capsule 100s (APL/GENERICS)`
+- `Mefenamic 500Mg Cap 100S (Mefein)` -> `Mefenamic 500mg Capsule 100s (MEFEIN)`
+- `Mefenamic 500mg Cap 100S (Megyxan)` -> `Mefenamic 500mg Capsule 100s (MEGYXAN)`
+- `Mefenamic 500mg Caplet 100s (Aciflam)` -> `Mefenamic 500mg Caplet 100s (ACIFLAM)`
+- `Mefenamic 50Mg Susp 60Ml (Mefesaph-50)` -> `Mefenamic 50mg Suspension 60ml (MEFESAPH-50)`
+- `Mefenamic 50Mg Susp 60Ml (Myrefen)` -> `Mefenamic 50mg Suspension 60ml (MYREFEN)`
+- `Mefenamic Acid 250 mg Capsule 100's ANALMIN` -> `Mefenamic Acid 250 mg Capsule 100s (ANALMIN)`
+- `Mefenamic Acid 500 mg CAPSULE 100's (BIOMEF)` -> `Mefenamic Acid 500 mg Capsule 100s (BIOMEF)`
+- `Mefenamic Acid 500 mg CAPSULE 100's ANALMIN` -> `Mefenamic Acid 500 mg Capsule 100s (ANALMIN)`
+- `Mefenamic Acid 500 mg CAPSULE 100's MYREFEN-500` -> `Mefenamic Acid 500 mg Capsule 100s (MYREFEN-500)`
+- `Mefenamic Acid 500mg Cap 100s (INFAMIX)` -> `Mefenamic Acid 500mg Capsule 100s (INFAMIX)`
+- `Mefenamic Acid 500Mg Cap 100S (Mecid)` -> `Mefenamic Acid 500mg Capsule 100s (MECID)`
+- `Mefenamic Acid 500mg Cap 100s (REMEF)` -> `Mefenamic Acid 500mg Capsule 100s (REMEF)`
+- `MEFENAMIC ACID 50mg/5mL SUSPENSION 60mL (INFAMIX)` -> `MEFENAMIC ACID 50mg/5ml Suspension 60ml (INFAMIX)`
+- `Melatonin 3Mg Tab 30S (Davis)` -> `Melatonin 3mg Tablet 30s (DAVIS)`
+- `Meloxicam 15 mg Tablet 100's (2 Bxs x 50's Tablet) MELOTAB` -> `Meloxicam 15 mg Tablet 100s (2 Bxs x 50s (TABLET) MELOTAB)`
+- `Meloxicam 15Mg Tab 100S (Melofar)` -> `Meloxicam 15mg Tablet 100s (MELOFAR)`
+- `Meloxicam 15Mg Tab 100S (MELOX-15)` -> `Meloxicam 15mg Tablet 100s (MELOX-15)`
+- `Meloxicam 15mg Tab 100s (RUMALOX)` -> `Meloxicam 15mg Tablet 100s (RUMALOX)`
+- `Meloxicam 15Mg Tab 100S (Teracam)` -> `Meloxicam 15mg Tablet 100s (TERACAM)`
+- `Meloxicam 7*5Mg Tab 100S (Melofar)` -> `Meloxicam 7*5mg Tablet 100s (MELOFAR)`
+- `Menadione 10 mg Tablet 100's MEDIONE` -> `Menadione 10 mg Tablet 100s (MEDIONE)`
+- `Metformin 500 mg Tablet 100's (SAPHORMIN T500)` -> `Metformin 500 mg Tablet 100s (SAPHORMIN T500)`
+- `Metformin 500 mg Tablet 100's FORMET 500` -> `Metformin 500 mg Tablet 100s (FORMET 500)`
+- `Metformin 500 mg Tablet 100's GLYCEMET` -> `Metformin 500 mg Tablet 100s (GLYCEMET)`
+- `Metformin 500 mg Tablet 100's MYMET` -> `Metformin 500 mg Tablet 100s (MYMET)`
+- `Metformin 500mg Tab 100s (METROMIN)` -> `Metformin 500mg Tablet 100s (METROMIN)`
+- `Metformin 500mg Tab 100s (SUCROL)` -> `Metformin 500mg Tablet 100s (SUCROL)`
+- `Metformin 850mg Tab 100s (Metrol)` -> `Metformin 850mg Tablet 100s (METROL)`
+- `METFORMIN HYDROCHLORIDE 500mg FILM-COATED TABLET 100's (APL/Generics)` -> `METFORMIN HYDROCHLORIDE 500mg FILM-COATED Tablet 100s (APL/GENERICS)`
+- `METFORMIN HYDROCHLORIDE 500mg FILM-COATED TABLET 30's (APL/Generics)` -> `METFORMIN HYDROCHLORIDE 500mg FILM-COATED Tablet 30s (APL/GENERICS)`
+- `Methimazole 5Mg Tab 100S (Methazol)` -> `Methimazole 5mg Tablet 100s (METHAZOL)`
+- `Methyldopa 250 mg Tablet 100's DOPAMAINE` -> `Methyldopa 250 mg Tablet 100s (DOPAMAINE)`
+- `Methyldopa 250Mg Tab 100S (Dopathyl)` -> `Methyldopa 250mg Tablet 100s (DOPATHYL)`
+- `Methyldopa 250mg Tab 100s (S Kant)` -> `Methyldopa 250mg Tablet 100s (S KANT)`
+- `Methylergometrine 125 Mcg Tab 100S Ergon` -> `Methylergometrine 125 mcg Tablet 100s (ERGON)`
+- `Methylergometrine 125 mcg Tablet 100's MERGO` -> `Methylergometrine 125 mcg Tablet 100s (MERGO)`
+- `Methylprednisolone 16 Mg Tab 100S (METHYLPREDSAPH)` -> `Methylprednisolone 16 mg Tablet 100s (METHYLPREDSAPH)`
+- `Methylprednisolone 16 Mg Tab 100S Methylcort` -> `Methylprednisolone 16 mg Tablet 100s (METHYLCORT)`
+- `Methylprednisolone 16 mg Tablet 100's METHYDEN` -> `Methylprednisolone 16 mg Tablet 100s (METHYDEN)`
+- `Methylprenisolone 16mg Tab 30s (PREDNIVEX)` -> `Methylprenisolone 16mg Tablet 30s (PREDNIVEX)`
+- `Metoclopramide 10 mg Tablet 100's MYCLOSIL` -> `Metoclopramide 10 mg Tablet 100s (MYCLOSIL)`
+- `Metoclopramide 10Mg Tab 100S (Meto)` -> `Metoclopramide 10mg Tablet 100s (METO)`
+- `Metoclopramide 5 mg Syrup 60 mL MOTILLEX` -> `Metoclopramide 5 mg Syrup 60 ml (MOTILLEX)`
+- `Metoclopramide 5 mg/mL (10 mg/2 mL) Inj 10's METOCLOSIL` -> `Metoclopramide 5 mg/mL (10 mg/2 ml) Inj 10s (METOCLOSIL)`
+- `Metoclopramide 5mg/5ml Syr 60ml (Myclosil)` -> `Metoclopramide 5mg/5ml Syrup 60ml (MYCLOSIL)`
+- `Metoclopromide 10Mg Tab (Scheele)` -> `Metoclopromide 10mg Tablet (SCHEELE)`
+- `Metoprolol 100 mg Tablet 100's METOCARD` -> `Metoprolol 100 mg Tablet 100s (METOCARD)`
+- `Metoprolol 100 mg Tablet 100's PROMETIN-100` -> `Metoprolol 100 mg Tablet 100s (PROMETIN-100)`
+- `Metoprolol 100mg Tab 100s (LOPREXO)` -> `Metoprolol 100mg Tablet 100s (LOPREXO)`
+- `Metoprolol 100Mg Tab 100S (Prolol)` -> `Metoprolol 100mg Tablet 100s (PROLOL)`
+- `Metoprolol 50 mg Tablet 100's PROLOL` -> `Metoprolol 50 mg Tablet 100s (PROLOL)`
+- `Metoprolol 50 mg Tablet 100's PROMETIN-50` -> `Metoprolol 50 mg Tablet 100s (PROMETIN-50)`
+- `Metoprolol 50mg Tab 100s (BETACOR)` -> `Metoprolol 50mg Tablet 100s (BETACOR)`
+- `Metoprolol 50mg Tab 100s (LOPREXO)` -> `Metoprolol 50mg Tablet 100s (LOPREXO)`
+- `Metoprolol 50mg Tab 100s (METEROL)` -> `Metoprolol 50mg Tablet 100s (METEROL)`
+- `Metronidazole 125mg Susp 60ml (Ambidazol)` -> `Metronidazole 125mg Suspension 60ml (AMBIDAZOL)`
+- `Metronidazole 125Mg Susp 60ml (Metrozole)` -> `Metronidazole 125mg Suspension 60ml (METROZOLE)`
+- `Metronidazole 125mg/5mL Susp. 60mL (Daryl)` -> `Metronidazole 125mg/5ml Suspension. 60ml (DARYL)`
+- `Metronidazole 5 mg/mL Solution for I.V. Infusion 100 mL  1's ERZOL` -> `Metronidazole 5 mg/mL Solution for I.V. Infusion 100 ml 1s (ERZOL)`
+- `Metronidazole 500 mg Tablet 100's FLAGEX` -> `Metronidazole 500 mg Tablet 100s (FLAGEX)`
+- `Metronidazole 500 mg Tablet 100's Generic` -> `Metronidazole 500 mg Tablet 100s (GENERIC)`
+- `Metronidazole 500Mg Tab 100S (Flamibazid)` -> `Metronidazole 500mg Tablet 100s (FLAMIBAZID)`
+- `Metronidazole 500Mg Tab 100S (Medizole)` -> `Metronidazole 500mg Tablet 100s (MEDIZOLE)`
+- `Metronidazole 500Mg Tab 100S (Metrozole)` -> `Metronidazole 500mg Tablet 100s (METROZOLE)`
+- `Metronidazole I*V* For Inj Erzol 100mL (Hebei Tianchen)` -> `Metronidazole I*V* For Inj Erzol 100ml (HEBEI TIANCHEN)`
+- `METRONIDAZOLE SUSP 60ML (APL/Generics)` -> `METRONIDAZOLE Suspension 60ml (APL/GENERICS)`
+- `Miconazole Nitrate 20 mg/g (2% w/w) Cream 10 g  EMIZOLE` -> `Miconazole Nitrate 20 mg/g (2% w/w) Cream 10 g (EMIZOLE)`
+- `Miconazole Nitrate Cream 10g (Micofred)` -> `Miconazole Nitrate Cream 10g (MICOFRED)`
+- `Moconazole Nitrate Cream 10G (Mika)` -> `Moconazole Nitrate Cream 10G (MIKA)`
+- `Mometasone Furoate 1 mg/g (0.1% w/w) Cream 15 g DIAMETASONE` -> `Mometasone Furoate 1 mg/g (0.1% w/w) Cream 15 g (DIAMETASONE)`
+- `Mometasone Furoate 1Mg Cream 10G (Metson)` -> `Mometasone Furoate 1mg Cream 10G (METSON)`
+- `Mometasone Furoate 1mg/mg (0.1%) 5g (Mometasaph)` -> `Mometasone Furoate 1mg/mg (0.1%) 5g (MOMETASAPH)`
+- `Montelukast + Levocetirizine 10mg/5mg Tab 50s (CETRIKAST)` -> `Montelukast + Levocetirizine 10mg/5mg Tablet 50s (CETRIKAST)`
+- `Montelukast + Levocetirizine HCI 10mg/5mg Tab 30s (Montellion-L)` -> `Montelukast + Levocetirizine HCI 10mg/5mg Tablet 30s (MONTELLION-L)`
+- `Montelukast + Levocetirizine HCI 10mg/5mg Tab 30s (Montephil-L)` -> `Montelukast + Levocetirizine HCI 10mg/5mg Tablet 30s (MONTEPHIL-L)`
+- `Montelukast 10 mg + Levocetirizine 5 mg Tablet 30's VELSTA` -> `Montelukast 10 mg + Levocetirizine 5 mg Tablet 30s (VELSTA)`
+- `Montelukast 10 mg + Levocetirizine 5 mg Tablet 50's MONTICOPE` -> `Montelukast 10 mg + Levocetirizine 5 mg Tablet 50s (MONTICOPE)`
+- `Montelukast 10Mg + Levoceti 5Mg Tab 30S (Molev)` -> `Montelukast 10mg + Levoceti 5mg Tablet 30s (MOLEV)`
+- `MONTELUKAST 10MG TAB 100'S (APL/Generics)` -> `MONTELUKAST 10mg Tablet 100s (APL/GENERICS)`
+- `Montelukast 10mg Tab 100s (MONTRIL-10)` -> `Montelukast 10mg Tablet 100s (MONTRIL-10)`
+- `Montelukast 10mg Tab 100s (NOVAKAST-10)` -> `Montelukast 10mg Tablet 100s (NOVAKAST-10)`
+- `Montelukast 10mg Tab 100s (AZMONT)` -> `Montelukast 10mg Tablet 100s (AZMONT)`
+- `Montelukast 4 mg Tablet 100's AUROHEX-4` -> `Montelukast 4 mg Tablet 100s (AUROHEX-4)`
+- `Montelukast 4mg Tab 100s (Monte-H4)` -> `Montelukast 4mg Tablet 100s (MONTE-H4)`
+- `Montelukast 4mg Tab 100s (NOVAKAST-4)` -> `Montelukast 4mg Tablet 100s (NOVAKAST-4)`
+- `Montelukast 5 mg Tablet 100's AUROHEX-5` -> `Montelukast 5 mg Tablet 100s (AUROHEX-5)`
+- `Montelukast 5 mg Tablet 28's (2 Bxs x 14's Tablet) BRONAST` -> `Montelukast 5 mg Tablet 28s (2 Bxs x 14s (TABLET) BRONAST)`
+- `Montelukast 5mg Tab 100s (NOVAKAST-5)` -> `Montelukast 5mg Tablet 100s (NOVAKAST-5)`
+- `Montelukast Sodium 10Mg Tab 100S (Dironest)` -> `Montelukast Sodium 10mg Tablet 100s (DIRONEST)`
+- `Montelukast Sodium 10mg Tab 100s (Leukorex)` -> `Montelukast Sodium 10mg Tablet 100s (LEUKOREX)`
+- `Montelukast Sodium 5Mg Tab 100S (Mastic)` -> `Montelukast Sodium 5mg Tablet 100s (MASTIC)`
+- `Multi+Lysine+Taurine+CGF Syrup 120mL (CHLOREVIT)` -> `Multi+Lysine+Taurine+CGF Syrup 120ml (CHLOREVIT)`
+- `Multi+Lysine+Taurine+CGF Syrup 60mL (CHLOREVIT)` -> `Multi+Lysine+Taurine+CGF Syrup 60ml (CHLOREVIT)`
+- `Multi+Minerals Drops 30Ml (Eurivit)` -> `Multi+Minerals Drops 30ml (EURIVIT)`
+- `Multi+Minerals Syr 120Ml (Eurivit)` -> `Multi+Minerals Syrup 120ml (EURIVIT)`
+- `Multi+Minerals Syr 250Ml (Eurivit)` -> `Multi+Minerals Syrup 250ml (EURIVIT)`
+- `Multi+Minerals Syr 60Ml (Eurivit)` -> `Multi+Minerals Syrup 60ml (EURIVIT)`
+- `Multivit + CGF, Taurine, Zinc & Lysine Syrup 120 Ml MYTEEKID` -> `Multivit + CGF, Taurine, Zinc & Lysine Syrup 120 ml (MYTEEKID)`
+- `Multivit + Lysine, Taurine & Chlorella (CGF) Syrup 120 mL VYTACHLOR` -> `Multivit + Lysine, Taurine & Chlorella (CGF) Syrup 120 ml (VYTACHLOR)`
+- `MULTIVITAMINS (ORAL DROPS) SYRUP 15mL (TOVIT)` -> `MULTIVITAMINS (ORAL DROPS) Syrup 15ml (TOVIT)`
+- `Multivitamins + Iron Syr 120Ml (Multilem Plus)` -> `Multivitamins + Iron Syrup 120ml (MULTILEM PLUS)`
+- `Multivitamins + Iron Syr 60 Ml (Multilem Plus)` -> `Multivitamins + Iron Syrup 60 ml (MULTILEM PLUS)`
+- `Multivitamins Drops 15 mL MYREVIT` -> `Multivitamins Drops 15 ml (MYREVIT)`
+- `Multivitamins Drops 15Ml (Multilem)` -> `Multivitamins Drops 15ml (MULTILEM)`
+- `Multivitamins Syr 120Ml (Fulvit)` -> `Multivitamins Syrup 120ml (FULVIT)`
+- `Multivitamins Syr 120mL (VITASAPH)` -> `Multivitamins Syrup 120ml (VITASAPH)`
+- `Multivitamins Syr 60 Ml (Multilem)` -> `Multivitamins Syrup 60 ml (MULTILEM)`
+- `Multivitamins Syr 60Ml (Fulvit)` -> `Multivitamins Syrup 60ml (FULVIT)`
+- `Multivitamins Syr 60Ml (Myrevit)` -> `Multivitamins Syrup 60ml (MYREVIT)`
+- `Multivitamins Syr 60mL (Regivit)` -> `Multivitamins Syrup 60ml (REGIVIT)`
+- `Multivitamins Syr 60ml (Vitasaph)` -> `Multivitamins Syrup 60ml (VITASAPH)`
+- `Multivitamins Syrup 120 mL MYREVIT` -> `Multivitamins Syrup 120 ml (MYREVIT)`
+- `MULTIVITAMINS SYRUP 120mL (TOVIT)` -> `MULTIVITAMINS Syrup 120ml (TOVIT)`
+- `MULTIVITAMINS SYRUP 60mL (TOVIT)` -> `MULTIVITAMINS Syrup 60ml (TOVIT)`
+- `MULTIVITAMINS+IRON  SYRUP 60mL (APL/Generics)` -> `MULTIVITAMINS+IRON Syrup 60ml (APL/GENERICS)`
+- `Mupirocin 20 mg/g (2% w/w) Ointment 5 g MUPIBRO` -> `Mupirocin 20 mg/g (2% w/w) Ointment 5 g (MUPIBRO)`
+- `Mupirocin 20 mg/g (2% w/w) Ointment 5 g MUPIREX` -> `Mupirocin 20 mg/g (2% w/w) Ointment 5 g (MUPIREX)`
+- `Mupirocin 20mg Ointment 5G (Mupiban)` -> `Mupirocin 20mg Ointment 5G (MUPIBAN)`
+- `Mupirocin 20mg/g (2% w/w) 5g (Mupisaph)` -> `Mupirocin 20mg/g (2% w/w) 5g (MUPISAPH)`
+- `Mupirocin Ointment 10g (Muporig)` -> `Mupirocin Ointment 10g (MUPORIG)`
+- `Mupirocin Ointment 5g (Batriban)` -> `Mupirocin Ointment 5g (BATRIBAN)`
+- `Mupirocin Ointment 5g (Mirocid)` -> `Mupirocin Ointment 5g (MIROCID)`
+- `Mupirocin Ointment 5G (Mupiderm)` -> `Mupirocin Ointment 5G (MUPIDERM)`
+- `Naproxen 500 Mg Tab 100S (Proxen)` -> `Naproxen 500 mg Tablet 100s (PROXEN)`
+- `Naproxen 500Mg Tab 100S (Sonap)` -> `Naproxen 500mg Tablet 100s (SONAP)`
+- `Naproxen 550mg Tab 100s (Saphroxen 550)` -> `Naproxen 550mg Tablet 100s (SAPHROXEN 550)`
+- `NAPROXEN 550mg TABLET 100's (NAPROX)` -> `NAPROXEN 550mg Tablet 100s (NAPROX)`
+- `Nebivolol 5Mg Tab 100S (Ie Medica)` -> `Nebivolol 5mg Tablet 100s (IE MEDICA)`
+- `Nebivolol HCl  2.5 mg Tablet 14's NEBIL` -> `Nebivolol HCl 2.5 mg Tablet 14s (NEBIL)`
+- `Nebivolol HCl 5 mg Tablet 14's NEBIL` -> `Nebivolol HCl 5 mg Tablet 14s (NEBIL)`
+- `Nebivolol Hydrochloride 5Mg 100S (NEBLIE)` -> `Nebivolol Hydrochloride 5mg 100s (NEBLIE)`
+- `Nebivolol Hydrochloride 5Mg 100S (Toricard)` -> `Nebivolol Hydrochloride 5mg 100s (TORICARD)`
+- `Nebivolol Hydrochloride 5mg Tab 30s (NEBIGO)` -> `Nebivolol Hydrochloride 5mg Tablet 30s (NEBIGO)`
+- `Nifedipine 10 mg Softgel Capsule 100's CALCIGARD-10` -> `Nifedipine 10 mg Softgel Capsule 100s (CALCIGARD-10)`
+- `Nifedipine 10 mg Softgel Capsule 100's NICARDIA` -> `Nifedipine 10 mg Softgel Capsule 100s (NICARDIA)`
+- `Nifedipine 5 mg Softgel Capsule 100's CALCIGARD-5` -> `Nifedipine 5 mg Softgel Capsule 100s (CALCIGARD-5)`
+- `Nifedipine 5Mg Cap 100S (Nicardia)` -> `Nifedipine 5mg Capsule 100s (NICARDIA)`
+- `Nitrofurantoin 100 mg Capsule 100's HARFURIN` -> `Nitrofurantoin 100 mg Capsule 100s (HARFURIN)`
+- `Nitrofurazone Ointment 15G(J*Chemie)` -> `Nitrofurazone Ointment 15G (J*CHEMIE)`
+- `Norfloxacin 400 mg Tablet 100's URINOX` -> `Norfloxacin 400 mg Tablet 100s (URINOX)`
+- `Nystatin 100*000 IU Susp 10ml (Z-NYST)` -> `Nystatin 100*000 IU Suspension 10ml (Z-NYST)`
+- `Nystatin 100*000 IU Susp 12Ml (Nyszac)` -> `Nystatin 100*000 IU Suspension 12ml (NYSZAC)`
+- `Nystatin 100,000 IU/mL Oral Susp 30mL (MYCONIL)` -> `Nystatin 100,000 IU/mL Oral Suspension 30ml (MYCONIL)`
+- `Nystatin 30ml Susp (opal) Geonyst` -> `Nystatin 30ml (SUSP (OPAL) GEONYST)`
+- `Nystatin 30mL Susp (Z-NYST)` -> `Nystatin 30ml Suspension (Z-NYST)`
+- `Nystatin 30Ml Susp Nystrin(Harmann)` -> `Nystatin 30ml Suspension Nystrin (HARMANN)`
+- `Ofloxacin 200 mg Tablet 100's FLOXA-200` -> `Ofloxacin 200 mg Tablet 100s (FLOXA-200)`
+- `Ofloxacin 400 mg Tablet 100's FLOXA-400` -> `Ofloxacin 400 mg Tablet 100s (FLOXA-400)`
+- `Olanzapine 10mg Tab 100s (PSYDEX)` -> `Olanzapine 10mg Tablet 100s (PSYDEX)`
+- `Olanzapine 10Mg Tab 30S (Exzapine)` -> `Olanzapine 10mg Tablet 30s (EXZAPINE)`
+- `Olanzapine 10mg Tab 30s (Olzamax)` -> `Olanzapine 10mg Tablet 30s (OLZAMAX)`
+- `Omega -3 Fish Oil 1000Mg (Amb) 30S` -> `Omega -3 Fish Oil 1000mg 30s (AMB)`
+- `Omega-3 Fish Oil 1000mg Cap 30s (MEGANOVA)` -> `Omega-3 Fish Oil 1000mg Capsule 30s (MEGANOVA)`
+- `Omeprazole 20 mg Capsule 100's OMEBLOC -20` -> `Omeprazole 20 mg Capsule 100s (OMEBLOC -20)`
+- `Omeprazole 20 mg Capsule 100's OMEPHIL-20` -> `Omeprazole 20 mg Capsule 100s (OMEPHIL-20)`
+- `Omeprazole 20 mg Capsule 30's OMEPTAS` -> `Omeprazole 20 mg Capsule 30s (OMEPTAS)`
+- `Omeprazole 20mg Cap 100s (ML-GACID)` -> `Omeprazole 20mg Capsule 100s (ML-GACID)`
+- `Omeprazole 20mg Cap 100s (OMETIFT)` -> `Omeprazole 20mg Capsule 100s (OMETIFT)`
+- `Omeprazole 20Mg Cap 100S (Ranzole-20)` -> `Omeprazole 20mg Capsule 100s (RANZOLE-20)`
+- `OMEPRAZOLE 20mg CAPSULE 30's (APL/Generics)` -> `OMEPRAZOLE 20mg Capsule 30s (APL/GENERICS)`
+- `Omeprazole 40 mg Capsule 100's INHIBITA` -> `Omeprazole 40 mg Capsule 100s (INHIBITA)`
+- `Omeprazole 40 mg Vial 1's (w/o Diluent)  OPREX` -> `Omeprazole 40 mg Vial 1s ((W/O DILUENT) OPREX)`
+- `Omeprazole 40Mg Cap 100S (Ranzole)` -> `Omeprazole 40mg Capsule 100s (RANZOLE)`
+- `Omeprazole 40mg Vials 10s (Oprex) AMB` -> `Omeprazole 40mg Vials 10s ((OPREX) AMB)`
+- `Oral Rehydration Salt-75 (Lemon Flavor) 250 mL 25's DEHYDROSOL` -> `Oral Rehydration Salt-75 (Lemon Flavor) 250 ml 25s (DEHYDROSOL)`
+- `Oral Rehydration Salt-75 (Orange Flavor) 250 mL 25's AMBILYTE` -> `Oral Rehydration Salt-75 (Orange Flavor) 250 ml 25s (AMBILYTE)`
+- `Oral Rehydration Salt-75 250mL 25s (SAPHDRYTE)` -> `Oral Rehydration Salt-75 250ml 25s (SAPHDRYTE)`
+- `Oxacillin Sodium 500 mg Vials 1's AMBOXIL` -> `Oxacillin Sodium 500 mg Vials 1s (AMBOXIL)`
+- `Pantoprazole + Domperidone 40mg/30mg Cap 30s (Pantobet Plus)` -> `Pantoprazole + Domperidone 40mg/30mg Capsule 30s (PANTOBET PLUS)`
+- `Pantoprazole 40 Mg Tab 100S Pancer-40` -> `Pantoprazole 40 mg Tablet 100s (PANCER-40)`
+- `Pantoprazole 40 Mg Tab 50S (H-Panto-40)` -> `Pantoprazole 40 mg Tablet 50s (H-PANTO-40)`
+- `Pantoprazole 40mg Tab 100s (CYZOLE)` -> `Pantoprazole 40mg Tablet 100s (CYZOLE)`
+- `Pantoprazole 40mg Tab 100s (PANTAZ)` -> `Pantoprazole 40mg Tablet 100s (PANTAZ)`
+- `Pantoprazole 40mg Tab 100s (TROPOZOLE)` -> `Pantoprazole 40mg Tablet 100s (TROPOZOLE)`
+- `Para + Orphen 650-35Mg Tab 100S (Orphen Plus)` -> `Para + Orphen 650-35mg Tablet 100s (ORPHEN PLUS)`
+- `Para + Phenyl + CPM  DROPS 15 mL SYMDEX-D` -> `Para + Phenyl + CPM DROPS 15 ml (SYMDEX-D)`
+- `Para + Phenyl + CPM  SYRUP 60 mL SYMDEX-D` -> `Para + Phenyl + CPM Syrup 60 ml (SYMDEX-D)`
+- `Para + Phenyl + CPM 325mg/25mg/2mg Tab 100S (Coldrex-PPA)` -> `Para + Phenyl + CPM 325mg/25mg/2mg Tablet 100s (COLDREX-PPA)`
+- `Para + Trama 325 Mg-37*5 Mg Tab 100S (Para Plus)` -> `Para + Trama 325 mg-37*5 mg Tablet 100s (PARA PLUS)`
+- `Para 325 + Phenyl 25 mg + CPM 2 mg Tablet 100's SYMDEX-D` -> `Para 325 + Phenyl 25 mg + CPM 2 mg Tablet 100s (SYMDEX-D)`
+- `Para 500 + Phenyl 25 mg + CPM 2 mg Tablet 100's SYMDEX-D FORTE` -> `Para 500 + Phenyl 25 mg + CPM 2 mg Tablet 100s (SYMDEX-D FORTE)`
+- `Paracetamol + Ibuprofen 325mg/200mg Cap 100's ILAXX` -> `Paracetamol + Ibuprofen 325mg/200mg Capsule 100s (ILAXX)`
+- `Paracetamol + Ibuprofen 325Mg Cap 100S (Acetafen)` -> `Paracetamol + Ibuprofen 325mg Capsule 100s (ACETAFEN)`
+- `Paracetamol + Orphenadrine 650-35Mg Tab 100S (Ambica)` -> `Paracetamol + Orphenadrine 650-35mg Tablet 100s (AMBICA)`
+- `Paracetamol + Tramadol 325 mg/37.5 mg Tablet 100's DOLSAPH` -> `Paracetamol + Tramadol 325 mg/37.5 mg Tablet 100s (DOLSAPH)`
+- `Paracetamol 100Mg Drops 15Ml (Myremol)` -> `Paracetamol 100mg Drops 15ml (MYREMOL)`
+- `Paracetamol 100Mg Drops 15Ml (PARA100)` -> `Paracetamol 100mg Drops 15ml (PARA100)`
+- `Paracetamol 100mg Drops Generic (Myrex)` -> `Paracetamol 100mg Drops Generic (MYREX)`
+- `Paracetamol 100mg Oral Drops 15mL (PARAWELL-100)` -> `Paracetamol 100mg Oral Drops 15ml (PARAWELL-100)`
+- `Paracetamol 100Mg Suspen Drops 15Ml (Milgesic)` -> `Paracetamol 100mg Suspen Drops 15ml (MILGESIC)`
+- `PARACETAMOL 100mg/mL SUSPENSION (Oral Drops) 15mL (4FEVER)` -> `PARACETAMOL 100mg/mL Suspension (Oral Drops) 15ml (4FEVER)`
+- `Paracetamol 100Mg-15Ml Drops (Novamol)` -> `Paracetamol 100mg-15ml Drops (NOVAMOL)`
+- `Paracetamol 125 mg Suspension 60 mL MYREMOL` -> `Paracetamol 125 mg Suspension 60 ml (MYREMOL)`
+- `Paracetamol 125mg Susp 60ml (Hyfer)` -> `Paracetamol 125mg Suspension 60ml (HYFER)`
+- `Paracetamol 125Mg Susp 60Ml (Milgesic)` -> `Paracetamol 125mg Suspension 60ml (MILGESIC)`
+- `Paracetamol 125Mg Susp 60Ml (Novamol)` -> `Paracetamol 125mg Suspension 60ml (NOVAMOL)`
+- `Paracetamol 125Mg Susp 60Ml (PARASAPH-125)` -> `Paracetamol 125mg Suspension 60ml (PARASAPH-125)`
+- `Paracetamol 125Mg Susp 60Ml (Pyresaph)` -> `Paracetamol 125mg Suspension 60ml (PYRESAPH)`
+- `Paracetamol 125mg/5mL Susp 60ml (PARA125)` -> `Paracetamol 125mg/5ml Suspension 60ml (PARA125)`
+- `Paracetamol 125mg/5mL Susp 60ml (Parawell-125)` -> `Paracetamol 125mg/5ml Suspension 60ml (PARAWELL-125)`
+- `PARA + PHENYL + CPM Syrup 60mL (OFF-COLDS)` -> `PARA + PHENYL + CPM Syrup 60ml (OFF-COLDS)`
+- `Paracetamol 125Mg-5Ml Susp 60Ml (Biogic)` -> `Paracetamol 125mg-5ml Suspension 60ml (BIOGIC)`
+- `Paracetamol 125Mg-60Ml Susp (Kidicef)` -> `Paracetamol 125mg-60ml Suspension (KIDICEF)`
+- `Paracetamol 125Mg-60Ml Susp (Myrex)` -> `Paracetamol 125mg-60ml Suspension (MYREX)`
+- `Paracetamol 150 mg/mL  Ampule 1's AMCETAM` -> `Paracetamol 150 mg/mL Ampule 1s (AMCETAM)`
+- `Paracetamol 250 mg Suspension 60 mL MYREMOL` -> `Paracetamol 250 mg Suspension 60 ml (MYREMOL)`
+- `Paracetamol 250Mg Susp (Novamol)` -> `Paracetamol 250mg Suspension (NOVAMOL)`
+- `Paracetamol 250mg Susp 60ml (Hyfer-250)` -> `Paracetamol 250mg Suspension 60ml (HYFER-250)`
+- `Paracetamol 250Mg Susp 60Ml (Kidicef)` -> `Paracetamol 250mg Suspension 60ml (KIDICEF)`
+- `Paracetamol 250Mg Susp 60Ml (Milgesic)` -> `Paracetamol 250mg Suspension 60ml (MILGESIC)`
+- `Paracetamol 250Mg Susp 60Ml (PARASAPH-250)` -> `Paracetamol 250mg Suspension 60ml (PARASAPH-250)`
+- `Paracetamol 250mg Susp 60ml (Pyresaph-250)` -> `Paracetamol 250mg Suspension 60ml (PYRESAPH-250)`
+- `Paracetamol 250Mg Susp*(Myrex)` -> `Paracetamol 250mg Suspension* (MYREX)`
+- `Paracetamol 250mg/5mL Susp 60mL (PARA250)` -> `Paracetamol 250mg/5ml Suspension 60ml (PARA250)`
+- `PARACETAMOL 250mg/5mL SUSPENSION 60mL (4FEVER)` -> `PARACETAMOL 250mg/5ml Suspension 60ml (4FEVER)`
+- `Paracetamol 250Mg-60Ml Susp (Biogic)` -> `Paracetamol 250mg-60ml Suspension (BIOGIC)`
+- `Paracetamol 325mg +Tramadol HCL 37.5mg Tab 100S (PRADOL)` -> `Paracetamol 325mg +Tramadol HCL 37.5mg Tablet 100s (PRADOL)`
+- `Paracetamol 500 Mg Tab 100S Nahalgesic` -> `Paracetamol 500 mg Tablet 100s (NAHALGESIC)`
+- `Paracetamol 500mg Tab 100s (AMBIRETIC)` -> `Paracetamol 500mg Tablet 100s (AMBIRETIC)`
+- `Paracetamol 500Mg Tab 100S (Biogic)` -> `Paracetamol 500mg Tablet 100s (BIOGIC)`
+- `Paracetamol 500Mg Tab 100S (Generics)` -> `Paracetamol 500mg Tablet 100s (GENERICS)`
+- `Paracetamol 500mg Tab 100s (Kidicef)` -> `Paracetamol 500mg Tablet 100s (KIDICEF)`
+- `Paracetamol 500Mg Tab 100S (MEDETAM)` -> `Paracetamol 500mg Tablet 100s (MEDETAM)`
+- `Paracetamol 500mg Tab 100s (MILGESIC FORTE)` -> `Paracetamol 500mg Tablet 100s (MILGESIC FORTE)`
+- `Paracetamol 500mg Tab 100s (PARA500)` -> `Paracetamol 500mg Tablet 100s (PARA500)`
+- `Paracetamol 500Mg Tab 100S (Parasaph-500)` -> `Paracetamol 500mg Tablet 100s (PARASAPH-500)`
+- `Paracetamol 500mg Tab 100s (Parawell-500)` -> `Paracetamol 500mg Tablet 100s (PARAWELL-500)`
+- `Paracetamol 500Mg Tab 100S (Philpara)` -> `Paracetamol 500mg Tablet 100s (PHILPARA)`
+- `Paracetamol 500mg Tab 100s (RANIGESIC)` -> `Paracetamol 500mg Tablet 100s (RANIGESIC)`
+- `Paracetamol 500mg Tab 100s (Rapidol)` -> `Paracetamol 500mg Tablet 100s (RAPIDOL)`
+- `PARACETAMOL 500mg TABLET 100's (TEMPAID)` -> `PARACETAMOL 500mg Tablet 100s (TEMPAID)`
+- `PARACETAMOL+CAFFEINE (500MG/65MG TABLET) 100's (RELIEPAIN)` -> `PARACETAMOL+CAFFEINE (500mg/65mg Tablet) 100s (RELIEPAIN)`
+- `PARACETAMOL+GUAIFENESIN+PHENYLPROPANOLAMINE+DEXTHRO+CHLO
+RPHEN 325mg/50mg/12.5mg/10mg/1mg 100's (APL/Generics)` -> `PARACETAMOL+GUAIFENESIN+PHENYLPROPANOLAMINE+DEXTHRO+CHLO RPHEN 325mg/50mg/12.5mg/10mg/1mg 100s (APL/GENERICS)`
+- `PARACETAMOL+GUAIFENESIN+PHENYLPROPANOLAMINE+DEXTHRO+CHLO
+RPHEN 500mg/50mg/30mg/15mg/1mg 100's (APL/Generics)` -> `PARACETAMOL+GUAIFENESIN+PHENYLPROPANOLAMINE+DEXTHRO+CHLO RPHEN 500mg/50mg/30mg/15mg/1mg 100s (APL/GENERICS)`
+- `PARACETAMOL+THIAMINE+PYRIDOXINE HCL+CYANO 500MG+50MG+100MG/100MCG 100's (APL/Generics)` -> `PARACETAMOL+THIAMINE+PYRIDOXINE HCL+CYANO 500mg+50mg+100mg/100mcg 100s (APL/GENERICS)`
+- `Phenyl 12.5mg + Brompheniramine 4mg Syr 60mL  BROMITAPP` -> `Phenyl 12.5mg + Brompheniramine 4mg Syrup 60ml (BROMITAPP)`
+- `Phenyl 6.25mg + Brompheniramine 2mg Drops 15mL BROMITAPP` -> `Phenyl 6.25mg + Brompheniramine 2mg Drops 15ml (BROMITAPP)`
+- `PHENYLEPHRINE HCl + BROMPHENIRAMINE MALEATE 2.5 mg/ 1 mg/ mL (ORAL DROPS) SYRUP 15mL (APL/Generics)` -> `PHENYLEPHRINE HCl + BROMPHENIRAMINE MALEATE 2.5 mg/ 1 mg/ mL (ORAL DROPS) Syrup 15ml (APL/GENERICS)`
+- `PHENYLEPHRINE HCl + BROMPHENIRAMINE MALEATE 5 mg/ 2 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `PHENYLEPHRINE HCl + BROMPHENIRAMINE MALEATE 5 mg/ 2 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `PHENYLEPHRINE HCl + CHLORPHENIRAMINE MALEATE 1 mg/ 0.8 mg/mL (ORAL DROPS) SYRUP 15mL (APL/Generics)` -> `PHENYLEPHRINE HCl + CHLORPHENIRAMINE MALEATE 1 mg/ 0.8 mg/mL (ORAL DROPS) Syrup 15ml (APL/GENERICS)`
+- `PHENYLEPHRINE HCl + CHLORPHENIRAMINE MALEATE 6.25 mg/ 0.5 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `PHENYLEPHRINE HCl + CHLORPHENIRAMINE MALEATE 6.25 mg/ 0.5 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `PHENYLEPHRINE+DEXTRO+PARA 10mg+15mg+325mg 100's (APL/Generics)` -> `PHENYLEPHRINE+DEXTRO+PARA 10mg+15mg+325mg 100s (APL/GENERICS)`
+- `Phenylpropanolamine 12*5Mg Syr (Desotap)` -> `Phenylpropanolamine 12*5mg Syrup (DESOTAP)`
+- `Phenylpropanolamine 12*5Mg Syr DEKONREX (Myrex)` -> `Phenylpropanolamine 12*5mg Syrup DEKONREX (MYREX)`
+- `Phenylpropanolamine 12*5Mg Syr 60Ml (Colds-Off)` -> `Phenylpropanolamine 12*5mg Syrup 60ml (COLDS-OFF)`
+- `Phenylpropanolamine 12*5Mg Syr 60Ml (Neo-Drin)` -> `Phenylpropanolamine 12*5mg Syrup 60ml (NEO-DRIN)`
+- `Phenylpropanolamine 12.5mg Syr 60ml (NASAREX)` -> `Phenylpropanolamine 12.5mg Syrup 60ml (NASAREX)`
+- `Phenylpropanolamine 6.25mg Drops 15mL (4NAZAL)` -> `Phenylpropanolamine 6.25mg Drops 15ml (4NAZAL)`
+- `Phytomenadione 10 mg/mL Ampule (Vit K1)1's PHYTOCARE` -> `Phytomenadione 10 mg/mL Ampule (Vit K1)1s (PHYTOCARE)`
+- `PIOGLITAZONE (AS HYDROCHLORIDE 15MG) TABLET (PIOSTAL 15) 100's` -> `PIOGLITAZONE (AS HYDROCHLORIDE 15mg) Tablet 100s (PIOSTAL 15)`
+- `Pioglitazone 15 mg Tablet 28's ZEAL` -> `Pioglitazone 15 mg Tablet 28s (ZEAL)`
+- `Pioglitazone 15mg Tab 30s (PIOGLITASAPH-15)` -> `Pioglitazone 15mg Tablet 30s (PIOGLITASAPH-15)`
+- `Pioglitazone 15Mg Tab Glito (Ambica) 100S` -> `Pioglitazone 15mg Tablet Glito 100s (AMBICA)`
+- `Pioglitazone 30 Mg Tab 100S (Pioglifar 30)` -> `Pioglitazone 30 mg Tablet 100s (PIOGLIFAR 30)`
+- `Pioglitazone 30 mg Tablet 28's ZEAL` -> `Pioglitazone 30 mg Tablet 28s (ZEAL)`
+- `Pioglitazone 30Mg Tab 100S (Glito)` -> `Pioglitazone 30mg Tablet 100s (GLITO)`
+- `Pioglitazone Hydrochloride 30mg Tab 30s (PIOGLITASAPH-30)` -> `Pioglitazone Hydrochloride 30mg Tablet 30s (PIOGLITASAPH-30)`
+- `PIOGLITAZONE HYDROCHLORIDE 30MG TABLET (PIOSTAL 30) 100's` -> `PIOGLITAZONE HYDROCHLORIDE 30mg Tablet 100s (PIOSTAL 30)`
+- `PIOGLITAZONE HYDROCHLORIDE 30MG TABLET 100S (PIODART)` -> `PIOGLITAZONE HYDROCHLORIDE 30mg Tablet 100s (PIODART)`
+- `Piracetam 800Mg Tab (2 x 30s) 60s (RETENTO-800)` -> `Piracetam 800mg Tablet (2 x 30s) 60s (RETENTO-800)`
+- `Piroxicam 10Mg Cap (Dli)100S` -> `Piroxicam 10mg Capsule 100s (DLI)`
+- `PIROXICAM 10mg CAPSULE 100's (APL/Generics)` -> `PIROXICAM 10mg Capsule 100s (APL/GENERICS)`
+- `Piroxicam 20 mg Capsule 100's Generic` -> `Piroxicam 20 mg Capsule 100s (GENERIC)`
+- `PIROXICAM 20mg CAPSULE 100's (APL/Generics)` -> `PIROXICAM 20mg Capsule 100s (APL/GENERICS)`
+- `Pizotifen 290 mcg Syrup 60 mL PEDIAPETITE` -> `Pizotifen 290 mcg Syrup 60 ml (PEDIAPETITE)`
+- `Polymyxin B + Neomycin + Dexa Drops 5 mL (Ohthalmic) DEXATROL` -> `Polymyxin B + Neomycin + Dexa Drops 5 ml ((OHTHALMIC) DEXATROL)`
+- `Polymyxin B + Neomycin + Dexa Drops 5 mL (Ohthalmic) ISORE` -> `Polymyxin B + Neomycin + Dexa Drops 5 ml ((OHTHALMIC) ISORE)`
+- `Polymyxin B + Neomycin + Dexa Drops 5 mL (Otic Solution) RAPIDAX` -> `Polymyxin B + Neomycin + Dexa Drops 5 ml ((OTIC SOLUTION) RAPIDAX)`
+- `Potassium Chloride 600 mg Tablet 100's  KALIUSAPHRIDE` -> `Potassium Chloride 600 mg Tablet 100s (KALIUSAPHRIDE)`
+- `Potassium Chloride 600 mg Tablet 30's ELECTAB` -> `Potassium Chloride 600 mg Tablet 30s (ELECTAB)`
+- `Potassium Chloride 600Mg Tab 100S (K-Lyte)` -> `Potassium Chloride 600mg Tablet 100s (K-LYTE)`
+- `Potassium Citrate 1,080 mg (10 mEq) Tablet 30's  ALKALINSE` -> `Potassium Citrate 1,080 mg (10 mEq) Tablet 30s (ALKALINSE)`
+- `Potassium Citrate 1,080 mg (10 mEq) Tablet 30's  SAPHTRATE` -> `Potassium Citrate 1,080 mg (10 mEq) Tablet 30s (SAPHTRATE)`
+- `Potassium Citrate 1080mg Tab 100s (KELCITRA)` -> `Potassium Citrate 1080mg Tablet 100s (KELCITRA)`
+- `Povidone Iodine 10% 30ml (Betasol)-12` -> `Povidone Iodine 10% 30ml ((BETASOL)-12)`
+- `Prednisolone 15 mg Syrup 60 mL  IMPRESOL` -> `Prednisolone 15 mg Syrup 60 ml (IMPRESOL)`
+- `Prednisone 10 mg Suspension 60 mL BETPRED` -> `Prednisone 10 mg Suspension 60 ml (BETPRED)`
+- `Prednisone 10 mg Suspension 60 mL LEFESONE` -> `Prednisone 10 mg Suspension 60 ml (LEFESONE)`
+- `Prednisone 10 mg Suspension 60 mL PREDEX` -> `Prednisone 10 mg Suspension 60 ml (PREDEX)`
+- `Prednisone 10 mg Tablet 100's Generic` -> `Prednisone 10 mg Tablet 100s (GENERIC)`
+- `Prednisone 10mg Susp 60mL (Prend)` -> `Prednisone 10mg Suspension 60ml (PREND)`
+- `Prednisone 10mg Tab 100s (PRENISAPH-10)` -> `Prednisone 10mg Tablet 100s (PRENISAPH-10)`
+- `Prednisone 10Mg Tab 100S (Presone)` -> `Prednisone 10mg Tablet 100s (PRESONE)`
+- `Prednisone 20 mg Tablet 100's (PRENISAPH-20)` -> `Prednisone 20 mg Tablet 100s (PRENISAPH-20)`
+- `Prednisone 20 mg Tablet 100's PREND` -> `Prednisone 20 mg Tablet 100s (PREND)`
+- `Prednisone 5 mg Tablet 100's SYSTOCOR` -> `Prednisone 5 mg Tablet 100s (SYSTOCOR)`
+- `Prednisone 5Mg Tab 100S (Derpson)` -> `Prednisone 5mg Tablet 100s (DERPSON)`
+- `Pregabalin 75 mg Capsule 30's PREGABASAPH-75` -> `Pregabalin 75 mg Capsule 30s (PREGABASAPH-75)`
+- `Pregabalin 75Mg Cap 100S (Probal-75)` -> `Pregabalin 75mg Capsule 100s (PROBAL-75)`
+- `Pregabalin 75mg Cap 28s (GRABALIN)` -> `Pregabalin 75mg Capsule 28s (GRABALIN)`
+- `Pregabalin 75Mg Cap 30S (Pregeb)` -> `Pregabalin 75mg Capsule 30s (PREGEB)`
+- `Pregabalin 75mg Cap 30s (REBALIN)` -> `Pregabalin 75mg Capsule 30s (REBALIN)`
+- `Pregabalin 75Mg Cap 56S (Gablurica)` -> `Pregabalin 75mg Capsule 56s (GABLURICA)`
+- `Propanolol HCI 10mg Tab 100s (ASTEROL)` -> `Propanolol HCI 10mg Tablet 100s (ASTEROL)`
+- `Propranolol 10 Mg Tab 100S Oranol` -> `Propranolol 10 mg Tablet 100s (ORANOL)`
+- `Propranolol 10 mg Tablet 100's STABETA-10` -> `Propranolol 10 mg Tablet 100s (STABETA-10)`
+- `Propranolol 40 Mg Tab 100S ASTEROL-40` -> `Propranolol 40 mg Tablet 100s (ASTEROL-40)`
+- `Propranolol 40 Mg Tab 100S Oranol` -> `Propranolol 40 mg Tablet 100s (ORANOL)`
+- `Propranolol 40 mg Tablet 100's STABETA-40` -> `Propranolol 40 mg Tablet 100s (STABETA-40)`
+- `Pyrantel Pamoate 250 mg Suspension 60 mL Generic` -> `Pyrantel Pamoate 250 mg Suspension 60 ml (GENERIC)`
+- `Pyrantel Pamoate 250Mg Syr (Dli)` -> `Pyrantel Pamoate 250mg Syrup (DLI)`
+- `Pyrazinamide 250 mg Suspension 120 mL PYZATHER` -> `Pyrazinamide 250 mg Suspension 120 ml (PYZATHER)`
+- `Pyrazinamide 250 mg Suspension 60 mL PYRAMIN` -> `Pyrazinamide 250 mg Suspension 60 ml (PYRAMIN)`
+- `Pyrazinamide 250Mg Susp 120Ml (Zynaphar)` -> `Pyrazinamide 250mg Suspension 120ml (ZYNAPHAR)`
+- `Pyrazinamide 250Mg Susp 60Ml (Zynaphar)` -> `Pyrazinamide 250mg Suspension 60ml (ZYNAPHAR)`
+- `Pyrazinamide 500 mg Tablet 100's PYRAZUER` -> `Pyrazinamide 500 mg Tablet 100s (PYRAZUER)`
+- `Ranitidine  25 mg/mL (50 mg/2 mL) Ampule 1's ZANTRICID` -> `Ranitidine 25 mg/mL (50 mg/2 ml) Ampule 1s (ZANTRICID)`
+- `Ranitidine 150 mg Tablet 100's GASTROSAPH-150` -> `Ranitidine 150 mg Tablet 100s (GASTROSAPH-150)`
+- `Ranitidine 150mg Tab 100s (Contracid)` -> `Ranitidine 150mg Tablet 100s (CONTRACID)`
+- `Ranitidine 150mg Tab 100s (RANIPHIL)` -> `Ranitidine 150mg Tablet 100s (RANIPHIL)`
+- `Ranitidine 150Mg Tab 100S (Ranitein)` -> `Ranitidine 150mg Tablet 100s (RANITEIN)`
+- `Ranitidine 300 mg Tablet 100's RANITEIN` -> `Ranitidine 300 mg Tablet 100s (RANITEIN)`
+- `Ranitidine 300mg Tab 100s (ZENTEK)` -> `Ranitidine 300mg Tablet 100s (ZENTEK)`
+- `Rifampicin 150 mg + Isoniazid 75 mg Tablet 100's BERCUREX-1` -> `Rifampicin 150 mg + Isoniazid 75 mg Tablet 100s (BERCUREX-1)`
+- `Rifampicin 150 mg + Isoniazid 75 mg Tablet 80's DUOMAX` -> `Rifampicin 150 mg + Isoniazid 75 mg Tablet 80s (DUOMAX)`
+- `Rifampicin 150mg+INH 75mg+PZA 400mg EMB 275mg fc Tab 80s QUADMAX` -> `Rifampicin 150mg+INH 75mg+PZA 400mg EMB 275mg fc Tablet 80s (QUADMAX)`
+- `Rifampicin 200 mg Suspension 120 mL FAMTRICIN FORTE` -> `Rifampicin 200 mg Suspension 120 ml (FAMTRICIN FORTE)`
+- `Rifampicin 200 mg Suspension 60mL FAMTRICIN FORTE` -> `Rifampicin 200 mg Suspension 60ml (FAMTRICIN FORTE)`
+- `Rifampicin 200Mg Susp 120Ml (Picinaf)` -> `Rifampicin 200mg Suspension 120ml (PICINAF)`
+- `Rifampicin 450 Mg Cap 100S Eufropin` -> `Rifampicin 450 mg Capsule 100s (EUFROPIN)`
+- `Rifampicin 450 mg Capsule 100's REXILAN` -> `Rifampicin 450 mg Capsule 100s (REXILAN)`
+- `Rifampicin 450mg Cap 100s (EUPROFIN)` -> `Rifampicin 450mg Capsule 100s (EUPROFIN)`
+- `Rifampicin 450mg Cap 100s (Rexilan)` -> `Rifampicin 450mg Capsule 100s (REXILAN)`
+- `Rifampicin 450Mg Cap Picinaf (Tolmann)100S` -> `Rifampicin 450mg Capsule Picinaf 100s (TOLMANN)`
+- `Risperidone 2Mg Tab 100S (Risdosolplus)` -> `Risperidone 2mg Tablet 100s (RISDOSOLPLUS)`
+- `Risperidone 2mg Tab 30s (RISPERMAX)` -> `Risperidone 2mg Tablet 30s (RISPERMAX)`
+- `Risperidone 2mg Tab 30s (Rispesaph-2)` -> `Risperidone 2mg Tablet 30s (RISPESAPH-2)`
+- `Risperidone 2Mg Tab Sizodon(Sun Pharma)50s` -> `Risperidone 2mg Tablet Sizodon 50s (SUN PHARMA)`
+- `Rm Rosuvastatin 10Mg Tab 30S` -> `Rosuvastatin 10mg Tablet 30s (RM)`
+- `Rosuvastatin 10 Mg Tab 100S (LOWAS-10)` -> `Rosuvastatin 10 mg Tablet 100s (LOWAS-10)`
+- `Rosuvastatin 10 Mg Tab 100S Rosutin` -> `Rosuvastatin 10 mg Tablet 100s (ROSUTIN)`
+- `Rosuvastatin 10 Mg Tab 28S (Lowas)` -> `Rosuvastatin 10 mg Tablet 28s (LOWAS)`
+- `Rosuvastatin 10 mg Tablet 100's ROSUSAPH-10` -> `Rosuvastatin 10 mg Tablet 100s (ROSUSAPH-10)`
+- `Rosuvastatin 10mg fc Tab 30s (Rosucare)` -> `Rosuvastatin 10mg fc Tablet 30s (ROSUCARE)`
+- `Rosuvastatin 10Mg Tab 100S (Aurora)` -> `Rosuvastatin 10mg Tablet 100s (AURORA)`
+- `Rosuvastatin 10Mg Tab 100S (Rosumond)` -> `Rosuvastatin 10mg Tablet 100s (ROSUMOND)`
+- `Rosuvastatin 10mg Tab 100s (Rozatin-10)` -> `Rosuvastatin 10mg Tablet 100s (ROZATIN-10)`
+- `Rosuvastatin 10mg Tab 30s (ROSULIP-10)` -> `Rosuvastatin 10mg Tablet 30s (ROSULIP-10)`
+- `Rosuvastatin 20 mg Tablet 100's VESTFLO-20` -> `Rosuvastatin 20 mg Tablet 100s (VESTFLO-20)`
+- `Rosuvastatin 20Mg Tab 100S (Aurora)` -> `Rosuvastatin 20mg Tablet 100s (AURORA)`
+- `Rosuvastatin 20mg Tab 100s (CELEVASTATIN)` -> `Rosuvastatin 20mg Tablet 100s (CELEVASTATIN)`
+- `Rosuvastatin 20Mg Tab 100S (Rost-20)` -> `Rosuvastatin 20mg Tablet 100s (ROST-20)`
+- `Rosuvastatin 20mg Tab 100s (Rosusaph-20)` -> `Rosuvastatin 20mg Tablet 100s (ROSUSAPH-20)`
+- `Rosuvastatin 20mg Tab 100s (Rozatin-20)` -> `Rosuvastatin 20mg Tablet 100s (ROZATIN-20)`
+- `Rosuvastatin 20mg Tab 30s (ROSUFAR-20)` -> `Rosuvastatin 20mg Tablet 30s (ROSUFAR-20)`
+- `Rosuvastatin 40Mg Tab 100S (Aurora)` -> `Rosuvastatin 40mg Tablet 100s (AURORA)`
+- `Rosuvastatin 40mg Tab 100s (Rosusaph-40)` -> `Rosuvastatin 40mg Tablet 100s (ROSUSAPH-40)`
+- `Rosuvastatin 40mg Tab 100s (ROZATIN-40)` -> `Rosuvastatin 40mg Tablet 100s (ROZATIN-40)`
+- `Rosuvastatin 5mg Tab 100s (Rozatin-5)` -> `Rosuvastatin 5mg Tablet 100s (ROZATIN-5)`
+- `Rosuvastatin Calcium 20mg Tab 30S (Rosadoc-20)` -> `Rosuvastatin Calcium 20mg Tablet 30s (ROSADOC-20)`
+- `Salbu + Guai 50mg/1mg Syr 60ml (Vent-Aid)` -> `Salbu + Guai 50mg/1mg Syrup 60ml (VENT-AID)`
+- `Salbu 1mg + Guai 50mg + Brom 4mg Syrup 60 mL  VENTO BRONCHO-M` -> `Salbu 1mg + Guai 50mg + Brom 4mg Syrup 60 ml (VENTO BRONCHO-M)`
+- `Salbu 2mg + Guai 100 mg + Brom 8mg Cap 100's  VENTO BRONCHO-M` -> `Salbu 2mg + Guai 100 mg + Brom 8mg Capsule 100s (VENTO BRONCHO-M)`
+- `Salbu+Guai 2Mg-100Mg Cap 100S (Dli)` -> `Salbu+Guai 2mg-100mg Capsule 100s (DLI)`
+- `Salbu+Guaife 1Mg-50Mg Syr 60Ml (Asmair)` -> `Salbu+Guaife 1mg-50mg Syrup 60ml (ASMAIR)`
+- `Salbu+Ipratro 2*5Mg-500Mcg Respl 30S (Ipravent)` -> `Salbu+Ipratro 2*5mg-500mcg Respl 30s (IPRAVENT)`
+- `Salbu+Ipratro 2*5Mg-500Mcg Respl 30S (Resposal-I)` -> `Salbu+Ipratro 2*5mg-500mcg Respl 30s (RESPOSAL-I)`
+- `Salbu + Iprato 2.50mg+500mcg/2.5mL Nebule 30s HIVENT PLUS` -> `Salbu + Iprato 2.50mg+500mcg/2.5ml Nebule 30s (HIVENT PLUS)`
+- `SALBU + GUAI 1mg/50mg per 5mL SYRUP 60mL (APL/Generics)` -> `SALBU + GUAI 1mg/50mg per 5ml Syrup 60ml (APL/GENERICS)`
+- `Salbutamol + Guaifenesin 2mg/100mg Cap 100s (SOLVOMOX)` -> `Salbutamol + Guaifenesin 2mg/100mg Capsule 100s (SOLVOMOX)`
+- `SALBUTAMOL + GUAIFENESIN 2mg/100mg CAPSULE 100's (APL/Generics)` -> `SALBUTAMOL + GUAIFENESIN 2mg/100mg Capsule 100s (APL/GENERICS)`
+- `Salbutamol 1 mg/mL (2.5 mg/2.5 mL) Nebule 30's SALBUSAPH` -> `Salbutamol 1 mg/mL (2.5 mg/2.5 ml) Nebule 30s (SALBUSAPH)`
+- `Salbutamol 2 mg + Guaifenesin 100 mg Cap 100's VENTREX G` -> `Salbutamol 2 mg + Guaifenesin 100 mg Capsule 100s (VENTREX G)`
+- `Salbutamol 2.5 mg/2.5 mL Nebule 30's (RESPOSAL)` -> `Salbutamol 2.5 mg/2.5 ml Nebule 30s (RESPOSAL)`
+- `Salbutamol 2.5 mg/2.5 mL Nebule 30's HIVENT-EM` -> `Salbutamol 2.5 mg/2.5 ml Nebule 30s (HIVENT-EM)`
+- `Salbutamol 2mg Syr 60mL (ADOSAL)` -> `Salbutamol 2mg Syrup 60ml (ADOSAL)`
+- `Salbutamol 2Mg Syr 60Ml (Butamol)` -> `Salbutamol 2mg Syrup 60ml (BUTAMOL)`
+- `Salbutamol 2Mg Syr 60Ml (Nobutol)` -> `Salbutamol 2mg Syrup 60ml (NOBUTOL)`
+- `Salbutamol 2Mg Syr 60Ml (Vn2)` -> `Salbutamol 2mg Syrup 60ml (VN2)`
+- `Salbutamol 2mg Tab 100s (Beisol)` -> `Salbutamol 2mg Tablet 100s (BEISOL)`
+- `Salbutamol 2Mg Tab 100S (Ventomax)` -> `Salbutamol 2mg Tablet 100s (VENTOMAX)`
+- `Salbutamol 2Mg Tab 100S (Ventrex)` -> `Salbutamol 2mg Tablet 100s (VENTREX)`
+- `Salbutamol 2Mg Tab 100S (VN2)` -> `Salbutamol 2mg Tablet 100s (VN2)`
+- `Salbutamol 2Mg Tab 100S (Vonwelt)` -> `Salbutamol 2mg Tablet 100s (VONWELT)`
+- `Salbutamol 4 mg Tablet 100's BUTAMOL` -> `Salbutamol 4 mg Tablet 100s (BUTAMOL)`
+- `Salbutamol 4Mg Tab 100S (Ventomax)` -> `Salbutamol 4mg Tablet 100s (VENTOMAX)`
+- `Salbutamol 4mg Tab 100s (VN2)` -> `Salbutamol 4mg Tablet 100s (VN2)`
+- `Salbutamol Neb 1mg/2.5mL 10s (SALBUDEN)` -> `Salbutamol Neb 1mg/2.5ml 10s (SALBUDEN)`
+- `Salbutamol Neb 1mg/2.5ml 35s (Brodix)` -> `Salbutamol Neb 1mg/2.5ml 35s (BRODIX)`
+- `Salbutamol Neb 1Mg-2*5Ml Hivent 30s (Euromed)` -> `Salbutamol Neb 1mg-2*5ml Hivent 30s (EUROMED)`
+- `Salbutamol Neb 2*5Mg-2*5Ml 30S (Aerovent)` -> `Salbutamol Neb 2*5mg-2*5ml 30s (AEROVENT)`
+- `SALBUTAMOL SULFATE 4mg Tablet 100's (APL/Generics)` -> `SALBUTAMOL SULFATE 4mg Tablet 100s (APL/GENERICS)`
+- `SALBUTAMOL SYR 60ML (ASMAMED)` -> `SALBUTAMOL Syrup 60ml (ASMAMED)`
+- `Salbutamol+Ipratropium 200mcg 30S (Ipracare)` -> `Salbutamol+Ipratropium 200mcg 30s (IPRACARE)`
+- `Salmeterol+Fluticasone 25mcg/250mcg Inhaler KOVENT SF` -> `Salmeterol+Fluticasone 25mcg/250mcg Inhaler (KOVENT SF)`
+- `Sambong 500 Mg Tab 100S Awanay Forte` -> `Sambong 500 mg Tablet 100s (AWANAY FORTE)`
+- `Sambong 500Mg Tab 100S (Urisam)` -> `Sambong 500mg Tablet 100s (URISAM)`
+- `Sambong 500Mg Tab Mia Forte (Square)100S` -> `Sambong 500mg Tablet Mia Forte 100s (SQUARE)`
+- `Sambong 500Mg Tab Renaleaf(Westfield)100S` -> `Sambong 500mg Tablet Renaleaf 100s (WESTFIELD)`
+- `SAMBONG 500mg TABLET 100's (HERBAKID FORTE)` -> `SAMBONG 500mg Tablet 100s (HERBAKID FORTE)`
+- `Sildenafil 100mg Tab 8s (ERECFIL)` -> `Sildenafil 100mg Tablet 8s (ERECFIL)`
+- `Sildenafil 50mg Tab 8s (ERECFIL)` -> `Sildenafil 50mg Tablet 8s (ERECFIL)`
+- `Sildenafil Citrate 100 Mg Tab 10S Spiagra` -> `Sildenafil Citrate 100 mg Tablet 10s (SPIAGRA)`
+- `Sildenafil Citrate 100 mg Tablet 4's KADAGRA` -> `Sildenafil Citrate 100 mg Tablet 4s (KADAGRA)`
+- `Sildenafil Citrate 100 mg Tablet 4's SILDESAPH-100` -> `Sildenafil Citrate 100 mg Tablet 4s (SILDESAPH-100)`
+- `Sildenafil Citrate 50 mg Tablet 4's SILDESAPH-50` -> `Sildenafil Citrate 50 mg Tablet 4s (SILDESAPH-50)`
+- `Sildenafil Citrate 50mg Tab 10s (ERECTO)` -> `Sildenafil Citrate 50mg Tablet 10s (ERECTO)`
+- `Silver Sulfadiazine 10 mg/g (1% w/w) Cream 20 g MAZINE` -> `Silver Sulfadiazine 10 mg/g (1% w/w) Cream 20 g (MAZINE)`
+- `Silver Sulfadiazine 10 mg/g (1% w/w) Cream 25 g BURNSIL` -> `Silver Sulfadiazine 10 mg/g (1% w/w) Cream 25 g (BURNSIL)`
+- `Silymarin 250 mg + Vitamin B Complex Capsule 32's LIVERBOS` -> `Silymarin 250 mg + Vitamin B Complex Capsule 32s (LIVERBOS)`
+- `Silymarin 650Mg Caps 100S (Numax)` -> `Silymarin 650mg Capsule 100s (NUMAX)`
+- `Simvastatin 10 mg Tablet 100's ZIMVAST` -> `Simvastatin 10 mg Tablet 100s (ZIMVAST)`
+- `Simvastatin 10Mg Tab 100S (Philstat-10)` -> `Simvastatin 10mg Tablet 100s (PHILSTAT-10)`
+- `Simvastatin 10mg Tab 100s (SIMVASYN)` -> `Simvastatin 10mg Tablet 100s (SIMVASYN)`
+- `Simvastatin 20 mg Tablet 100's PHILSTAT-20` -> `Simvastatin 20 mg Tablet 100s (PHILSTAT-20)`
+- `Simvastatin 20Mg Tab 100S (DIASTATIN)` -> `Simvastatin 20mg Tablet 100s (DIASTATIN)`
+- `Simvastatin 20mg Tab 100s (SIMVASYN)` -> `Simvastatin 20mg Tablet 100s (SIMVASYN)`
+- `Simvastatin 20Mg Tab 100S (Zimvast)` -> `Simvastatin 20mg Tablet 100s (ZIMVAST)`
+- `Simvastatin 40 mg Tablet 100's DIASTATIN` -> `Simvastatin 40 mg Tablet 100s (DIASTATIN)`
+- `Simvastatin 40mg Tab 100s (SIMVASYN)` -> `Simvastatin 40mg Tablet 100s (SIMVASYN)`
+- `Simvastatin 40Mg Tab 100S (Zimvast)` -> `Simvastatin 40mg Tablet 100s (ZIMVAST)`
+- `Sitagliptin 50mg Tab 30s PHILSITZ` -> `Sitagliptin 50mg Tablet 30s (PHILSITZ)`
+- `Sodium Ascorbate + Zinc taurine 120Ml (Ceefirst)` -> `Sodium Ascorbate + Zinc taurine 120ml (CEEFIRST)`
+- `SODIUM BICARBONATE 650MG TABLET 60's (BICARNATE)` -> `SODIUM BICARBONATE 650mg Tablet 60s (BICARNATE)`
+- `Sodium Chloride 0*65% Nasal Spray 30Ml Stuffinose` -> `Sodium Chloride 0*65% Nasal Spray 30ml (STUFFINOSE)`
+- `Sodium Chloride 6.5 mg Nasal Spray 30 mL CLIRNAZE` -> `Sodium Chloride 6.5 mg Nasal Spray 30 ml (CLIRNAZE)`
+- `Spironolactone 25 mg Tablet 100's SPIRODEN` -> `Spironolactone 25 mg Tablet 100s (SPIRODEN)`
+- `SPIRONOLACTONE 25MG  TABLET (LACTONE) 100's` -> `SPIRONOLACTONE 25mg Tablet 100s (LACTONE)`
+- `Spironolactone 25Mg Tab 100S (Corlactone)` -> `Spironolactone 25mg Tablet 100s (CORLACTONE)`
+- `Spironolactone 25Mg Tab 100S (Hairos)` -> `Spironolactone 25mg Tablet 100s (HAIROS)`
+- `Spironolactone 25mg Tab 100s (SPIROPHIL)` -> `Spironolactone 25mg Tablet 100s (SPIROPHIL)`
+- `Spironolactone 25mg Tab 100s (SPIROTRIX)` -> `Spironolactone 25mg Tablet 100s (SPIROTRIX)`
+- `Spironolactone 50 mg Tablet 100's (SPIRODEN)` -> `Spironolactone 50 mg Tablet 100s (SPIRODEN)`
+- `Sulfur 10%  Ointment 15 g Generic-12` -> `Sulfur 10% Ointment 15 g (GENERIC-12)`
+- `Sultamicillin 750Mg Tab 50s (Tosylam)` -> `Sultamicillin 750mg Tablet 50s (TOSYLAM)`
+- `Sultamicillin 750mg Tab 50s (Unicil)` -> `Sultamicillin 750mg Tablet 50s (UNICIL)`
+- `Sultamicillin 750Mg Tab Ultrasyn (Lloyd) 50S` -> `Sultamicillin 750mg Tablet Ultrasyn 50s (LLOYD)`
+- `Tamoxifen 20Mg Tab Tamimex 30S (Eon)` -> `Tamoxifen 20mg Tablet Tamimex 30s (EON)`
+- `Tamsulosin 200 mcg Tablet 100's SULTAM` -> `Tamsulosin 200 mcg Tablet 100s (SULTAM)`
+- `Tamsulosin 400 mcg Tablet 100's TAMSUSAPH` -> `Tamsulosin 400 mcg Tablet 100s (TAMSUSAPH)`
+- `Tamsulosin HCL 200mg Tab 100s (TAMSAPH-200)` -> `Tamsulosin HCL 200mg Tablet 100s (TAMSAPH-200)`
+- `Tamsulosin Hcl 400Mcg Cap 100S (Sultam)` -> `Tamsulosin Hcl 400mcg Capsule 100s (SULTAM)`
+- `Tamsulosin Hcl 400Mcg Cap 30S (Alfatam)` -> `Tamsulosin Hcl 400mcg Capsule 30s (ALFATAM)`
+- `Tamsulosin Hcl 400Mcg Cap 30S (Bettam)` -> `Tamsulosin Hcl 400mcg Capsule 30s (BETTAM)`
+- `Tamsulosin Hcl 400Mcg Cap 30S TAMDOME` -> `Tamsulosin Hcl 400mcg Capsule 30s (TAMDOME)`
+- `Tamsulosin Hcl 400Mcg Tab 30S (Tamysin)` -> `Tamsulosin Hcl 400mcg Tablet 30s (TAMYSIN)`
+- `Telmisartan 40 mg + HCTZ 12.5 mg Tablet 30's TELMIBET PLUS` -> `Telmisartan 40 mg + HCTZ 12.5 mg Tablet 30s (TELMIBET PLUS)`
+- `Telmisartan 40 Mg Tab 100S Micor` -> `Telmisartan 40 mg Tablet 100s (MICOR)`
+- `Telmisartan 40 Mg Tab 30s (Centurion)` -> `Telmisartan 40 mg Tablet 30s (CENTURION)`
+- `Telmisartan 40 mg Tablet 30's TELMISAPH` -> `Telmisartan 40 mg Tablet 30s (TELMISAPH)`
+- `Telmisartan 40mg + HCTZ 12.5mg Tab 100s (TELSITAN-H)` -> `Telmisartan 40mg + HCTZ 12.5mg Tablet 100s (TELSITAN-H)`
+- `Telmisartan 40mg Tab 100s (Telsitan-40)` -> `Telmisartan 40mg Tablet 100s (TELSITAN-40)`
+- `Telmisartan 40mg Tab 30s (GLOSARTAN)` -> `Telmisartan 40mg Tablet 30s (GLOSARTAN)`
+- `Telmisartan 40mg Tab 30s (TELMIBET)` -> `Telmisartan 40mg Tablet 30s (TELMIBET)`
+- `Telmisartan 40mg Tab 30s (TELMIGEN)` -> `Telmisartan 40mg Tablet 30s (TELMIGEN)`
+- `Telmisartan 80Mg Tab 100S (Telsitan-80)` -> `Telmisartan 80mg Tablet 100s (TELSITAN-80)`
+- `Telmisartan 80mg Tab 30s (Centurion/Generics)` -> `Telmisartan 80mg Tablet 30s (CENTURION/GENERICS)`
+- `Telmisartan 80mg Tab 30s (GLOSARTAN 80)` -> `Telmisartan 80mg Tablet 30s (GLOSARTAN 80)`
+- `Telmisartan 80mg Tab 30s (TELMIGEN)` -> `Telmisartan 80mg Tablet 30s (TELMIGEN)`
+- `Telmisartan 80Mg Tab 30S (Telmisaph)` -> `Telmisartan 80mg Tablet 30s (TELMISAPH)`
+- `Terbutaline 2.5mg Tablet 100's LUNGEX` -> `Terbutaline 2.5mg Tablet 100s (LUNGEX)`
+- `Tetracycline 500 mg Capsule 100's TRICOR` -> `Tetracycline 500 mg Capsule 100s (TRICOR)`
+- `Thiamazole 5mg Tab 100s (Methimax)` -> `Thiamazole 5mg Tablet 100s (METHIMAX)`
+- `Tobramycin + Dexamet 3 mg/1 mg per mL (Ophthalmic ) 5 mL TOBRASON` -> `Tobramycin + Dexamet 3 mg/1 mg per mL (Ophthalmic ) 5 ml (TOBRASON)`
+- `Tobramycin 0.3% w/v Ophthalmic Solution 5 mL  CONSAC` -> `Tobramycin 0.3% w/v Ophthalmic Solution 5 ml (CONSAC)`
+- `Tobramycin 3mg/mL (0.3% w/v) 5mL (TOBRAZIN)` -> `Tobramycin 3mg/mL (0.3% w/v) 5ml (TOBRAZIN)`
+- `Tobramycin 3mg/mL (0.3%) Opthalmic Sol'n 5mL (Neocon)` -> `Tobramycin 3mg/mL (0.3%) Opthalmic Sol'n 5ml (NEOCON)`
+- `Tobramycin 3mg/mL (0.3%) Opthalmic Sol'n 5mL (TOBRA-V)` -> `Tobramycin 3mg/mL (0.3%) Opthalmic Sol'n 5ml (TOBRA-V)`
+- `Tobramycin Opthalmic 5mL (Tobrin)` -> `Tobramycin Opthalmic 5ml (TOBRIN)`
+- `Tobramycin+Dexa Opthalmic Drops 5ml (Ramtrex)` -> `Tobramycin+Dexa Opthalmic Drops 5ml (RAMTREX)`
+- `Tramadol 50 mg Capsule 100's SAPHTRAM` -> `Tramadol 50 mg Capsule 100s (SAPHTRAM)`
+- `Tramadol 50mg Cap 100s (OPIODEX)` -> `Tramadol 50mg Capsule 100s (OPIODEX)`
+- `Tramadol 50Mg Cap 100S (Rounox)` -> `Tramadol 50mg Capsule 100s (ROUNOX)`
+- `Tramadol 50mg Cap 100s (TRALOFLAM)` -> `Tramadol 50mg Capsule 100s (TRALOFLAM)`
+- `TRAMADOL 50MG CAPSULE 100'S (APL/Generics)` -> `TRAMADOL 50mg Capsule 100s (APL/GENERICS)`
+- `Tramadol HCl 50 mg/mL (100 mg/2 mL) Ampule 1's AMBIDOL` -> `Tramadol HCl 50 mg/mL (100 mg/2 ml) Ampule 1s (AMBIDOL)`
+- `Tramadol Hydrochloride 50mg Cap 100s (AGORAM)` -> `Tramadol Hydrochloride 50mg Capsule 100s (AGORAM)`
+- `Tramadol Hydrochloride 50mg Cap 100s (Aptradol)` -> `Tramadol Hydrochloride 50mg Capsule 100s (APTRADOL)`
+- `Tranexamic 500mg Cap 100s (TRANEXSAPH)` -> `Tranexamic 500mg Capsule 100s (TRANEXSAPH)`
+- `Tranexamic 500Mg Cap 100S (Haemorex)` -> `Tranexamic 500mg Capsule 100s (HAEMOREX)`
+- `Tranexamic 500Mg Cap 100S (TRANEXT)` -> `Tranexamic 500mg Capsule 100s (TRANEXT)`
+- `Tranexamic 500mg Cap 100s (Vonwelt)` -> `Tranexamic 500mg Capsule 100s (VONWELT)`
+- `Tranexamic Acid 100 mg/mL (500 mg/5 mL)  Ampule 1's HEMOBAS` -> `Tranexamic Acid 100 mg/mL (500 mg/5 ml) Ampule 1s (HEMOBAS)`
+- `Tranexamic Acid 500 mg Capsule 100's Generic` -> `Tranexamic Acid 500 mg Capsule 100s (GENERIC)`
+- `TRANEXAMIC ACID 500mg CAPSULE 100's (HEMOSTAP)` -> `TRANEXAMIC ACID 500mg Capsule 100s (HEMOSTAP)`
+- `Trimetazidine 20Mg Dinemic (Ambica)100S` -> `Trimetazidine 20mg Dinemic 100s (AMBICA)`
+- `Trimetazidine 35 Mg Tab 30S (Triginal)` -> `Trimetazidine 35 mg Tablet 30s (TRIGINAL)`
+- `Trimetazidine 35 mg Tablet 100s TRIOXO MR` -> `Trimetazidine 35 mg Tablet 100s (TRIOXO MR)`
+- `Trimetazidine 35 mg Tablet 30's (TRIMESAPH-35)` -> `Trimetazidine 35 mg Tablet 30s (TRIMESAPH-35)`
+- `Trimetazidine 35 mg Tablet 30's (TRIOXO MR)` -> `Trimetazidine 35 mg Tablet 30s (TRIOXO MR)`
+- `Trimetazidine 35mg Tab 100s (ANGIOGEN)` -> `Trimetazidine 35mg Tablet 100s (ANGIOGEN)`
+- `Trimetazidine 35Mg Tab 100S (Dinemic-Sr)` -> `Trimetazidine 35mg Tablet 100s (DINEMIC-SR)`
+- `Trimetazidine 35mg Tab 100s (Terazidine)` -> `Trimetazidine 35mg Tablet 100s (TERAZIDINE)`
+- `Trimetazidine 35mg Tab 100s (Trimex)` -> `Trimetazidine 35mg Tablet 100s (TRIMEX)`
+- `Trimetazidine 35mg Tab 100s (Triophil)` -> `Trimetazidine 35mg Tablet 100s (TRIOPHIL)`
+- `Trimetazidine 35Mg Tab 30S (Trimebet)` -> `Trimetazidine 35mg Tablet 30s (TRIMEBET)`
+- `Trimetazidine 35mg Tab 30s (TRIOPHIL)` -> `Trimetazidine 35mg Tablet 30s (TRIOPHIL)`
+- `Trimetazidine Hcl 35Mg Tab 30s TRIMEZAR` -> `Trimetazidine Hcl 35mg Tablet 30s (TRIMEZAR)`
+- `Ursodeoxycholic Acid 250mg Cap 20s (Urdecha)` -> `Ursodeoxycholic Acid 250mg Capsule 20s (URDECHA)`
+- `Ursodeoxycholic Acid 250mg Cap 30s (ODIOL)` -> `Ursodeoxycholic Acid 250mg Capsule 30s (ODIOL)`
+- `Ursodeoxycholic Acid 250mg Cap 30s (URSOKON)` -> `Ursodeoxycholic Acid 250mg Capsule 30s (URSOKON)`
+- `Valsartan 160mg Tab 30s (Saphzar-160)` -> `Valsartan 160mg Tablet 30s (SAPHZAR-160)`
+- `Valsartan 160Mg Tab 30S (Torval)` -> `Valsartan 160mg Tablet 30s (TORVAL)`
+- `Valsartan 160mg Tab 30s (Valstan-160)` -> `Valsartan 160mg Tablet 30s (VALSTAN-160)`
+- `Valsartan 80mg Tab 30s (SAPHZAR)` -> `Valsartan 80mg Tablet 30s (SAPHZAR)`
+- `Valsartan 80Mg Tab Torval(Torrent)30S` -> `Valsartan 80mg Tablet Torval 30s (TORRENT)`
+- `Vit B Cmplx300Mg-100Mg Cap 100S (Amcovit-B Forte)` -> `Vit B Cmplx300mg-100mg Capsule 100s (AMCOVIT-B FORTE)`
+- `Vit B Comp + Iron + Buclizine 60mL (APPECZIN PLUS)` -> `Vit B Comp + Iron + Buclizine 60ml (APPECZIN PLUS)`
+- `Vit B Complex 100 mg /5mg / 50mg/ 100mcg Cap 100's GENAVON B` -> `Vit B Complex 100 mg /5mg / 50mg/ 100mcg Capsule 100s (GENAVON B)`
+- `Vit B Complex 300mg/100mg/100mcg Cap 100's NERVESAPH FORTE` -> `Vit B Complex 300mg/100mg/100mcg Capsule 100s (NERVESAPH FORTE)`
+- `Vit B Complex 300mg/100mg/100mcg Cap 100's VITAPLEX B` -> `Vit B Complex 300mg/100mg/100mcg Capsule 100s (VITAPLEX B)`
+- `Vit B Complex+Iron+ Buclizine 120ml (Appeczin Plus)` -> `Vit B Complex+Iron+ Buclizine 120ml (APPECZIN PLUS)`
+- `Vit B1+B6+B12 100Mg-5Mg-50McgTab100S(Neuronerv)` -> `Vit B1+B6+B12 100mg-5mg-50McgTab100s (NEURONERV)`
+- `VIT B1+B6+B12+VIT E 300MG/100MG/1MG/100MG 32's (APL/Generics)` -> `VIT B1+B6+B12+VIT E 300mg/100mg/1mg/100mg 32s (APL/GENERICS)`
+- `Vitamin B1+B6+B12 (250mg/250mg/500mcg) Tab 100S (Eurasia)` -> `Vitamin B1+B6+B12 (250mg/250mg/500mcg) Tablet 100s (EURASIA)`
+- `Multivitamins + Iron Syrup 120 mL IRONMAX` -> `Multivitamins + Iron Syrup 120 ml (IRONMAX)`
+- `Multivitamins + Iron Syrup 60 mL IRONMAX` -> `Multivitamins + Iron Syrup 60 ml (IRONMAX)`
+- `VITAMINS B1 + B6 + B12 (like supraneuron) 250 mg/ 250 mg/ 500 mcg CAPSULE 100's (APL/Generics)` -> `VITAMINS B1 + B6 + B12 (like supraneuron) 250 mg/ 250 mg/ 500 mcg Capsule 100s (APL/GENERICS)`
+- `VITAMINS B1 + B6 + B12 + IRON + BUCLIZINE HCl 10 mg/ 5 mg/10 mcg/ 50
+mg/ 5 mg/ 5 mL SYRUP 120mL (APL/Generics)` -> `VITAMINS B1 + B6 + B12 + IRON + BUCLIZINE HCl 10 mg/ 5 mg/10 mcg/ 50 mg/ 5 mg/ 5 ml Syrup 120ml (APL/GENERICS)`
+- `VITAMINS B1 + B6 + B12 + IRON + BUCLIZINE HCl 10 mg/ 5 mg/10 mcg/ 50
+mg/ 5 mg/ 5 mL SYRUP 60mL (APL/Generics)` -> `VITAMINS B1 + B6 + B12 + IRON + BUCLIZINE HCl 10 mg/ 5 mg/10 mcg/ 50 mg/ 5 mg/ 5 ml Syrup 60ml (APL/GENERICS)`
+- `VITAMINS B1+B6+B12 100mg/5mg/50mcg TABLET 100's (RAPID-100)` -> `VITAMINS B1+B6+B12 100mg/5mg/50mcg Tablet 100s (RAPID-100)`
+- `VITAMINS B1+B6+B12 150mg/150mg/200mcg 100's (APL/Generics)` -> `VITAMINS B1+B6+B12 150mg/150mg/200mcg 100s (APL/GENERICS)`
+- `VITAMINS B1+B6+B12 250mg/250mg/1mg capsule 32's (BICOM 1000)` -> `VITAMINS B1+B6+B12 250mg/250mg/1mg Capsule 32s (BICOM 1000)`
+- `VITAMINS B1+B6+B12 300mg/100mg/100mcg capsule 100's (APL/Generics)` -> `VITAMINS B1+B6+B12 300mg/100mg/100mcg Capsule 100s (APL/GENERICS)`
+- `VitBCmplx+Iron+Lysine+Bucl Syr 120Ml (Iroplus)` -> `VitBCmplx+Iron+Lysine+Bucl Syrup 120ml (IROPLUS)`
+- `VitBCmplx+Iron+Lysine+Bucl Syr 250mL (IROPLUS)` -> `VitBCmplx+Iron+Lysine+Bucl Syrup 250ml (IROPLUS)`
+- `ZINC GLUCONATE 30MG TABLET 100's (AZNC)` -> `ZINC GLUCONATE 30mg Tablet 100s (AZNC)`
+- `Zinc Sulfate 10 mg Drops 15 mL ZINLUM` -> `Zinc Sulfate 10 mg Drops 15 ml (ZINLUM)`
+- `Zinc Sulfate 2.5 mg/mL Ophthalmic Drops 10 mL EQUISINE Relief` -> `Zinc Sulfate 2.5 mg/mL Ophthalmic Drops 10 ml (EQUISINE RELIEF)`
+- `Zinc Sulfate 20Mg Syr 60Ml (Zinlum)` -> `Zinc Sulfate 20mg Syrup 60ml (ZINLUM)`
+- `Zinc Sulfate 27*5Mg Drops 15Ml (Enerzinc)` -> `Zinc Sulfate 27*5mg Drops 15ml (ENERZINC)`
+- `Zinc Sulfate 55 mg  Syrup 60 mL ZINCBOS` -> `Zinc Sulfate 55 mg Syrup 60 ml (ZINCBOS)`
+- `Zinc Sulfate Syr 60mL (Immunosaph-55)` -> `Zinc Sulfate Syrup 60ml (IMMUNOSAPH-55)`
+- `Zinc Sulfate Syr 60Ml Enerzinc (Square)` -> `Zinc Sulfate Syrup 60ml Enerzinc (SQUARE)`
+- `Zinc Sulfate Syrup 60ml (ZincBos)` -> `Zinc Sulfate Syrup 60ml (ZINCBOS)`
+- `Pregabalin 75mg Caps 100s (NEURORITE)` -> `Pregabalin 75mg Capsule 100s (NEURORITE)`
+- `Isosorbide 30 mg Tablet 100's (ISOLYTE)` -> `Isosorbide 30 mg Tablet 100s (ISOLYTE)`
+- `Clotrimazole 10 mg/g  (1% w/w) Cream 15 g (Destrimole)` -> `Clotrimazole 10 mg/g (1% w/w) Cream 15 g (DESTRIMOLE)`
+- `Sodium Ascorbate 500mg Capsule MARLUM-C 100s` -> `Sodium Ascorbate 500mg Capsule 100s (MARLUM-C)`
+- `Cefixime 200mg Capsule 10's (FLAMIFIX 200)` -> `Cefixime 200mg Capsule 10s (FLAMIFIX 200)`
+- `Butamirate Citrate 50mg Tab 100S (Rimecod Forte)` -> `Butamirate Citrate 50mg Tablet 100s (RIMECOD FORTE)`
+- `Cloxacillin 500 mg Capsule 100's Generics` -> `Cloxacillin 500 mg Capsule 100s (GENERICS)`
+- `Levothyroxine 50 mcg Tablet 100's THYROFIX` -> `Levothyroxine 50 mcg Tablet 100s (THYROFIX)`
+- `Silymarin 125mg Cap 30s (Y MARIN)` -> `Silymarin 125mg Capsule 30s (Y MARIN)`
+- `Esomeprazole 40mg Tab 10s (NOVAPRAZ)` -> `Esomeprazole 40mg Tablet 10s (NOVAPRAZ)`
+- `Colchicine 500 mcg Tablet 100's (CUREL)` -> `Colchicine 500 mcg Tablet 100s (CUREL)`
+- `Clopidogrel 75 mg Tablet 100's ANTICLOP` -> `Clopidogrel 75 mg Tablet 100s (ANTICLOP)`
+- `Potassium Citrate 1,080 mg (10 mEq) Tablet 30's  K-CITRIZ` -> `Potassium Citrate 1,080 mg (10 mEq) Tablet 30s (K-CITRIZ)`
+- `Bacillius Clausii 5mL 10s (BACILLUX)` -> `Bacillius Clausii 5ml 10s (BACILLUX)`
+- `Atorvastatin 10mg Tab 100s (ATORMED)` -> `Atorvastatin 10mg Tablet 100s (ATORMED)`
+- `Trimetazidine 35mg Tab 100s (TRIMELIFE)` -> `Trimetazidine 35mg Tablet 100s (TRIMELIFE)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream  15g (NOVAZOL)` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (NOVAZOL)`
+- `Trimetazidine 35 mg Tablet 30's (WESTAR)` -> `Trimetazidine 35 mg Tablet 30s (WESTAR)`
+- `Ambroxol 30Mg Tab 100S (AMBROLYTE)` -> `Ambroxol 30mg Tablet 100s (AMBROLYTE)`
+- `Levofloxacin 500 mg Tablet 30's (XOVELL)` -> `Levofloxacin 500 mg Tablet 30s (XOVELL)`
+- `Montelukast 10mg Tab 100s (GENTAKAST)` -> `Montelukast 10mg Tablet 100s (GENTAKAST)`
+- `Silver Sulfadiazine 10 mg/g (1% w/w) Cream 20 g SILDIAZ` -> `Silver Sulfadiazine 10 mg/g (1% w/w) Cream 20 g (SILDIAZ)`
+- `Ascorbic Acid 500 mg Tablet 100's REGICEE` -> `Ascorbic Acid 500 mg Tablet 100s (REGICEE)`
+- `Atorvastatin 20mg Tab 100s (LIPIBLAC)` -> `Atorvastatin 20mg Tablet 100s (LIPIBLAC)`
+- `Febuxostat 80mg Tab 30s (FEBUXEB)` -> `Febuxostat 80mg Tablet 30s (FEBUXEB)`
+- `Montelukast 5mg Tab 100s (GENTAKAST-5)` -> `Montelukast 5mg Tablet 100s (GENTAKAST-5)`
+- `Nebivolol Hydrochloride 5mg Tab 30s (VILOLO-5)` -> `Nebivolol Hydrochloride 5mg Tablet 30s (VILOLO-5)`
+- `Olanzapine 10mg Tab 30s (OLZITEC)` -> `Olanzapine 10mg Tablet 30s (OLZITEC)`
+- `Betahistine 16 mg Tablet 100's BETAZAR` -> `Betahistine 16 mg Tablet 100s (BETAZAR)`
+- `Azithromycin 500mg Tab 30s (AZIMED)` -> `Azithromycin 500mg Tablet 30s (AZIMED)`
+- `Febuxostat 40mg Tab 30s (FEBUXEB 40)` -> `Febuxostat 40mg Tablet 30s (FEBUXEB 40)`
+- `Multivitamins Syr 120mL DR. MEYER'S` -> `Multivitamins Syrup 120ml (DR. MEYER'S)`
+- `Cilostazol 50 mg Tablet 100's (OSTAZ)` -> `Cilostazol 50 mg Tablet 100s (OSTAZ)`
+- `Omega-3 Fish Oil 1000mg Cap 30s NUTRAHART` -> `Omega-3 Fish Oil 1000mg Capsule 30s (NUTRAHART)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream 15g RETACONAZOL` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (RETACONAZOL)`
+- `Carvedilol 6.25mg Tab 28s CARDOZ` -> `Carvedilol 6.25mg Tablet 28s (CARDOZ)`
+- `Gliclazide 80 mg Tablet 30's GLYCOC` -> `Gliclazide 80 mg Tablet 30s (GLYCOC)`
+- `Mefenamic 50Mg Susp 60Ml (ACIFLAM)` -> `Mefenamic 50mg Suspension 60ml (ACIFLAM)`
+- `Acetylcysteine 600mg Tab 20s (FLUSOOTHIN)` -> `Acetylcysteine 600mg Tablet 20s (FLUSOOTHIN)`
+- `Amlodipine 5mg Tab 100s (GENVASC-5)` -> `Amlodipine 5mg Tablet 100s (GENVASC-5)`
+- `Montelukast + Levocetirizine 10mg/5mg Tab 30s (MIXCEMONT)` -> `Montelukast + Levocetirizine 10mg/5mg Tablet 30s (MIXCEMONT)`
+- `Betahistine 24mg Tablet 100's (BETAZAR)` -> `Betahistine 24mg Tablet 100s (BETAZAR)`
+- `Domperidone 10mg Tab 100s (ABDOPEN)` -> `Domperidone 10mg Tablet 100s (ABDOPEN)`
+- `Levofloxacin 500 mg Tablet 100's (LENOXA)` -> `Levofloxacin 500 mg Tablet 100s (LENOXA)`
+- `Atorvastatin 20mg Tab 100s (MEDIVAZT-20)` -> `Atorvastatin 20mg Tablet 100s (MEDIVAZT-20)`
+- `Aluminum Magnesium 200mg/100mg Tab 100s (MELMAG)` -> `Aluminum Magnesium 200mg/100mg Tablet 100s (MELMAG)`
+- `Pantoprazole 40mg Tab 30s (PANTOSAPH-40)` -> `Pantoprazole 40mg Tablet 30s (PANTOSAPH-40)`
+- `Co-amoxiclav 625mg Tab 14s (XYVEEMOX)` -> `Co-amoxiclav 625mg Tablet 14s (XYVEEMOX)`
+- `Cefuroxime 125mg/5ml Susp (Generic/Tolmann)` -> `Cefuroxime 125mg/5ml Suspension (GENERIC/TOLMANN)`
+- `Cefuroxime 250mg/5mL Susp 50mL (CEFUFIRST)` -> `Cefuroxime 250mg/5ml Suspension 50ml (CEFUFIRST)`
+- `Esomeprazole 40Mg Tab 14S (ULCEN-40)` -> `Esomeprazole 40mg Tablet 14s (ULCEN-40)`
+- `Telmisartan 80Mg Tab 30S (TELMIBET)` -> `Telmisartan 80mg Tablet 30s (TELMIBET)`
+- `Aspirin 80 mg Tablet 100's (AZPER)` -> `Aspirin 80 mg Tablet 100s (AZPER)`
+- `Losartan 100 mg Tablet 100's PROLOSTAN` -> `Losartan 100 mg Tablet 100s (PROLOSTAN)`
+- `Cetirizine 2*5Mg-Ml Drops 15Ml (DIALIX)` -> `Cetirizine 2*5mg-Ml Drops 15ml (DIALIX)`
+- `Nystatin 100,000 IU/mL Oral Susp 30mL (NOVASTATIN)` -> `Nystatin 100,000 IU/mL Oral Suspension 30ml (NOVASTATIN)`
+- `Azithromycin 500Mg Cap 3S (GENZITH)` -> `Azithromycin 500mg Capsule 3s (GENZITH)`
+- `Ibuprofen 400mg Tab 100s (RHEUXAN)` -> `Ibuprofen 400mg Tablet 100s (RHEUXAN)`
+- `Lactulose 3.33 g Syrup 120 mL (LUZLAX)` -> `Lactulose 3.33 g Syrup 120 ml (LUZLAX)`
+- `Esomeprazole 40Mg Tablet 10s (PREXIA)` -> `Esomeprazole 40mg Tablet 10s (PREXIA)`
+- `Paracetamol + Ibuprofen 325 mg/200 mg Tablet 100's (IBUTAMED)` -> `Paracetamol + Ibuprofen 325 mg/200 mg Tablet 100s (IBUTAMED)`
+- `Omeprazole 20Mg Cap 100S (ZOSEC)` -> `Omeprazole 20mg Capsule 100s (ZOSEC)`
+- `Paracetamol 500Mg Tab 100S (FLUGARD)` -> `Paracetamol 500mg Tablet 100s (FLUGARD)`
+- `Celecoxib 200mg Cap 100s (CELENOVA)` -> `Celecoxib 200mg Capsule 100s (CELENOVA)`
+- `Febuxostat 40 mg Tablet 30's (FEBULIV 40)` -> `Febuxostat 40 mg Tablet 30s (FEBULIV 40)`
+- `Febuxostat 80 mg Tablet 30's (FEBUXIPRO)` -> `Febuxostat 80 mg Tablet 30s (FEBUXIPRO)`
+- `Citicoline 500mg Tab 30s (CITISAPH-500)` -> `Citicoline 500mg Tablet 30s (CITISAPH-500)`
+- `Mefenamic 50Mg Susp 60Ml (REMEF)` -> `Mefenamic 50mg Suspension 60ml (REMEF)`
+- `Trimetazidine 35Mg Tab 100S (GOTAZIDINE)` -> `Trimetazidine 35mg Tablet 100s (GOTAZIDINE)`
+- `Colchicine 500 mcg Tablet 100's (GOUCITAB)` -> `Colchicine 500 mcg Tablet 100s (GOUCITAB)`
+- `Enalapril Maleate 5 mg Tablet 100's (ENAPRIMED-5)` -> `Enalapril Maleate 5 mg Tablet 100s (ENAPRIMED-5)`
+- `Ampalaya 500mg Cap 30s BETTERMAX` -> `Ampalaya 500mg Capsule 30s (BETTERMAX)`
+- `Paracetamol 250 mg Suspension 60 mL (REGIMOL)` -> `Paracetamol 250 mg Suspension 60 ml (REGIMOL)`
+- `Pioglitazone 30 mg Tablet 28's (PIOGLINOVA)` -> `Pioglitazone 30 mg Tablet 28s (PIOGLINOVA)`
+- `Cefixime 400Mg Capsule 100S (SITIFIX)` -> `Cefixime 400mg Capsule 100s (SITIFIX)`
+- `Clindamycin 300mg Cap 100s (CLINDANOVA)` -> `Clindamycin 300mg Capsule 100s (CLINDANOVA)`
+- `Atorvastatin 20Mg Tab 100S (AVARIX-20)` -> `Atorvastatin 20mg Tablet 100s (AVARIX-20)`
+- `Febuxostat 40 mg Tablet 30's NEOGOUT` -> `Febuxostat 40 mg Tablet 30s (NEOGOUT)`
+- `Betahistine 8mg Tablet 100's BETAZAR` -> `Betahistine 8mg Tablet 100s (BETAZAR)`
+- `Salbutamol 2Mg Syr 60Ml VENTOMAX` -> `Salbutamol 2mg Syrup 60ml (VENTOMAX)`
+- `Sitagliptin 50mg Tab 30s (SITAGLI)` -> `Sitagliptin 50mg Tablet 30s (SITAGLI)`
+- `Doxofylline 400Mg Tab 100S (DOXOFYR)` -> `Doxofylline 400mg Tablet 100s (DOXOFYR)`
+- `Fluconazole 150Mg Cap 1s GLONAZ-150` -> `Fluconazole 150mg Capsule 1s (GLONAZ-150)`
+- `Telmisartan 80mg Tab 30s (BEISARTAN)` -> `Telmisartan 80mg Tablet 30s (BEISARTAN)`
+- `Trimetazidine 35mg Tab 100s (TRIMENOVA)` -> `Trimetazidine 35mg Tablet 100s (TRIMENOVA)`
+- `Oral Rehydration Salt-75 (Orange Flavor) 200mL 30's APLINC` -> `Oral Rehydration Salt-75 (Orange Flavor) 200ml 30s (APLINC)`
+- `Sildenafil Citrate 50 mg Tablet 4's (KADAGRA)` -> `Sildenafil Citrate 50 mg Tablet 4s (KADAGRA)`
+- `Cetirizine 2.5mg/mL Drops 15Ml (REGIZINE)` -> `Cetirizine 2.5mg/mL Drops 15ml (REGIZINE)`
+- `Losartan 50Mg + Amlodipine 5Mg Tab 100S (LOPINOV)` -> `Losartan 50mg + Amlodipine 5mg Tablet 100s (LOPINOV)`
+- `Polymyxin B + Neomycin + Dexa Drops 5 mL (Ohthalmic) ICON` -> `Polymyxin B + Neomycin + Dexa Drops 5 ml ((OHTHALMIC) ICON)`
+- `Pregabalin 75 mg Capsule 30's PREGAMED-75` -> `Pregabalin 75 mg Capsule 30s (PREGAMED-75)`
+- `Amlodipine 10mg Tab 100s (VASCONOV)` -> `Amlodipine 10mg Tablet 100s (VASCONOV)`
+- `Telmisartan 40mg Tab 30s BEISARTAN` -> `Telmisartan 40mg Tablet 30s (BEISARTAN)`
+- `Febuxostat 40 mg Tablet 30's  (FEBUSAN)` -> `Febuxostat 40 mg Tablet 30s (FEBUSAN)`
+- `Omeprazole 40 mg Capsule 100's (OMEPHIL-40)` -> `Omeprazole 40 mg Capsule 100s (OMEPHIL-40)`
+- `Ferrous Sulfate 325mg Tab 100s (HEMOVIT)` -> `Ferrous Sulfate 325mg Tablet 100s (HEMOVIT)`
+- `Gliclazide 30Mg Tab 100S (GLIFRED MR)` -> `Gliclazide 30mg Tablet 100s (GLIFRED MR)`
+- `Methyldopa 250 mg Tablet 100's (MYDOPA)` -> `Methyldopa 250 mg Tablet 100s (MYDOPA)`
+- `Cefixime 20mg/mL Oral Drops 10mL (TOCEF)` -> `Cefixime 20mg/mL Oral Drops 10ml (TOCEF)`
+- `Ambroxol HCl 6mg/ml Drops 15mL (MDBROX)` -> `Ambroxol HCl 6mg/ml Drops 15ml (MDBROX)`
+- `Sodium Ascorbate + Zinc Syrup 120 mL (ENHANZEE)` -> `Sodium Ascorbate + Zinc Syrup 120 ml (ENHANZEE)`
+- `Multivitamins Syr 120Ml (MULTILEM)` -> `Multivitamins Syrup 120ml (MULTILEM)`
+- `Azithromycin 500Mg Tab 3S (AZITRITEC)` -> `Azithromycin 500mg Tablet 3s (AZITRITEC)`
+- `Citicoline 500Mg Tab 30S (CITIGEN)` -> `Citicoline 500mg Tablet 30s (CITIGEN)`
+- `Carbocisteine 50 mg Drops 15 mL MARLUXYN` -> `Carbocisteine 50 mg Drops 15 ml (MARLUXYN)`
+- `Colchicine 500 mcg Tablet 100's (COCILONE-0.5)` -> `Colchicine 500 mcg Tablet 100s (COCILONE-0.5)`
+- `Cetirizine 2.5mg Drops 15mL (CETRIKID)` -> `Cetirizine 2.5mg Drops 15ml (CETRIKID)`
+- `Cefuroxime Sodium 750 mg Vial 1s (WITH DILUENT) CARESEF` -> `Cefuroxime Sodium 750 mg Vial 1s ((WITH DILUENT) CARESEF)`
+- `Domperidone 10mg Tab 100s (EMETIL)` -> `Domperidone 10mg Tablet 100s (EMETIL)`
+- `Sitagliptin 50mg Tab 30s (SI2NORM)` -> `Sitagliptin 50mg Tablet 30s (SI2NORM)`
+- `Felodipine 5 mg Tablet 30's (FELDONA-5 ER)` -> `Felodipine 5 mg Tablet 30s (FELDONA-5 ER)`
+- `Hyoscine 10mg Tab 100S (KHRIZCOPAN)` -> `Hyoscine 10mg Tablet 100s (KHRIZCOPAN)`
+- `Celecoxib 200mg Capsule 100's CELEKOP` -> `Celecoxib 200mg Capsule 100s (CELEKOP)`
+- `Losartan 100 mg Tablet 100's AZARTAN` -> `Losartan 100 mg Tablet 100s (AZARTAN)`
+- `Febuxostat 40Mg Tab 30S (FEBUXORIN)` -> `Febuxostat 40mg Tablet 30s (FEBUXORIN)`
+- `Paracetamol 500mg Tab 100s (MYREMOL)` -> `Paracetamol 500mg Tablet 100s (MYREMOL)`
+- `Cetirizine 5Mg Syr 60Ml REGIZINE` -> `Cetirizine 5mg Syrup 60ml (REGIZINE)`
+- `Amlodipine 5Mg Tab 100S (VASCONOV)` -> `Amlodipine 5mg Tablet 100s (VASCONOV)`
+- `Carbamazepine 200 mg Tablet 100's  (CARBASTAL)` -> `Carbamazepine 200 mg Tablet 100s (CARBASTAL)`
+- `Ranitidine 150mg Tab 100s (ZENTEK)` -> `Ranitidine 150mg Tablet 100s (ZENTEK)`
+- `Dapagliflozin 10mg Tab 30s (DAPA-Z)` -> `Dapagliflozin 10mg Tablet 30s (DAPA-Z)`
+- `Esomeprazole 40Mg Cap 30s (AMBICA)` -> `Esomeprazole 40mg Capsule 30s (AMBICA)`
+- `Acetylcysteine 200 mg Powder for Oral Sol'n 10s MUCONOV` -> `Acetylcysteine 200 mg Powder for Oral Sol'n 10s (MUCONOV)`
+- `Rosuvastatin 20mg Tab 100s STRATOR` -> `Rosuvastatin 20mg Tablet 100s (STRATOR)`
+- `Metoprolol 50 mg Tablet 100's (METOCARD)` -> `Metoprolol 50 mg Tablet 100s (METOCARD)`
+- `Pregabalin 75 mg Capsule 10's CONVULT` -> `Pregabalin 75 mg Capsule 10s (CONVULT)`
+- `Nebivolol HCl  2.5 mg Tablet 30s NEBI-FLOW` -> `Nebivolol HCl 2.5 mg Tablet 30s (NEBI-FLOW)`
+- `Clarithromycin 250 mg Suspension 60mL (CLARIMAC DS)` -> `Clarithromycin 250 mg Suspension 60ml (CLARIMAC DS)`
+- `Clarithromycin 250 mg Susp 60mL CLARITONE` -> `Clarithromycin 250 mg Suspension 60ml (CLARITONE)`
+- `Rosuvastatin 10Mg Tab 100S (ROSUBOLIC)` -> `Rosuvastatin 10mg Tablet 100s (ROSUBOLIC)`
+- `Cefixime 100mg Susp 60mL (SITIFIX)` -> `Cefixime 100mg Suspension 60ml (SITIFIX)`
+- `Co-Amoxiclav 625 mg Tablet 14s BACTICOX 625` -> `Co-Amoxiclav 625 mg Tablet 14s (BACTICOX 625)`
+- `Cefixime 400Mg Tab 100S (CEFTHIX)` -> `Cefixime 400mg Tablet 100s (CEFTHIX)`
+- `Febuxostat 40mg Tab 100s (FEBUMAX)` -> `Febuxostat 40mg Tablet 100s (FEBUMAX)`
+- `Nebivolol 5Mg Tab 30S (NEBIVOL)` -> `Nebivolol 5mg Tablet 30s (NEBIVOL)`
+- `Tranexamic 500mg Tab 30s (HEMAGLOB)` -> `Tranexamic 500mg Tablet 30s (HEMAGLOB)`
+- `Simvastatin 10Mg Tab 100S (DIASTATIN-10)` -> `Simvastatin 10mg Tablet 100s (DIASTATIN-10)`
+- `Prednisone 20 mg Tablet 100's (PREDMED 20)` -> `Prednisone 20 mg Tablet 100s (PREDMED 20)`
+- `Atenolol 100mg Tab 100s (ATENOVA-100)` -> `Atenolol 100mg Tablet 100s (ATENOVA-100)`
+- `Pioglitazone 15 mg Tablet 28's (PIOGLINOVA)` -> `Pioglitazone 15 mg Tablet 28s (PIOGLINOVA)`
+- `Carvedilol 25 mg Tablet 28's CARDOZ` -> `Carvedilol 25 mg Tablet 28s (CARDOZ)`
+- `Cetirizine 10Mg Tab 100S (ARIZT)` -> `Cetirizine 10mg Tablet 100s (ARIZT)`
+- `Cilostazol 100 mg Tablet 100's (OSTAZ-100)` -> `Cilostazol 100 mg Tablet 100s (OSTAZ-100)`
+- `Co-Amoxiclav 1g Tab 10s (COMXICLA)` -> `Co-Amoxiclav 1g Tablet 10s (COMXICLA)`
+- `Gliclazide 60 mg Tablet 100's (Mediclazide)` -> `Gliclazide 60 mg Tablet 100s (MEDICLAZIDE)`
+- `Dextrometorphan 10mg Tab 100s (MUCOLEM)` -> `Dextrometorphan 10mg Tablet 100s (MUCOLEM)`
+- `Clotrimazole Cream 20g ACCEMAZOLE` -> `Clotrimazole Cream 20g (ACCEMAZOLE)`
+- `Losartan+Amlodipine 50mg/5mg Tab 100s ANGIOFLO PLUS` -> `Losartan+Amlodipine 50mg/5mg Tablet 100s (ANGIOFLO PLUS)`
+- `Acetylcysteine 600 mg Powder 10's NOVACETYL 600` -> `Acetylcysteine 600 mg Powder 10s (NOVACETYL 600)`
+- `Monte + Levo 10mg/5mg Tab 30s LUCAZINE` -> `Monte + Levo 10mg/5mg Tablet 30s (LUCAZINE)`
+- `Phenylpropanolamine 12*5Mg Syr SINUDRIN` -> `Phenylpropanolamine 12mg/5mg Syrup (SINUDRIN)`
+- `Azithromycin 200 Mg Susp 15 Ml (ZYTACT)` -> `Azithromycin 200 mg Suspension 15 ml (ZYTACT)`
+- `Levofloxacin 750Mg Tab 20S LEVOPRIME` -> `Levofloxacin 750mg Tablet 20s (LEVOPRIME)`
+- `Chloramphenicol 0.5% Eye Drops 10 mL Generic` -> `Chloramphenicol 0.5% Eye Drops 10 ml (GENERIC)`
+- `Hypromellose 3mg/mL Opthal Sol'n 10mL (ILUBE)` -> `Hypromellose 3mg/mL Opthal Sol'n 10ml (ILUBE)`
+- `Glimepiride 2 mg Tablet 100's (GLIMEGEN)` -> `Glimepiride 2 mg Tablet 100s (GLIMEGEN)`
+- `Calcium Carbonate 600mg + Vit D3 400 IU Tab 100s RAPCENATE PLUS D` -> `Calcium Carbonate 600mg + Vit D3 400 IU Tablet 100s (RAPCENATE PLUS D)`
+- `Methylprednisolone 16mg Tab 100S (METPREZ 16)` -> `Methylprednisolone 16mg Tablet 100s (METPREZ 16)`
+- `Risperidone 2mg Tab 30s (RISPERNOV 2)` -> `Risperidone 2mg Tablet 30s (RISPERNOV 2)`
+- `Sitagliptin+Metformin 50mg/1g Tab 30s (Ambica)` -> `Sitagliptin+Metformin 50mg/1g Tablet 30s (AMBICA)`
+- `Mefenamic Acid 500Mg Cap 100S (MEFIDIN)` -> `Mefenamic Acid 500mg Capsule 100s (MEFIDIN)`
+- `Hyoscine -N-Butylbromide 10mg Tab 100s (HYOSCHEM)` -> `Hyoscine -N-Butylbromide 10mg Tablet 100s (HYOSCHEM)`
+- `Febuxostat 40mg Tab 30s (FEBSTAT 40)` -> `Febuxostat 40mg Tablet 30s (FEBSTAT 40)`
+- `Telmisartan 80mg Tab 30s (NOVAZART)` -> `Telmisartan 80mg Tablet 30s (NOVAZART)`
+- `Olanzapine 10mg Tab 100s (LANZAPH)` -> `Olanzapine 10mg Tablet 100s (LANZAPH)`
+- `Ursodeoxycholic Acid 300mg Tab 30s (URSODYNOVA)` -> `Ursodeoxycholic Acid 300mg Tablet 30s (URSODYNOVA)`
+- `Atorvastatin 10Mg Tab 100S (TROVIPRI-10)` -> `Atorvastatin 10mg Tablet 100s (TROVIPRI-10)`
+- `Azithromycin 200mg/5mL Susp 15mL (ORABAC)` -> `Azithromycin 200mg/5ml Suspension 15ml (ORABAC)`
+- `Losartan 50Mg Tabs 100S (LOSAN 50)` -> `Losartan 50mg Tablet 100s (LOSAN 50)`
+- `Bisacodyl 5 mg Tablet 100's COPHILAX` -> `Bisacodyl 5 mg Tablet 100s (COPHILAX)`
+- `Telmisartan 40mg Tab 30s (TELCOR 40)` -> `Telmisartan 40mg Tablet 30s (TELCOR 40)`
+- `Telmisartan 40mg Tab 30s (TELWIN 40)` -> `Telmisartan 40mg Tablet 30s (TELWIN 40)`
+- `Metformin 850mg Tab 100s (AARTMIN)` -> `Metformin 850mg Tablet 100s (AARTMIN)`
+- `Ursodeoxycholic Acid 250mg Cap 30s (DIURCID)` -> `Ursodeoxycholic Acid 250mg Capsule 30s (DIURCID)`
+- `Evening Primrose Oil 1000 mg Capsule 30's (ROSEANNE)` -> `Evening Primrose Oil 1000 mg Capsule 30s (ROSEANNE)`
+- `Dapagliflozin 10mg Tab 30s (DAPAFAST)` -> `Dapagliflozin 10mg Tablet 30s (DAPAFAST)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream  15g (GONAZOL)` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (GONAZOL)`
+- `Enalapril Maleate 5 mg Tablet 100's (ENAPRINOVA)` -> `Enalapril Maleate 5 mg Tablet 100s (ENAPRINOVA)`
+- `Pregabalin 75Mg Cap 98S (PREGAMAX 75)` -> `Pregabalin 75mg Capsule 98s (PREGAMAX 75)`
+- `Mefenamic Acid 500mg Tablet 100S (GOPAIN)` -> `Mefenamic Acid 500mg Tablet 100s (GOPAIN)`
+- `Paracetamol + Orphenadrine 650-50Mg Tab 100S (ORFAGEN)` -> `Paracetamol + Orphenadrine 650-50mg Tablet 100s (ORFAGEN)`
+- `Carbocisteine 250mg Syr 60mL (RIZCOF)` -> `Carbocisteine 250mg Syrup 60ml (RIZCOF)`
+- `Telmisartan 40mg Tab 30s (ORATEL-40)` -> `Telmisartan 40mg Tablet 30s (ORATEL-40)`
+- `Lactulose 3.35 g Syrup 120 mL  (LACTOBURG)` -> `Lactulose 3.35 g Syrup 120 ml (LACTOBURG)`
+- `Lactulose 3.35 g Syrup 60mL  (LACTOKHRIZ)` -> `Lactulose 3.35 g Syrup 60ml (LACTOKHRIZ)`
+- `Omeprazole 20 mg Capsule 100's PEPTOBLOC` -> `Omeprazole 20 mg Capsule 100s (PEPTOBLOC)`
+- `Betahistine 24mg Tab 100s (VERTSET)` -> `Betahistine 24mg Tablet 100s (VERTSET)`
+- `Rosuvastatin 20mg Tab 100s (Rosuvin-20)` -> `Rosuvastatin 20mg Tablet 100s (ROSUVIN-20)`
+- `Salmeterol+Fluticasone 25mcg/250mcg Inhaler (Salflusol MDI)` -> `Salmeterol+Fluticasone 25mcg/250mcg Inhaler (SALFLUSOL MDI)`
+- `Co-Amoxiclav 457 mg Suspension 70 mL (ORAPEN-S)` -> `Co-Amoxiclav 457 mg Suspension 70 ml (ORAPEN-S)`
+- `Ambroxol 15mg/5ml Syr 60Ml (MDBROX)` -> `Ambroxol 15mg/5ml Syrup 60ml (MDBROX)`
+- `Pantoprazole 40mg Tab 100s (NOVAZOL-40)` -> `Pantoprazole 40mg Tablet 100s (NOVAZOL-40)`
+- `Losartan+Amlodipine 50mg/5mg Tab 100s LOSAMED PLUS` -> `Losartan+Amlodipine 50mg/5mg Tablet 100s (LOSAMED PLUS)`
+- `Evening Primrose Oil 1000 mg Capsule 30's (PRINOVA)` -> `Evening Primrose Oil 1000 mg Capsule 30s (PRINOVA)`
+- `Clindamycin 300mg (150mg/ml) 2ml Ampule 1's KLINDARONE` -> `Clindamycin 300mg (150mg/ml) 2ml Ampule 1s (KLINDARONE)`
+- `Ambroxol HCl 6mg/ml Drops 15mL (MUCORIZ)` -> `Ambroxol HCl 6mg/ml Drops 15ml (MUCORIZ)`
+- `Fenofibrate 200mg Cap 50s (FENFIFIXX)` -> `Fenofibrate 200mg Capsule 50s (FENFIFIXX)`
+- `Atorvastatin 80Mg Tab 100S (NEOSTATIN)` -> `Atorvastatin 80mg Tablet 100s (NEOSTATIN)`
+- `Azithromycin 500Mg Tab 3S (AZITHRONOVA)` -> `Azithromycin 500mg Tablet 3s (AZITHRONOVA)`
+- `Febuxostat 40mg Tab 30s (FEBUNORM)` -> `Febuxostat 40mg Tablet 30s (FEBUNORM)`
+- `Co-Amoxiclav 250mg/62.5mg Susp 60mL (GENBAC CV)` -> `Co-Amoxiclav 250mg/62.5mg Suspension 60ml (GENBAC CV)`
+- `Carbocisteine 125mg Syr 60mL (RIZCOF)` -> `Carbocisteine 125mg Syrup 60ml (RIZCOF)`
+- `ATORVASTATIN 40mg Tab 100s (NEOSTATIN)` -> `ATORVASTATIN 40mg Tablet 100s (NEOSTATIN)`
+- `Erythromycin 500 mg Tablet 100's (PERTUSTAT 500)` -> `Erythromycin 500 mg Tablet 100s (PERTUSTAT 500)`
+- `Carvedilol 12.5mg Tab 50s (CARVEMAX)` -> `Carvedilol 12.5mg Tablet 50s (CARVEMAX)`
+- `Cefixime 200mg Tab 90s (3 x 30s) SUPRAPHIL` -> `Cefixime 200mg Tablet 90s (3 x 30s () SUPRAPHIL)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream  15g (DERKAZOLE)` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (DERKAZOLE)`
+- `Cotrimoxazole 400mg/80mg Susp (REGIZOLE)` -> `Cotrimoxazole 400mg/80mg Suspension (REGIZOLE)`
+- `Celecoxib 200 mg Capsule 100's (NOVAXIB)` -> `Celecoxib 200 mg Capsule 100s (NOVAXIB)`
+- `Paracetamol + Orphenadrine 650-50Mg Tab 100S (CEVERTRON)` -> `Paracetamol + Orphenadrine 650-50mg Tablet 100s (CEVERTRON)`
+- `Ciprofloxacin 500 mg Tablet 100's (XAFLOQUIN)` -> `Ciprofloxacin 500 mg Tablet 100s (XAFLOQUIN)`
+- `Vit B Comp 500mg/250mg/1mg Tab 100S (MYREVIT-B FORTE)` -> `Vit B Comp 500mg/250mg/1mg Tablet 100s (MYREVIT-B FORTE)`
+- `Tobramycin 3mg/mL (0.3%) Opthalmic Sol'n 5mL (TOBRASAPH)` -> `Tobramycin 3mg/mL (0.3%) Opthalmic Sol'n 5ml (TOBRASAPH)`
+- `Dicycloverine 10mg Syr 60ml (SPASMOVERIN)` -> `Dicycloverine 10mg Syrup 60ml (SPASMOVERIN)`
+- `Trimetazidine Hcl 35Mg Tab 90s (3 x 30s) (Trimezar)` -> `Trimetazidine Hcl 35mg Tablet 90s (3 x 30s) (TRIMEZAR)`
+- `Lactulose 3.35 g Syrup 120 mL PEPTOBURG` -> `Lactulose 3.35 g Syrup 120 ml (PEPTOBURG)`
+- `Potassium Chloride 750 mg Tablet 30's ELECTAB` -> `Potassium Chloride 750 mg Tablet 30s (ELECTAB)`
+- `Acetylcysteine 600mg Powder 10s MUCONOV` -> `Acetylcysteine 600mg Powder 10s (MUCONOV)`
+- `Ciprofloxacin 500 mg Tablet 100's (NOVAPROX)` -> `Ciprofloxacin 500 mg Tablet 100s (NOVAPROX)`
+- `Esomeprazole 40mg Tab 98s (ESOMAP-40)` -> `Esomeprazole 40mg Tablet 98s (ESOMAP-40)`
+- `Nebivolol HCl  5 mg Tablet 30s NEBI-FLOW` -> `Nebivolol HCl 5 mg Tablet 30s (NEBI-FLOW)`
+- `Montelukast 4mg Tab 100s (GENTAKAST-4)` -> `Montelukast 4mg Tablet 100s (GENTAKAST-4)`
+- `Amlodipine 5mg Tab 100s (HEMLOB)` -> `Amlodipine 5mg Tablet 100s (HEMLOB)`
+- `Ambroxol 15 mg Syrup 60 mL (MUCORIZ)` -> `Ambroxol 15 mg Syrup 60 ml (MUCORIZ)`
+- `Carvedilol 12.5mg Tab 30s (MEDCARV)` -> `Carvedilol 12.5mg Tablet 30s (MEDCARV)`
+- `Cefaclor 125 mg Suspension 60 mL (CEFAR)` -> `Cefaclor 125 mg Suspension 60 ml (CEFAR)`
+- `Ciprofloxacin 500 mg Tablet 100's (NOVAFLOCIN)` -> `Ciprofloxacin 500 mg Tablet 100s (NOVAFLOCIN)`
+- `Enalapril Maleate 10Mg Tab 100S (ENAPRINOVA-10)` -> `Enalapril Maleate 10mg Tablet 100s (ENAPRINOVA-10)`
+- `Etoricoxib 90mg Tab 30s (ETORINOV-90)` -> `Etoricoxib 90mg Tablet 30s (ETORINOV-90)`
+- `Febuxostat 80 mg Tablet 30's (FEBULIV-80)` -> `Febuxostat 80 mg Tablet 30s (FEBULIV-80)`
+- `Gliclazide 60 mg Tablet 100's (GLICLAZIN)` -> `Gliclazide 60 mg Tablet 100s (GLICLAZIN)`
+- `Irbesartan 150mg Tab 28s (IRBEXCEL)` -> `Irbesartan 150mg Tablet 28s (IRBEXCEL)`
+- `Tranexamic 500Mg Cap 100S (HEMOXIN)` -> `Tranexamic 500mg Capsule 100s (HEMOXIN)`
+- `Butamirate Citrate 50mg Tab 100S (BUTACOD FORTE)` -> `Butamirate Citrate 50mg Tablet 100s (BUTACOD FORTE)`
+- `Calcium Carbonate 600mg + Vit D3 400 IU Tab 100s` -> `Calcium Carbonate 600mg + Vit D3 400IU Tablet 100s`
+- `Amlodipine 10mg Tab 100s (HEMLOB)` -> `Amlodipine 10mg Tablet 100s (HEMLOB)`
+- `Rosuvastatin 10mg Tab 100s (X-PLENDED)` -> `Rosuvastatin 10mg Tablet 100s (X-PLENDED)`
+- `Ambroxol 30 mg Syrup 60 mL MUCORIZ` -> `Ambroxol 30 mg Syrup 60 ml (MUCORIZ)`
+- `Levocetirizine 5mg Tab 100s (LCZIN)` -> `Levocetirizine 5mg Tablet 100s (LCZIN)`
+- `Metoprolol 100mg Tab 100s (METEROL)` -> `Metoprolol 100mg Tablet 100s (METEROL)`
+- `Montelukast 10mg Tab 100s (LUCAZT)` -> `Montelukast 10mg Tablet 100s (LUCAZT)`
+- `Cotrimoxazole 200mg/40mg Susp REGIZOLE` -> `Cotrimoxazole 200mg/40mg Suspension (REGIZOLE)`
+- `Rosuvastatin 20mg Tab 100s (ARVAST 20)` -> `Rosuvastatin 20mg Tablet 100s (ARVAST 20)`
+- `Ascorbic Acid 100mg/mL Drops 15mL (VITCEE)` -> `Ascorbic Acid 100mg/mL Drops 15ml (VITCEE)`
+- `Rosuvastatin 20mg Tab 100s (ROSUU)` -> `Rosuvastatin 20mg Tablet 100s (ROSUU)`
+- `Clopidogrel 75mg Tab 100s (CLOGRIX)` -> `Clopidogrel 75mg Tablet 100s (CLOGRIX)`
+- `Rosuvastatin 10mg Tab 100s (ROSUU)` -> `Rosuvastatin 10mg Tablet 100s (ROSUU)`
+- `Irbesartan 300mg Tab 100s (IRTAZEP)` -> `Irbesartan 300mg Tablet 100s (IRTAZEP)`
+- `Ketoconazole Cream 5g PORAZOLE` -> `Ketoconazole Cream 5g (PORAZOLE)`
+- `Cetirizine 10Mg Drops Myrex (Cetirex)` -> `Cetirizine 10mg Drops Myrex (CETIREX)`
+- `Ciprofloxacin 500mg Tab 100s (Ziprox)` -> `Ciprofloxacin 500mg Tablet 100s (ZIPROX)`
+- `Gliclazide 60 mg Tablet 100's (GLICLYDE)` -> `Gliclazide 60 mg Tablet 100s (GLICLYDE)`
+- `Ferrous Sulfate 75Mg Drops 15 Ml Ferolem` -> `Ferrous Sulfate 75mg Drops 15 ml (FEROLEM)`
+- `Dapagliflozin 10mg Tab 28s (DAPAGLIF 10)` -> `Dapagliflozin 10mg Tablet 28s (DAPAGLIF 10)`
+- `Levofloxacin 500mg Tab 30s (REMEDIA)` -> `Levofloxacin 500mg Tablet 30s (REMEDIA)`
+- `Losartan 100 mg Tablet 100's (NOVASARTAN)` -> `Losartan 100 mg Tablet 100s (NOVASARTAN)`
+- `Amlodipine 5mg Tab 100s DIADIPINE` -> `Amlodipine 5mg Tablet 100s (DIADIPINE)`
+- `Amlodipine 10mg Tab 100s (DIADIPINE)` -> `Amlodipine 10mg Tablet 100s (DIADIPINE)`
+- `Lidocaine 20 mg/mL (2%) Vial 50 mL (LIDO)` -> `Lidocaine 20 mg/mL (2%) Vial 50 ml (LIDO)`
+- `Lactulose 3.33 g Syrup 60mL (KHRIZMED)` -> `Lactulose 3.33 g Syrup 60ml (KHRIZMED)`
+- `Ursodeoxycholic Acid 250mg Tab 30s (URSODYNOVA)` -> `Ursodeoxycholic Acid 250mg Tablet 30s (URSODYNOVA)`
+- `Paracetamol + Orphenadrine 650-50Mg Tab 30S (PARADIN FORTE)` -> `Paracetamol + Orphenadrine 650-50mg Tablet 30s (PARADIN FORTE)`
+- `Multivitamins Syr 120Ml (REGIVIT)` -> `Multivitamins Syrup 120ml (REGIVIT)`
+- `Atorvastatin 10Mg Tab 100s (GOSTIN-10)` -> `Atorvastatin 10mg Tablet 100s (GOSTIN-10)`
+- `Metoprolol 50 mg Tablet 100's (MYPROL)` -> `Metoprolol 50 mg Tablet 100s (MYPROL)`
+- `Multivitamins Syr 60mL (RIZVIT)` -> `Multivitamins Syrup 60ml (RIZVIT)`
+- `Cefixime 200Mg Cap 100s Generics` -> `Cefixime 200mg Capsule 100s (GENERICS)`
+- `Evening Primrose Oil 1000 mg Capsule 30's (REGIROSE)` -> `Evening Primrose Oil 1000 mg Capsule 30s (REGIROSE)`
+- `Loratadine 10 mg Tablet 100's LORATO` -> `Loratadine 10 mg Tablet 100s (LORATO)`
+- `Rosuvastatin 10mg Tab 100s (Rosukon)` -> `Rosuvastatin 10mg Tablet 100s (ROSUKON)`
+- `Atorvastatin 10 mg Tablet 100's (REGI2R)` -> `Atorvastatin 10 mg Tablet 100s (REGI2R)`
+- `Multivitamins Syrup 120 mL MULTICHEM` -> `Multivitamins Syrup 120 ml (MULTICHEM)`
+- `Pantoprazole 40mg Tab 50s (MAC-PANTO)` -> `Pantoprazole 40mg Tablet 50s (MAC-PANTO)`
+- `Monte + Levo 10mg/5mg Tab 30s (MONTRALVO)` -> `Monte + Levo 10mg/5mg Tablet 30s (MONTRALVO)`
+- `Pregabalin 75 mg Capsule 30's NERVILOR` -> `Pregabalin 75 mg Capsule 30s (NERVILOR)`
+- `Tranexamic 500Mg Cap 100S (TRANOVA)` -> `Tranexamic 500mg Capsule 100s (TRANOVA)`
+- `Azithromycin 500 mg Tablet 3's (AMSOMAX)` -> `Azithromycin 500 mg Tablet 3s (AMSOMAX)`
+- `Pantoprazole 40mg Tab 30s (PANZEL)` -> `Pantoprazole 40mg Tablet 30s (PANZEL)`
+- `Propranolol 40 Mg Tab 100S (PRANOLOL)` -> `Propranolol 40 mg Tablet 100s (PRANOLOL)`
+- `Atorvastatin 20Mg Tab 100S (REGI2R)` -> `Atorvastatin 20mg Tablet 100s (REGI2R)`
+- `Etoricoxib 60mg Tab 30s (ETIROX-60)` -> `Etoricoxib 60mg Tablet 30s (ETIROX-60)`
+- `Azithromycin 200 Mg Susp 15 Ml (AZITHROBET)` -> `Azithromycin 200 mg Suspension 15 ml (AZITHROBET)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (ALMORANZ)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (ALMORANZ)`
+- `Nystatin 30Ml Susp (ORASTAT)` -> `Nystatin 30ml Suspension (ORASTAT)`
+- `Telmisartan 40mg Tab 30s (TELMITIME)` -> `Telmisartan 40mg Tablet 30s (TELMITIME)`
+- `Valsartan 80mg Tab 100s (VERSARTAN)` -> `Valsartan 80mg Tablet 100s (VERSARTAN)`
+- `Melatonin 3Mg Tab 30S (NOCTUAID)` -> `Melatonin 3mg Tablet 30s (NOCTUAID)`
+- `Amoxicillin 500 mg Capsule 100's (AMMOCIL)` -> `Amoxicillin 500 mg Capsule 100s (AMMOCIL)`
+- `Clarithromycin 500mg Tab 50s (RAHMACIN)` -> `Clarithromycin 500mg Tablet 50s (RAHMACIN)`
+- `ATORVASTATIN 40 mg Tab 100s (REGI2R)` -> `ATORVASTATIN 40 mg Tablet 100s (REGI2R)`
+- `Carvedilol 25 mg Tablet 84's (3 x 28s) CARDOZ` -> `Carvedilol 25 mg Tablet 84s (3 x 28s () CARDOZ)`
+- `Ketoconazole 20 mg/g  (2% w/w) Cream  15g (FUNGAZONE)` -> `Ketoconazole 20 mg/g (2% w/w) Cream 15g (FUNGAZONE)`
+- `Cefuroxime Axetil 500mg  Tab 10s (MEDUXIME)` -> `Cefuroxime Axetil 500mg Tablet 10s (MEDUXIME)`
+- `Metronidazole 500 mg Tablet 100's METRAM` -> `Metronidazole 500 mg Tablet 100s (METRAM)`
+- `Ambroxol 15 mg Syrup 60 mL MUCOLAX` -> `Ambroxol 15 mg Syrup 60 ml (MUCOLAX)`
+- `Allopurinol 100 mg Tablet 100's (APRUNOL)` -> `Allopurinol 100 mg Tablet 100s (APRUNOL)`
+- `Potassium Chloride 600 mg Tablet 100's  SAPHCLOPO` -> `Potassium Chloride 600 mg Tablet 100s (SAPHCLOPO)`
+- `Rosuvastatin 40Mg Tab 100S (Roschlotin)` -> `Rosuvastatin 40mg Tablet 100s (ROSCHLOTIN)`
+- `Paracetamol 500Mg Tab 100S (ARGESIC)` -> `Paracetamol 500mg Tablet 100s (ARGESIC)`
+- `Sevelamer Carbonate 800mg Tab 30s (KHRIZVELA)` -> `Sevelamer Carbonate 800mg Tablet 30s (KHRIZVELA)`
+- `Pregabalin 75 mg Capsule 30's (PREGASAFE)` -> `Pregabalin 75 mg Capsule 30s (PREGASAFE)`
+- `Finasteride 5Mg Tab 30s (PROSTAKON)` -> `Finasteride 5mg Tablet 30s (PROSTAKON)`
+- `Celecoxib 200mg Cap 30s (SELEX)` -> `Celecoxib 200mg Capsule 30s (SELEX)`
+- `Gliclazide 60 mg Tablet 100's (GLICLAX)` -> `Gliclazide 60 mg Tablet 100s (GLICLAX)`
+- `Prednisone 20 mg Tablet 100's (PREDZHONG-20)` -> `Prednisone 20 mg Tablet 100s (PREDZHONG-20)`
+- `Paracetamol 125mg/5mL Susp 60ml (REGIMOL)` -> `Paracetamol 125mg/5ml Suspension 60ml (REGIMOL)`
+- `Diphenhydramine 25Mg Cap 100S (Histamox)` -> `Diphenhydramine 25mg Capsule 100s (HISTAMOX)`
+- `Cefixime 400Mg Cap 30S (3 x 10s)(Saphixime-400)` -> `Cefixime 400mg Capsule 30s (3 x 10s) (SAPHIXIME-400)`
+- `Lactulose 3.35 g Syrup 120 mL (DOLAC)` -> `Lactulose 3.35 g Syrup 120 ml (DOLAC)`
+- `Pantoprazole 40mg Tab 100s (GASTROZEN)` -> `Pantoprazole 40mg Tablet 100s (GASTROZEN)`
+- `Amlodipine  5 mg + Losartan  50 mg Tablet 30's LOSSAR XQ` -> `Amlodipine 5 mg + Losartan 50 mg Tablet 30s (LOSSAR XQ)`
+- `Calcium Carbonate 500 mg Tablet 100's CALBORNATE` -> `Calcium Carbonate 500 mg Tablet 100s (CALBORNATE)`
+- `Levocetirizine 5 mg Tablet 100's (IZTAID)` -> `Levocetirizine 5 mg Tablet 100s (IZTAID)`
+- `Polymyxin B + Neomycin + Dexa Drops 5 mL POLYMIX-D` -> `Polymyxin B + Neomycin + Dexa Drops 5 ml (POLYMIX-D)`
+- `Doxofylline 400 mg Tablet 30's DOXOFAR` -> `Doxofylline 400 mg Tablet 30s (DOXOFAR)`
+- `Gentamicin 0*3%-5Ml Eye-Ear (GENTAMEED)` -> `Gentamicin 0*3%-5ml Eye-Ear (GENTAMEED)`
+- `Hypromellose Ophthalmic Drops 10Ml (ACCEPROS)` -> `Hypromellose Ophthalmic Drops 10ml (ACCEPROS)`
+- `Paracetamol 500Mg Tab 100S (KHRIZGESIC)` -> `Paracetamol 500mg Tablet 100s (KHRIZGESIC)`
+- `Pioglitazone 30 Mg Tab 100S (PIOMED-30)` -> `Pioglitazone 30 mg Tablet 100s (PIOMED-30)`
+- `Co-Amoxiclav 1g Tab 14s Generics` -> `Co-Amoxiclav 1g Tablet 14s (GENERICS)`
+- `Prednisone 10 mg Tablet 100's PREDOQUE` -> `Prednisone 10 mg Tablet 100s (PREDOQUE)`
+- `Sultamicillin 750Mg Tab 30s (SAPHTAMICIL)` -> `Sultamicillin 750mg Tablet 30s (SAPHTAMICIL)`
+- `Co-Amoxiclav 457mg Susp 100mL (CLAVOXSEA 457)` -> `Co-Amoxiclav 457mg Suspension 100ml (CLAVOXSEA 457)`
+- `Co-Amoxiclav 250mg/62.5mg Susp 70mL (CLAVOMOXYL)` -> `Co-Amoxiclav 250mg/62.5mg Suspension 70ml (CLAVOMOXYL)`
+- `Losartan 50Mg Tab 100S (ANTAN)` -> `Losartan 50mg Tablet 100s (ANTAN)`
+- `Carvedilol 12.5mg Tab 50s (CARVEDIL)` -> `Carvedilol 12.5mg Tablet 50s (CARVEDIL)`
+- `Co-amoxiclav 625mg Tab 14s (CLAVOMOXYL 625)` -> `Co-amoxiclav 625mg Tablet 14s (CLAVOMOXYL 625)`
+- `Ursodeoxycholic Acid 300mg Tab 100s (BILESEPH-GE300)` -> `Ursodeoxycholic Acid 300mg Tablet 100s (BILESEPH-GE300)`
+- `Amoxicillin 500 mg Capsule 100's (SAPHMOX)` -> `Amoxicillin 500 mg Capsule 100s (SAPHMOX)`
+- `Cetirizine 10Mg Tab 100S (CTZ)` -> `Cetirizine 10mg Tablet 100s (CTZ)`
+- `Clotrimazole 10 mg/g  (1% w/w) Cream 5g (CLIOZOLE)` -> `Clotrimazole 10 mg/g (1% w/w) Cream 5g (CLIOZOLE)`
+- `Sitagliptin+Metformin 50mg/1g Tab 30s (SITAG-M)` -> `Sitagliptin+Metformin 50mg/1g Tablet 30s (SITAG-M)`
+- `Valsartan + Amlodipine 80mg/5mg Tab 30s (HYBIP)` -> `Valsartan + Amlodipine 80mg/5mg Tablet 30s (HYBIP)`
+- `Trimetazidine 35mg Tab 100s (TRIMEXOR)` -> `Trimetazidine 35mg Tablet 100s (TRIMEXOR)`
+- `Losartan 100mg TABLET 100s (LOSARBET)` -> `Losartan 100mg Tablet 100s (LOSARBET)`
+- `Potassium Chloride 600 mg Tablet 30's K-AID` -> `Potassium Chloride 600 mg Tablet 30s (K-AID)`
+- `Rosuvastatin 10 Mg Tab 100S (ROZZU)` -> `Rosuvastatin 10 mg Tablet 100s (ROZZU)`
+- `Atorvastatin 20Mg Tab 100S (ATORVEX-20)` -> `Atorvastatin 20mg Tablet 100s (ATORVEX-20)`
+- `Bisoprolol 5mg Tab 30s (Ambica)` -> `Bisoprolol 5mg Tablet 30s (AMBICA)`
+- `Atorvastatin 10Mg Tab 100s (MEDIVAZT-10)` -> `Atorvastatin 10mg Tablet 100s (MEDIVAZT-10)`
+- `Betahistine 8mg Tablet 100's (CENVERT-8)` -> `Betahistine 8mg Tablet 100s (CENVERT-8)`
+- `Levocetirizine 5mg Tab 100s LEVOCEC` -> `Levocetirizine 5mg Tablet 100s (LEVOCEC)`
+- `Atorvastatin 10Mg Tab 100s (LEMTOR-10)` -> `Atorvastatin 10mg Tablet 100s (LEMTOR-10)`
+- `Lagundi 300mg Syr 120mL (ASFLEM)` -> `Lagundi 300mg Syrup 120ml (ASFLEM)`
+- `Butamirate 7.5Mg Syr 120Ml (BIUCOF)` -> `Butamirate 7.5mg Syrup 120ml (BIUCOF)`
+- `Losartan 50Mg Tabs 100S (REGIZAR)` -> `Losartan 50mg Tablet 100s (REGIZAR)`
+- `Omeprazole 20 mg Capsule 24s PRAXOL` -> `Omeprazole 20 mg Capsule 24s (PRAXOL)`
+- `Salbutamol 2.5 mg/2.5 mL Nebule 30's (VENTACT)` -> `Salbutamol 2.5 mg/2.5 ml Nebule 30s (VENTACT)`
+- `Levetiracetam 500mg Tab 100s (LEVETREX)` -> `Levetiracetam 500mg Tablet 100s (LEVETREX)`
+- `Cefixime 200mg Tab 30s (ZEFIMED)` -> `Cefixime 200mg Tablet 30s (ZEFIMED)`
+- `Sitagliptin+Metformin 50mg/1g Tab 30s SITAGLI PLUS` -> `Sitagliptin+Metformin 50mg/1g Tablet 30s (SITAGLI PLUS)`
+- `Glimepiride 2 mg Tablet 100's GLYPRIDE` -> `Glimepiride 2 mg Tablet 100s (GLYPRIDE)`
+- `Atorvastatin 20Mg Tab 100S (ASTAT)` -> `Atorvastatin 20mg Tablet 100s (ASTAT)`
+- `Levocetirizine 2.5mg Syr 60ml (ZYVOSAL)` -> `Levocetirizine 2.5mg Syrup 60ml (ZYVOSAL)`
+- `Ambroxol 75 mg Capsule 100's (LYCOBROX)` -> `Ambroxol 75 mg Capsule 100s (LYCOBROX)`
+- `Amoxicillin 500 mg Capsule 100's (SPAMOX)` -> `Amoxicillin 500 mg Capsule 100s (SPAMOX)`
+- `Nebivolol HCl  5 mg Tablet 30s NEBIVOMED` -> `Nebivolol HCl 5 mg Tablet 30s (NEBIVOMED)`
+- `Cefuroxime 500Mg Tab 10S (REGIXIME)` -> `Cefuroxime 500mg Tablet 10s (REGIXIME)`
+- `Clopidogrel 75mg Tab 100s (PLAVICAR)` -> `Clopidogrel 75mg Tablet 100s (PLAVICAR)`
+- `Cilostazol 50 mg Tablet 30's (THROMBORAN)` -> `Cilostazol 50 mg Tablet 30s (THROMBORAN)`
+- `Sitagliptin 50mg Tab 30s (DIAWELL)` -> `Sitagliptin 50mg Tablet 30s (DIAWELL)`
+- `Ursodeoxycholic Acid 300mg Cap 30s (UDIOL)` -> `Ursodeoxycholic Acid 300mg Capsule 30s (UDIOL)`
+- `Cloxacillin 500 mg Capsule 100's (CLOXASAPH)` -> `Cloxacillin 500 mg Capsule 100s (CLOXASAPH)`
+- `Diosmin+Hesperidin 450mg/50mg Tab 30s (VASOCON)` -> `Diosmin+Hesperidin 450mg/50mg Tablet 30s (VASOCON)`
+- `Febuxostat 80 mg Tablet 30's (SAPHURGIC-GE80)` -> `Febuxostat 80 mg Tablet 30s (SAPHURGIC-GE80)`
+- `Rosuvastatin 10mg Tab 100s (ROSUCOA)` -> `Rosuvastatin 10mg Tablet 100s (ROSUCOA)`
+- `Trimetazidine 35mg Tab 100s (TRIMESAPH-35)` -> `Trimetazidine 35mg Tablet 100s (TRIMESAPH-35)`
+- `Multivitamins Syrup 60 mL MULTICHEM` -> `Multivitamins Syrup 60 ml (MULTICHEM)`
+- `Piroxicam 20 mg Capsule 100's (NEPERLAN)` -> `Piroxicam 20 mg Capsule 100s (NEPERLAN)`
+- `Dapagliflozin 10mg Tab 30s (DIABEZIN)` -> `Dapagliflozin 10mg Tablet 30s (DIABEZIN)`
+- `Budesonide 250 mcg/mL (500 mcg/2 mL) Nebule 30's (DINOSED)` -> `Budesonide 250 mcg/mL (500 mcg/2 ml) Nebule 30s (DINOSED)`
+- `Acetylcysteine 600mg Tab 20s (ACYTEINE)` -> `Acetylcysteine 600mg Tablet 20s (ACYTEINE)`
+- `Ascorbic Acid 500Mg Tab 100S (VONWELT)` -> `Ascorbic Acid 500mg Tablet 100s (VONWELT)`
+- `Risperidone 2mg Tab 30s (AEPERIDONE)` -> `Risperidone 2mg Tablet 30s (AEPERIDONE)`
+- `Betahistine 8mg Tablet 30's (VERTINOV 8)` -> `Betahistine 8mg Tablet 30s (VERTINOV 8)`
+- `Domperidone 1 mg Suspension 100 mL MERDIFON` -> `Domperidone 1 mg Suspension 100 ml (MERDIFON)`
+- `Rosuvastatin 20mg Tab 100s (BETTER ROZZ 20)` -> `Rosuvastatin 20mg Tablet 100s (BETTER ROZZ 20)`
+- `Sildenafil Citrate 50 mg Tablet 30's (REGISIL-50)` -> `Sildenafil Citrate 50 mg Tablet 30s (REGISIL-50)`
+- `Losartan 100 mg Tablet 100's REGIZAR-100` -> `Losartan 100 mg Tablet 100s (REGIZAR-100)`
+- `Betahistine 16 mg Tablet 100's VERCAY` -> `Betahistine 16 mg Tablet 100s (VERCAY)`
+- `Sultamicillin 750Mg Tab 10s (TALMICILLIN)` -> `Sultamicillin 750mg Tablet 10s (TALMICILLIN)`
+- `Nystatin 30mL Susp (ORASEA)` -> `Nystatin 30ml Suspension (ORASEA)`
+- `Gabapentin 300mg Tab 30s (PENTINOVA-300)` -> `Gabapentin 300mg Tablet 30s (PENTINOVA-300)`
+- `Rosuvastatin 40mg Tab 100s (ROSUCOA-40)` -> `Rosuvastatin 40mg Tablet 100s (ROSUCOA-40)`
+- `Allopurinol 100 mg Tablet 100's (ALUPRIN)` -> `Allopurinol 100 mg Tablet 100s (ALUPRIN)`
+- `Methyldopa 250 mg Tablet 100's (TILDOPA)` -> `Methyldopa 250 mg Tablet 100s (TILDOPA)`
+- `Metformin 500 mg Tablet 100's (PHILMET 500)` -> `Metformin 500 mg Tablet 100s (PHILMET 500)`
+- `Cefixime 200 Mg Tab 90S (3 x 30s) (SANIX)` -> `Cefixime 200 mg Tablet 90s (3 x 30s) (SANIX)`
+- `Ascorbic + Zinc 60Ml (CORZINC 60)` -> `Ascorbic + Zinc 60ml (CORZINC 60)`
+- `Dapagliflozin 10mg Tab 30s (DAPATRIS-10)` -> `Dapagliflozin 10mg Tablet 30s (DAPATRIS-10)`
+- `Telmisartan 40mg + HCTZ 12.5mg Tab 100s (TELMISPEED-PLUS)` -> `Telmisartan 40mg + HCTZ 12.5mg Tablet 100s (TELMISPEED-PLUS)`
+- `Telmisartan 80mg Tab 30s (RHANDESARTAN)` -> `Telmisartan 80mg Tablet 30s (RHANDESARTAN)`
+- `Alum Mag 225/200mg/5ml Susp 120ml (GASTROCIN)` -> `Alum Mag 225/200mg/5ml Suspension 120ml (GASTROCIN)`
+- `Rosuvastatin 20mg Tab 90s (ROXCEL)` -> `Rosuvastatin 20mg Tablet 90s (ROXCEL)`
+- `Cefaclor 50 mg Drops 10 mL (CEFAR)` -> `Cefaclor 50 mg Drops 10 ml (CEFAR)`
+- `Cefixime 400Mg Tab 30S (ZEFIMED-400)` -> `Cefixime 400mg Tablet 30s (ZEFIMED-400)`
+- `Ciprofloxacin 500 mg Tablet 100's (SIPRA)` -> `Ciprofloxacin 500 mg Tablet 100s (SIPRA)`
+- `Clarithromycin 500 mg Tablet 30's (CLARITHROMED)` -> `Clarithromycin 500 mg Tablet 30s (CLARITHROMED)`
+- `Dapagliflozin 10mg Tab 30s (DAPAFLOXA)` -> `Dapagliflozin 10mg Tablet 30s (DAPAFLOXA)`
+- `Finasteride 5Mg Tab 30s (FINAR)` -> `Finasteride 5mg Tablet 30s (FINAR)`
+- `Losartan Potassium + HCTZ 50mg/12.5mg Tab 100s (AZARTAN PLUS)` -> `Losartan Potassium + HCTZ 50mg/12.5mg Tablet 100s (AZARTAN PLUS)`
+- `Potassium Citrate 1080mg Tab 100s (POSIRAV)` -> `Potassium Citrate 1080mg Tablet 100s (POSIRAV)`
