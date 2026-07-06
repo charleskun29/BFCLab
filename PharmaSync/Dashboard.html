@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PharmaSync — Dashboard</title>
+
+  <!-- Font Awesome 6 — icon placeholders -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <!-- Dashboard styles -->
+  <link rel="stylesheet" href="assets/css/dashboard.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       APP SHELL
+       ============================================================ -->
+  <div class="app">
+
+    <!-- SIDEBAR — pill navbar, vertically centered on left -->
+    <aside class="sidebar" aria-label="Main navigation">
+
+      <!-- Profile avatar + label (top of navbar) -->
+      <div class="sidebar__profile">
+        <div class="sidebar__avatar" title="Profile">
+          <i class="fa-solid fa-user"></i>
+        </div>
+        <span class="sidebar__profile-label">Profile</span>
+      </div>
+
+      <nav class="sidebar__nav">
+        <a href="#" class="sidebar__link sidebar__link--active" data-page="dashboard">
+          <i class="fa-solid fa-th-large"></i>
+          <span>Dashboard</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="allocation">
+          <i class="fa-solid fa-sitemap"></i>
+          <span>Allocation</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="reports">
+          <i class="fa-solid fa-chart-line"></i>
+          <span>Reports</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="inventory">
+          <i class="fa-solid fa-shopping-bag"></i>
+          <span>Inventory</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="settings">
+          <i class="fa-solid fa-cog"></i>
+          <span>Settings</span>
+        </a>
+      </nav>
+
+      <button class="sidebar__logout" id="logout-btn" aria-label="Logout">
+        <i class="fa-solid fa-right-from-bracket"></i>
+      </button>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- HEADER — logo placeholder, date, export -->
+      <header class="header">
+        <div class="header__brand">
+          <div class="header__logo">
+            <!-- Logo placeholder — replace with actual image later -->
+            <span class="logo-placeholder" title="Logo placeholder">
+              <i class="fa-solid fa-handshake"></i>
+            </span>
+            PharmaSync
+          </div>
+          <h1 class="header__greeting">Hi, Ramtet!</h1>
+          <p class="header__subtitle">Manage your items, products and tasks.</p>
+        </div>
+
+        <div class="header__date" id="current-date">June 29, 2026</div>
+
+        <div class="header__actions">
+          <button class="btn-export" id="export-btn">
+            <i class="fa-solid fa-download"></i>
+            Export
+          </button>
+        </div>
+      </header>
+
+      <!-- DASHBOARD WIDGETS — 2×2 grid -->
+      <section class="dashboard" aria-label="Dashboard widgets">
+
+        <!-- WIDGET 1: Stock Overview (blue + pink panels) -->
+        <article class="stock-overview">
+          <div class="card__header">
+            <div>
+              <h2 class="card__title">Stock Overview</h2>
+              <p class="card__subtitle">Track your items and orders</p>
+            </div>
+            <button class="card__arrow" aria-label="Go to stock overview">
+              <i class="fa-solid fa-arrow-right"></i>
+            </button>
+          </div>
+
+          <div class="stock-overview__inner">
+            <!-- Blue panel: total items -->
+            <div class="stock-card stock-card--blue">
+              <div class="stock-card__label">
+                <i class="fa-solid fa-box"></i>
+                Total items: 1,200
+              </div>
+              <div class="pill-list">
+                <span class="pill">Ampalaya 500mg Cap 30s</span>
+                <span class="pill">Metformin</span>
+                <span class="pill">Acetylcysteine 200 mg Powder for...</span>
+              </div>
+              <a href="#" class="link-view-all">View all</a>
+            </div>
+
+            <!-- Pink panel: items below limit -->
+            <div class="stock-card stock-card--pink">
+              <div class="stock-card__label">
+                <i class="fa-solid fa-chart-line"></i>
+                Items below limit: 12
+              </div>
+              <div class="pill-list">
+                <span class="pill">Ampalaya 500mg Cap 30s</span>
+                <span class="pill">Acetylcysteine 200 mg Powder for...</span>
+                <span class="pill">Metformin</span>
+              </div>
+              <a href="#" class="link-view-all">View all</a>
+            </div>
+          </div>
+        </article>
+
+        <!-- WIDGET 2: Replenishment Notice -->
+        <article class="card replenishment">
+          <div class="card__header">
+            <div>
+              <h2 class="card__title">Replenishment Notice</h2>
+              <p class="card__subtitle">Keep track of important tasks and notifications.</p>
+            </div>
+          </div>
+
+          <ul class="notice-list">
+            <li class="notice-item">
+              <span class="notice-item__icon"><i class="fa-solid fa-circle-exclamation"></i></span>
+              <span class="notice-item__text">Acetylcysteine 200 mg Powder for Oral Sol'n 10s</span>
+            </li>
+            <li class="notice-item">
+              <span class="notice-item__icon"><i class="fa-solid fa-circle-exclamation"></i></span>
+              <span class="notice-item__text">Ampalaya 500mg Cap 30s</span>
+            </li>
+            <li class="notice-item">
+              <span class="notice-item__icon"><i class="fa-solid fa-circle-exclamation"></i></span>
+              <span class="notice-item__text">Acetylcysteine 200 mg Powder for Oral Sol'n 10s</span>
+            </li>
+            <li class="notice-item">
+              <span class="notice-item__icon"><i class="fa-solid fa-circle-exclamation"></i></span>
+              <span class="notice-item__text">Ampalaya 500mg Cap 30s</span>
+            </li>
+          </ul>
+
+          <a href="#" class="link-view-all">View all</a>
+        </article>
+
+        <!-- WIDGET 3: History -->
+        <article class="history">
+          <h2 class="history__title">History</h2>
+          <table class="history-table">
+            <thead>
+              <tr>
+                <th>Date and Time</th>
+                <th>Event</th>
+                <th>Item</th>
+                <th>Detail</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><span class="history-datetime"><i class="fa-regular fa-clock"></i> June 28, 9:00</span></td>
+                <td>MRF Created</td>
+                <td>Ampalaya 500mg</td>
+                <td>Ordered 15 units</td>
+              </tr>
+              <tr>
+                <td><span class="history-datetime"><i class="fa-regular fa-clock"></i> June 27, 14:30</span></td>
+                <td>Stock Updated</td>
+                <td>Metformin</td>
+                <td>Added 50 units</td>
+              </tr>
+              <tr>
+                <td><span class="history-datetime"><i class="fa-regular fa-clock"></i> June 26, 11:15</span></td>
+                <td>Replenishment</td>
+                <td>Acetylcysteine 200mg</td>
+                <td>Below limit alert</td>
+              </tr>
+              <tr>
+                <td><span class="history-datetime"><i class="fa-regular fa-clock"></i> June 25, 8:45</span></td>
+                <td>MRF Approved</td>
+                <td>Ampalaya 500mg</td>
+                <td>Approved by admin</td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
+
+        <!-- WIDGET 4: MRF Status -->
+        <article class="card mrf-status">
+          <div class="card__header">
+            <h2 class="card__title">MRF Status</h2>
+            <span class="mrf-status__badge">
+              <i class="fa-solid fa-check"></i> In Progress
+            </span>
+          </div>
+
+          <!-- Timeline with dates aligned right -->
+          <ol class="timeline">
+            <li class="timeline__item">
+              <span class="timeline__icon"><i class="fa-solid fa-shopping-bag"></i></span>
+              <div class="timeline__body">
+                <div class="timeline__content">
+                  <h4>Ordered confirmed</h4>
+                  <p>Order Placed and Confirmed</p>
+                </div>
+                <span class="timeline__date">Nov 17, 2025</span>
+              </div>
+            </li>
+            <li class="timeline__item">
+              <span class="timeline__icon"><i class="fa-solid fa-box"></i></span>
+              <div class="timeline__body">
+                <div class="timeline__content">
+                  <h4>Shipping</h4>
+                  <p>Order Placed and Confirmed</p>
+                </div>
+                <span class="timeline__date">Nov 18, 2025</span>
+              </div>
+            </li>
+            <li class="timeline__item">
+              <span class="timeline__icon"><i class="fa-solid fa-truck"></i></span>
+              <div class="timeline__body">
+                <div class="timeline__content">
+                  <h4>In transit</h4>
+                  <p>Order Placed and Confirmed</p>
+                </div>
+                <span class="timeline__date">Nov 18, 2025</span>
+              </div>
+            </li>
+            <li class="timeline__item">
+              <span class="timeline__icon"><i class="fa-solid fa-location-dot"></i></span>
+              <div class="timeline__body">
+                <div class="timeline__content">
+                  <h4>Sent to Customer</h4>
+                  <p>Order Placed and Confirmed</p>
+                </div>
+                <span class="timeline__date">Nov 19, 2025</span>
+              </div>
+            </li>
+          </ol>
+
+          <a href="#" class="link-view-all">View all</a>
+        </article>
+
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/js/dashboard.js"></script>
+</body>
+</html>
