@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PharmaSync — Allocation</title>
+
+  <!-- Font Awesome 6 — icon placeholders -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <!-- Shared dashboard styles (sidebar, header, cards) -->
+  <link rel="stylesheet" href="assets/css/dashboard.css" />
+  <!-- Allocation-page-specific styles -->
+  <link rel="stylesheet" href="assets/css/allocation.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       APP SHELL
+       ============================================================ -->
+  <div class="app">
+
+    <!-- SIDEBAR — pill navbar, vertically centered on left -->
+    <aside class="sidebar" aria-label="Main navigation">
+
+      <!-- Profile avatar + label (top of navbar) -->
+      <div class="sidebar__profile">
+        <a href="profile.html" style="text-decoration: none; color: inherit;text-align: center;">
+        <div class="sidebar__avatar" title="Profile">
+          <img src="https://api.dicebear.com/7.x/fun-emoji/svg?seed=Ramtet" alt="Profile avatar" />
+        </div>
+        <span class="sidebar__profile-label">Profile</span>
+      </a>
+      </div>
+
+      <nav class="sidebar__nav">
+        <a href="Dashboard.html" class="sidebar__link" data-page="dashboard">
+          <i class="fa-solid fa-th-large"></i>
+          <span>Dashboard</span>
+        </a>
+        <a href="Allocation.html" class="sidebar__link sidebar__link--active" data-page="allocation">
+          <i class="fa-solid fa-sitemap"></i>
+          <span>Allocation</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="reports">
+          <i class="fa-solid fa-chart-line"></i>
+          <span>Reports</span>
+        </a>
+        <a href="Inventory.html" class="sidebar__link" data-page="inventory">
+          <i class="fa-solid fa-shopping-bag"></i>
+          <span>Inventory</span>
+        </a>
+        <a href="Settings.html" class="sidebar__link" data-page="settings">
+          <i class="fa-solid fa-cog"></i>
+          <span>Settings</span>
+        </a>
+      </nav>
+
+      <button class="sidebar__logout" id="logout-btn" aria-label="Logout">
+        <i class="fa-solid fa-right-from-bracket"></i>
+      </button>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- HEADER — logo placeholder, date, export -->
+      <header class="header header--allocation">
+        <div class="header__brand">
+          <a href="Dashboard.html" class="header__logo" aria-label="Go to Dashboard">
+            <!-- Logo placeholder — replace with actual image later -->
+            <span class="logo-placeholder" title="Logo placeholder">
+              <i class="fa-solid fa-handshake"></i>
+            </span>
+            PharmaSync
+          </a>
+        </div>
+
+        <div class="header__date" id="current-date">June 29, 2026</div>
+
+        <div class="header__actions">
+          <button class="btn-export btn-export--coral" id="export-btn">
+            Export
+          </button>
+        </div>
+      </header>
+
+      <!-- ALLOCATION TABLE -->
+      <section class="allocation-page" aria-label="Allocation">
+        <article class="card allocation-card">
+          <div class="table-scroll">
+            <table class="allocation-table">
+              <thead>
+                <tr>
+                  <th>Generics Description</th>
+                  <th>Strength</th>
+                  <th>Dosage Form</th>
+                  <th>Packing Size</th>
+                  <th>POS Desription</th>
+                  <th>Allocation</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Aluminum Magnesium 200mg-100mg Susp 120Ml</td>
+                  <td>200mg</td>
+                  <td>Tablet</td>
+                  <td>1</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      0
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Acetylcysteine 200mg Powder for Oral Sol'n 10s</td>
+                  <td>200mg</td>
+                  <td>Powder</td>
+                  <td>20</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      5
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Ambroxol 30mg tab</td>
+                  <td>200/100mg</td>
+                  <td>Tablet</td>
+                  <td>20</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      20
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Acetylcysteine 200mg Powder for Oral Sol'n 10s</td>
+                  <td>200mg</td>
+                  <td>Powder</td>
+                  <td>20</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      5
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Ambroxol 30mg tab</td>
+                  <td>200/100mg</td>
+                  <td>Tablet</td>
+                  <td>20</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      20
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Aluminum Magnesium 200mg-100mg Susp 120Ml</td>
+                  <td>200mg</td>
+                  <td>Tablet</td>
+                  <td>1</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      5
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Aluminum Magnesium 200mg-100mg Susp 120Ml</td>
+                  <td>200mg</td>
+                  <td>Tablet</td>
+                  <td>1</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      5
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Aluminum Magnesium 200mg-100mg Susp 120Ml</td>
+                  <td>200mg</td>
+                  <td>Tablet</td>
+                  <td>1</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      5
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Ambroxol 30mg tab</td>
+                  <td>200/100mg</td>
+                  <td>Tablet</td>
+                  <td>20</td>
+                  <td>
+                    <button class="btn-icon-edit" data-field="pos-description" aria-label="Edit POS description">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </td>
+                  <td>
+                    <span class="allocation-value">
+                      20
+                      <button class="btn-icon-edit" data-field="allocation" aria-label="Edit allocation">
+                        <i class="fa-solid fa-pen"></i>
+                      </button>
+                    </span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/js/dashboard.js"></script>
+  <script src="assets/js/allocation.js"></script>
+</body>
+</html>

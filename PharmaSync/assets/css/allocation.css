@@ -1,0 +1,128 @@
+/* ============================================================
+   PharmaSync Allocation page — styles
+   Extends dashboard.css (shared shell, sidebar, header, card, tokens)
+   ============================================================ */
+
+/* --- Coral export button variant (used on this page) --- */
+.btn-export--coral {
+  background: #ff7a7a;
+  box-shadow: 0 4px 12px rgba(255, 122, 122, 0.4);
+}
+
+.btn-export--coral:hover {
+  background: #f56666;
+}
+
+/* --- Header variant: no greeting on the allocation page --- */
+.header--allocation {
+  padding-bottom: 8px;
+}
+
+/* --- Page layout --- */
+.allocation-page {
+  padding: 24px 36px 36px 24px;
+  flex: 1;
+  margin-left: 110px; /* prevents sidebar overlap, matches .dashboard */
+  display: flex;
+}
+
+.allocation-card {
+  padding: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* --- Scrollable table area --- */
+.table-scroll {
+  max-height: 560px;
+  overflow-y: auto;
+}
+
+.table-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.table-scroll::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.allocation-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.allocation-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: #fff;
+  text-align: left;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 22px 20px;
+  white-space: nowrap;
+}
+
+.allocation-table tbody td {
+  font-size: 0.85rem;
+  color: var(--text);
+  padding: 18px 20px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.allocation-table tbody tr:nth-child(odd) {
+  background: rgba(125, 160, 250, 0.08);
+}
+
+.allocation-table tbody tr:nth-child(even) {
+  background: #fff;
+}
+
+.btn-icon-edit {
+  border: none;
+  background: none;
+  color: #aaa;
+  font-size: 0.8rem;
+  cursor: pointer;
+  padding: 4px;
+  transition: color 0.2s;
+}
+
+.btn-icon-edit:hover {
+  color: var(--blue);
+}
+
+.allocation-value {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  font-weight: 600;
+}
+
+/* --- Responsive --- */
+@media (max-width: 1024px) {
+  .allocation-page {
+    margin-left: 0;
+    padding-bottom: 90px;
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+  }
+
+  .allocation-table {
+    min-width: 720px;
+  }
+}
+
+@media (max-width: 600px) {
+  .allocation-page {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

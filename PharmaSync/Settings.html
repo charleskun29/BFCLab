@@ -1,0 +1,224 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PharmaSync — Settings</title>
+
+  <!-- Font Awesome 6 — icon placeholders -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <!-- Shared dashboard styles (sidebar, header, cards) -->
+  <link rel="stylesheet" href="assets/css/dashboard.css" />
+  <!-- Settings-page-specific styles -->
+  <link rel="stylesheet" href="assets/css/settings.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       APP SHELL
+       ============================================================ -->
+  <div class="app">
+
+    <!-- SIDEBAR — pill navbar, vertically centered on left -->
+    <aside class="sidebar" aria-label="Main navigation">
+
+      <!-- Profile avatar + label (top of navbar) -->
+      <a href="Profile.html" class="sidebar__profile" aria-label="Go to Profile">
+        <div class="sidebar__avatar" title="Profile">
+          <img src="https://api.dicebear.com/7.x/fun-emoji/svg?seed=Ramtet" alt="Profile avatar" />
+        </div>
+        <span class="sidebar__profile-label">Profile</span>
+      </a>
+
+      <nav class="sidebar__nav">
+        <a href="Dashboard.html" class="sidebar__link" data-page="dashboard">
+          <i class="fa-solid fa-th-large"></i>
+          <span>Dashboard</span>
+        </a>
+        <a href="Allocation.html" class="sidebar__link" data-page="allocation">
+          <i class="fa-solid fa-sitemap"></i>
+          <span>Allocation</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="reports" aria-disabled="true">
+          <i class="fa-solid fa-chart-line"></i>
+          <span>Reports</span>
+        </a>
+        <a href="Inventory.html" class="sidebar__link" data-page="inventory">
+          <i class="fa-solid fa-shopping-bag"></i>
+          <span>Inventory</span>
+        </a>
+        <a href="#" class="sidebar__link sidebar__link--active" data-page="settings">
+          <i class="fa-solid fa-cog"></i>
+          <span>Settings</span>
+        </a>
+      </nav>
+
+      <button class="sidebar__logout" id="logout-btn" aria-label="Logout">
+        <i class="fa-solid fa-right-from-bracket"></i>
+      </button>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- HEADER — logo placeholder only -->
+      <header class="header header--settings">
+        <div class="header__brand">
+          <a href="Dashboard.html" class="header__logo" aria-label="Go to Dashboard">
+            <!-- Logo placeholder — replace with actual image later -->
+            <span class="logo-placeholder" title="Logo placeholder">
+              <i class="fa-solid fa-handshake"></i>
+            </span>
+            PharmaSync
+          </a>
+        </div>
+        <div></div>
+        <div></div>
+      </header>
+
+      <!-- SETTINGS CONTENT -->
+      <section class="settings-page" aria-label="Settings">
+        <article class="card settings-card">
+
+          <!-- LEFT: settings nav -->
+          <div class="settings-nav">
+            <h1 class="settings-nav__heading">Account Settings</h1>
+
+            <h2 class="settings-nav__subheading">Account</h2>
+
+            <ul class="settings-nav__list">
+              <li class="settings-nav__item settings-nav__item--active" data-panel="account-profile">
+                <span class="settings-nav__icon settings-nav__icon--avatar">
+                  <img src="https://api.dicebear.com/7.x/fun-emoji/svg?seed=Ramtet" alt="" />
+                </span>
+                <span class="settings-nav__label">Account Profile</span>
+                <i class="fa-solid fa-chevron-right settings-nav__chevron"></i>
+              </li>
+
+              <li class="settings-nav__item" data-panel="password">
+                <span class="settings-nav__icon">
+                  <i class="fa-solid fa-lock"></i>
+                </span>
+                <span class="settings-nav__label">Password</span>
+                <i class="fa-solid fa-chevron-right settings-nav__chevron"></i>
+              </li>
+
+              <li class="settings-nav__item settings-nav__item--danger" id="settings-logout">
+                <span class="settings-nav__icon settings-nav__icon--danger">
+                  <i class="fa-solid fa-right-from-bracket"></i>
+                </span>
+                <span class="settings-nav__label">Log out</span>
+                <i class="fa-solid fa-chevron-right settings-nav__chevron"></i>
+              </li>
+            </ul>
+          </div>
+
+          <!-- MIDDLE: settings panels -->
+          <div class="settings-panels">
+            <div class="settings-panel settings-panel--active" id="account-profile-panel">
+              <h2 class="settings-form__heading">Edit Profile</h2>
+
+              <form id="settings-form">
+                <div class="settings-field">
+                  <label class="settings-field__label" for="franchisers-name">Full franchisers name</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="text" id="franchisers-name" value="Binan Value Med" />
+                    <button type="button" class="settings-field__edit" aria-label="Edit full franchisers name">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="settings-field">
+                  <label class="settings-field__label" for="branch-id">Branch ID</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="text" id="branch-id" value="0112342111" />
+                    <button type="button" class="settings-field__edit" aria-label="Edit branch ID">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="settings-field">
+                  <label class="settings-field__label" for="settings-email">Email</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="email" id="settings-email" value="BinanValueMed@gmail.com" />
+                    <button type="button" class="settings-field__edit" aria-label="Edit email">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="settings-field">
+                  <label class="settings-field__label" for="settings-phone">Phone Number</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="text" id="settings-phone" value="091737812712" />
+                    <button type="button" class="settings-field__edit" aria-label="Edit phone number">
+                      <i class="fa-solid fa-pen"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <button type="submit" class="btn-save-changes">Save Changes</button>
+              </form>
+            </div>
+
+            <div class="settings-panel" id="password-panel" hidden>
+              <h2 class="settings-form__heading">Update Password</h2>
+              <p class="settings-panel__subtitle">Placeholder fields for password confirmation.</p>
+
+              <form id="password-form">
+                <div class="settings-field">
+                  <label class="settings-field__label" for="new-password">New Password</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="password" id="new-password" placeholder="Enter new password" />
+                    <button type="button" class="settings-field__edit settings-field__toggle" data-target="new-password" aria-label="Show new password">
+                      <i class="fa-solid fa-eye"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="settings-field">
+                  <label class="settings-field__label" for="confirm-password">Confirm Password</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="password" id="confirm-password" placeholder="Confirm new password" />
+                    <button type="button" class="settings-field__edit settings-field__toggle" data-target="confirm-password" aria-label="Show confirm password">
+                      <i class="fa-solid fa-eye"></i>
+                    </button>
+                  </div>
+                </div>
+
+                <div class="settings-field">
+                  <label class="settings-field__label" for="confirmation-gmail">Gmail for Confirmation</label>
+                  <div class="settings-field__control">
+                    <input class="settings-field__input" type="email" id="confirmation-gmail" placeholder="Enter Gmail for confirmation" />
+                  </div>
+                </div>
+
+                <button type="submit" class="btn-save-changes">Update Password</button>
+              </form>
+            </div>
+          </div>
+
+          <!-- RIGHT: avatar panel -->
+          <div class="settings-avatar">
+            <div class="settings-avatar__image">
+              <img src="https://api.dicebear.com/7.x/fun-emoji/svg?seed=Ramtet" alt="Account avatar" />
+            </div>
+            <button class="btn-change-avatar" id="change-avatar-btn">
+              <i class="fa-solid fa-camera"></i>
+              Change avatar
+            </button>
+            <button class="btn-delete-avatar" id="delete-avatar-btn">Delete avatar</button>
+          </div>
+
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/js/dashboard.js"></script>
+  <script src="assets/js/settings.js"></script>
+</body>
+</html>

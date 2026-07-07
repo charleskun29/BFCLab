@@ -25,7 +25,9 @@ function initSidebar() {
 
   links.forEach((link) => {
     link.addEventListener("click", (e) => {
-      e.preventDefault();
+      if (link.getAttribute("href") === "#") {
+        e.preventDefault();
+      }
       links.forEach((l) => l.classList.remove("sidebar__link--active"));
       link.classList.add("sidebar__link--active");
     });

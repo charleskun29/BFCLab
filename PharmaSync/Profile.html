@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PharmaSync — Profile</title>
+
+  <!-- Font Awesome 6 — icon placeholders -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <!-- Shared dashboard styles (sidebar, header, cards) -->
+  <link rel="stylesheet" href="assets/css/dashboard.css" />
+  <!-- Profile-page-specific styles -->
+  <link rel="stylesheet" href="assets/css/profile.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       APP SHELL
+       ============================================================ -->
+  <div class="app">
+
+    <!-- SIDEBAR — pill navbar, vertically centered on left -->
+    <aside class="sidebar" aria-label="Main navigation">
+
+      <!-- Profile avatar + label (top of navbar) — active on this page -->
+      <div class="sidebar__profile sidebar__profile--active">
+        <div class="sidebar__avatar" title="Profile">
+          <img src="https://api.dicebear.com/7.x/fun-emoji/svg?seed=Ramtet" alt="Profile avatar" />
+        </div>
+        <span class="sidebar__profile-label sidebar__profile-label--active">Profile</span>
+      </div>
+
+      <nav class="sidebar__nav">
+        <a href="Dashboard.html" class="sidebar__link" data-page="dashboard">
+          <i class="fa-solid fa-th-large"></i>
+          <span>Dashboard</span>
+        </a>
+        <a href="Allocation.html" class="sidebar__link" data-page="allocation">
+          <i class="fa-solid fa-sitemap"></i>
+          <span>Allocation</span>
+        </a>
+        <a href="#" class="sidebar__link" data-page="reports">
+          <i class="fa-solid fa-chart-line"></i>
+          <span>Reports</span>
+        </a>
+        <a href="Inventory.html" class="sidebar__link" data-page="inventory">
+          <i class="fa-solid fa-shopping-bag"></i>
+          <span>Inventory</span>
+        </a>
+        <a href="Settings.html" class="sidebar__link" data-page="settings">
+          <i class="fa-solid fa-cog"></i>
+          <span>Settings</span>
+        </a>
+      </nav>
+
+      <button class="sidebar__logout" id="logout-btn" aria-label="Logout">
+        <i class="fa-solid fa-right-from-bracket"></i>
+      </button>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main">
+
+      <!-- HEADER — logo placeholder + date (matches dashboard header) -->
+      <header class="header header--profile">
+        <div class="header__brand">
+          <a href="Dashboard.html" class="header__logo" aria-label="Go to Dashboard">
+            <!-- Logo placeholder — replace with actual image later -->
+            <span class="logo-placeholder" title="Logo placeholder">
+              <i class="fa-solid fa-handshake"></i>
+            </span>
+            PharmaSync
+          </a>
+        </div>
+
+        <div class="header__date" id="current-date">June 29, 2026</div>
+
+        <div class="header__actions"></div>
+      </header>
+
+      <!-- PROFILE CONTENT -->
+      <section class="profile-page" aria-label="Profile">
+
+        <!-- CARD 1: Profile summary -->
+        <article class="card profile-card">
+          <div class="profile-card__left">
+            <div class="profile-avatar">
+              <img src="https://api.dicebear.com/7.x/fun-emoji/svg?seed=Ramtet" alt="Ramtet Tantillan avatar" />
+            </div>
+            <h2 class="profile-name">Ramtet Tantillan</h2>
+            <p class="profile-email">RamtetTantillanDiteconD@gmail.com</p>
+            <button class="btn-edit-profile" id="edit-profile-btn">
+              Edit profile
+              <i class="fa-solid fa-pen"></i>
+            </button>
+          </div>
+
+          <div class="profile-card__divider"></div>
+
+          <div class="profile-card__right">
+            <div class="profile-info-col">
+              <div class="profile-field">
+                <p class="profile-field__label">Branch</p>
+                <p class="profile-field__value">Binan, Laguna Value Med</p>
+              </div>
+              <div class="profile-field">
+                <p class="profile-field__label">Address</p>
+                <p class="profile-field__value">Binan, Laguna 1003, Sto Thomas St</p>
+              </div>
+              <div class="profile-field">
+                <p class="profile-field__label">Member Status</p>
+                <p class="profile-field__value">Franchiser</p>
+              </div>
+            </div>
+
+            <div class="profile-info-col">
+              <div class="profile-field">
+                <p class="profile-field__label">Phone Number</p>
+                <p class="profile-field__value">2001-23320-1322</p>
+              </div>
+              <div class="profile-field">
+                <p class="profile-field__label">Zip Code</p>
+                <p class="profile-field__value">1003</p>
+              </div>
+            </div>
+          </div>
+        </article>
+
+        <!-- CARD 2: Contacts -->
+        <article class="card contacts-card">
+          <h2 class="card__title">Contacts</h2>
+
+          <div class="contacts-grid">
+            <div class="contact-field">
+              <p class="contact-field__label">
+                Email
+                <button class="btn-edit-field" data-field="email" aria-label="Edit email">
+                  <i class="fa-solid fa-pen"></i>
+                </button>
+              </p>
+              <p class="contact-field__value" id="contact-email">RamtetTantillanDiteconD@gmail.com</p>
+            </div>
+
+            <div class="contact-field">
+              <p class="contact-field__label">
+                Phone Number
+                <button class="btn-edit-field" data-field="phone" aria-label="Edit phone number">
+                  <i class="fa-solid fa-pen"></i>
+                </button>
+              </p>
+              <p class="contact-field__value" id="contact-phone">2001-23320-1322</p>
+            </div>
+
+            <div class="contact-field">
+              <p class="contact-field__label">
+                Password
+                <button class="btn-edit-field" data-field="password" aria-label="Edit password">
+                  <i class="fa-solid fa-pen"></i>
+                </button>
+              </p>
+              <p class="contact-field__value contact-field__value--password" id="contact-password">
+                <span class="password-mask">••••••••••••</span>
+              </p>
+            </div>
+          </div>
+        </article>
+
+      </section>
+    </main>
+  </div>
+
+  <script src="assets/js/dashboard.js"></script>
+  <script src="assets/js/profile.js"></script>
+</body>
+</html>

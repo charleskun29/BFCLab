@@ -1,0 +1,201 @@
+/* ============================================================
+   PharmaSync Profile page — styles
+   Extends dashboard.css (shared shell, sidebar, header, card, tokens)
+   ============================================================ */
+
+/* --- Sidebar: active state lives on the Profile avatar, not a nav link --- */
+.sidebar__profile--active .sidebar__avatar {
+  box-shadow: 0 0 0 3px #fff, 0 0 0 5px var(--pink);
+}
+
+.sidebar__profile-label--active {
+  color: var(--blue);
+  font-weight: 600;
+}
+
+/* --- Header variant: no greeting/export on the profile page --- */
+.header--profile {
+  padding-bottom: 8px;
+}
+
+/* --- Page layout: two stacked cards --- */
+.profile-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 24px 36px 36px 24px;
+  flex: 1;
+  margin-left: 110px; /* prevents sidebar overlap, matches .dashboard */
+}
+
+/* --- Card 1: Profile summary --- */
+.profile-card {
+  display: grid;
+  grid-template-columns: auto 1px 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.profile-card__left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 220px;
+}
+
+.profile-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #ffd9c2;
+  margin-bottom: 16px;
+}
+
+.profile-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.profile-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.profile-email {
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  margin-top: 2px;
+  margin-bottom: 18px;
+}
+
+.btn-edit-profile {
+  background: var(--blue);
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 28px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 4px 12px rgba(125, 160, 250, 0.35);
+  transition: background 0.2s, transform 0.15s;
+}
+
+.btn-edit-profile:hover {
+  background: var(--blue-dark);
+  transform: translateY(-1px);
+}
+
+.profile-card__divider {
+  align-self: stretch;
+  background: #e4e4e4;
+  width: 1px;
+}
+
+.profile-card__right {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px 24px;
+  padding-top: 4px;
+}
+
+.profile-info-col {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.profile-field__label {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+.profile-field__value {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+/* --- Card 2: Contacts --- */
+.contacts-card .card__title {
+  margin-bottom: 22px;
+}
+
+.contacts-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 26px 24px;
+}
+
+.contact-field__label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.btn-edit-field {
+  border: none;
+  background: none;
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  cursor: pointer;
+  padding: 2px;
+  transition: color 0.2s;
+}
+
+.btn-edit-field:hover {
+  color: var(--blue);
+}
+
+.contact-field__value {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.contact-field__value--password .password-mask {
+  letter-spacing: 2px;
+}
+
+/* --- Responsive --- */
+@media (max-width: 1024px) {
+  .profile-page {
+    margin-left: 0;
+    padding-bottom: 90px;
+  }
+
+  .profile-card {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-card__divider {
+    width: 100%;
+    height: 1px;
+    margin: 8px 0;
+  }
+
+  .profile-card__right {
+    grid-template-columns: 1fr;
+  }
+
+  .contacts-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .profile-page {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

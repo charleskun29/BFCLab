@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PharmaSync - Login</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Arial, sans-serif;
+    background: #fff;
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .card {
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* LEFT PANEL */
+  .left {
+    flex: 1 1 60%;
+    position: relative;
+    background: linear-gradient(160deg, #5b7ff0 0%, #6f93f2 35%, #a9c1f7 75%, #e4ecfc 100%);
+    color: #fff;
+    padding: 56px 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 28px;
+    clip-path: none;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 44px;
+    height: 44px;
+    flex-shrink: 0;
+  }
+
+  .logo-text {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+  }
+
+  .logo-text .accent {
+    color: #cfe0ff;
+  }
+
+  .hero {
+    margin-top: 28px;
+  }
+
+  .hero h1 {
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: 0.2px;
+  }
+
+  .hero p.sub {
+    margin-top: 18px;
+    font-size: 15.5px;
+    font-weight: 400;
+    line-height: 1.5;
+    max-width: 340px;
+    color: rgba(255,255,255,0.92);
+  }
+
+  .join {
+    margin-top: auto;
+    padding-bottom: 8px;
+    font-size: 13px;
+    line-height: 1.5;
+    max-width: 300px;
+    color: rgba(255,255,255,0.75);
+  }
+
+  /* wavy divider */
+  .wave {
+    position: absolute;
+    top: 0;
+    right: -1px;
+    height: 100%;
+    width: 140px;
+    z-index: 2;
+    pointer-events: none;
+    overflow: visible;
+  }
+
+  /* RIGHT PANEL */
+  .right {
+    flex: 1 1 40%;
+    padding: 72px 72px 56px 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .right .greeting h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #5b7ff0;
+    line-height: 1.4;
+  }
+
+  form {
+    margin-top: 44px;
+  }
+
+  .field {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1.5px solid #d9dee7;
+    padding: 10px 2px 12px;
+    margin-bottom: 30px;
+    transition: border-color 0.2s ease;
+  }
+
+  .field:focus-within {
+    border-bottom-color: #5b7ff0;
+  }
+
+  .field svg {
+    width: 18px;
+    height: 18px;
+    color: #9aa4b2;
+    flex-shrink: 0;
+  }
+
+  .field input {
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 15.5px;
+    color: #2d3340;
+    background: transparent;
+    font-family: inherit;
+  }
+
+  .field input::placeholder {
+    color: #a7aebb;
+  }
+
+  .login-btn {
+    width: 100%;
+    padding: 15px;
+    margin-top: 12px;
+    border: none;
+    border-radius: 999px;
+    background: #7e9df3;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 10px 24px rgba(126, 157, 243, 0.45);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+  }
+
+  .login-btn:hover {
+    background: #6f93f2;
+    transform: translateY(-1px);
+    box-shadow: 0 14px 28px rgba(126, 157, 243, 0.55);
+  }
+
+  .login-btn:active {
+    transform: translateY(0);
+  }
+
+  .register {
+    margin-top: 28px;
+    text-align: center;
+    font-size: 13.5px;
+    color: #a7aebb;
+  }
+
+  .register a {
+    color: #5b7ff0;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .register a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 760px) {
+    .card { flex-direction: column; width: 100vw; height: 100vh; }
+    .wave { display: none; }
+    .left { padding: 40px 32px; }
+    .hero h1 { font-size: 30px; }
+    .right { padding: 40px 32px; }
+    .join { margin-top: 24px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="left">
+    <svg class="wave" viewBox="0 0 140 720" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M140,0 L50,0 C10,120 120,220 80,340 C40,460 130,560 70,720 L140,720 Z" fill="#ffffff"/>
+    </svg>
+
+    <div class="logo">
+      <svg class="logo-icon" viewBox="0 0 48 48" fill="none">
+        <path d="M24 14 C19 6 8 8 6 17 C4 27 16 34 24 40 C32 34 44 27 42 17 C40 8 29 6 24 14 Z" fill="#ffffff" opacity="0.15"/>
+        <path d="M15 16 C10 16 7 20 8 25 C9 30 14 33 18 36 L20 25 L15 25 L18 16 Z" fill="#2f5fd8"/>
+        <path d="M33 16 C38 16 41 20 40 25 C39 30 34 33 30 36 L28 25 L33 25 L30 16 Z" fill="#e15b5b"/>
+      </svg>
+      <div class="logo-text">Pharma<span class="accent">Sync</span></div>
+    </div>
+
+    <div class="hero">
+      <h1>Inventory Control<br>Made Easy</h1>
+      <p class="sub">Manage products, monitor stock, and place orders in one place.</p>
+    </div>
+
+    <div class="join">
+      Join us! to start simplify inventory management and order with confidence.
+    </div>
+  </div>
+
+  <div class="right">
+    <div class="greeting">
+      <h2>Hello there!<br>Welcome to Pharmasync</h2>
+    </div>
+
+    <form onsubmit="return false;">
+      <div class="field">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+        <input type="text" placeholder="Username" autocomplete="username">
+      </div>
+
+      <div class="field">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+        <input type="password" placeholder="Password" autocomplete="current-password">
+      </div>
+
+      <button class="login-btn" type="submit">Log in</button>
+    </form>
+
+    <div class="register">
+      Dont have an account? <a href="#">Register</a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
